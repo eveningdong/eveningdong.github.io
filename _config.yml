@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Lifelong Learner"
   avatar           : "profile.png"
-  bio              : "Petuum, Inc."
-  location         : "Pittsburgh, Pennsylvania, USA"
+  bio              : #"Petuum, Inc."
+  location         : #"Pittsburgh, Pennsylvania, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"
   email            : "nanqing.dong@gmail.com"
