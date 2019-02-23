@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://nanqingd.github.io/images/bg.png" alt="drawing" width="420px"/>  
+<!-- <img src="https://nanqingd.github.io/images/bg.png" alt="drawing" width="420px"/>  --> 
 
 **About Me**
 
-I am a research engineer in [<span style="color:blue">Petuum, Inc.</span>](https://www.petuum.com/).
+I am a research engineer in Petuum, Inc..
 
-I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science (CIS), [<span style="color:blue">Cornell University</span>](http://www.cornell.edu/) in January 2017. I obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
+I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science, Cornell University in January 2017. I obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
 
 My research interests are machine learning, computer vision, and medical image analysis. In addition, I have experience on autonomous driving, computational biology and video analysis.
 
