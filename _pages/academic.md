@@ -9,7 +9,7 @@ author_profile: true
 * **Cornell University**    
   M.S. Statistical Science  
   Aug 2015 - Jan 2017  
-  Department of Statistical Science, Faculty of Computing and Information Science (CIS)  
+  Department of Statistical Science, Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://nanqingd.github.io/images/cornell.png" alt="drawing" width="160px"/></a> 
 
@@ -50,5 +50,5 @@ author_profile: true
 * **Teaching Assistant**  
   Aug 2016 - Dec 2016  
   STSCI 5060: Database Management and High Performance Computing  
-  Faculty of Computing and Information Science (CIS), Cornell University   
+  Computing and Information Science (CIS), Cornell University   
   
