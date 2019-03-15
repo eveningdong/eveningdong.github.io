@@ -23,7 +23,7 @@ author_profile: true
 ## Research Experience
 * **Research Engineer**  
   Mar 2017 - Present  
-  Topic: Machine Learning, Computer Vision, Medical Image Analysis
+  Topic: Machine Learning, Computer Vision, Medical Image Analysis  
   Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
   Petuum, Inc. 
 
