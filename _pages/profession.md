@@ -5,7 +5,7 @@ permalink: /profession/
 author_profile: true
 ---
    
-<a href="https://www.petuum.com/"><img src="https://nanqingd.github.io/images/petuum.jpg" alt="drawing" width="160px"/></a>  
+<a href="https://www.petuum.com/"><img src="https://leonndong.github.io/images/petuum.jpg" alt="drawing" width="160px"/></a>  
 * **Software Engineer, Senior**  
   Jul 2018 - Present  
   Petuum, Inc., Pittsburgh, PA 15217, USA  
