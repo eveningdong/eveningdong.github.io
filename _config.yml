@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Lifelong Learner"
 title_separator          : "-"
-name                     : &name "Nanqing Dong"
+name                     : &name "Leon N. Dong"
 description              : &description "personal description"
-url                      : https://nanqingd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leonndong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NanqingD/nanqingd.github.io"
+repository               : "leonndong/leonndong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -38,6 +38,7 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
+
   transforms:
     email                : "md5"
   generatedFields:
@@ -79,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nanqing Dong"
+  name             : "Leon N. Dong"
   avatar           : "profile.png"
   bio              : #"Petuum, Inc."
   location         : #"Pittsburgh, Pennsylvania, USA"
