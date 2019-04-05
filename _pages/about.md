@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nanqing Dong"
+title: "Leon N. Dong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ redirect_from:
 
 I am a research engineer in Petuum, Inc..
 
-I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science, Cornell University in January 2017. I obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
+I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science (CIS), Cornell University in January 2017. I obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
 
 My research interests are machine learning, computer vision, and medical image analysis. In addition, I have experience on autonomous driving, computational biology and video analysis.
 
