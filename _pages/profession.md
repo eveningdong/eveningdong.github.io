@@ -4,7 +4,7 @@ title: "Professional Experience"
 permalink: /profession/
 author_profile: true
 ---
-   
+<!--    
 <a href="https://www.petuum.com/"><img src="https://leonndong.github.io/images/petuum.jpg" alt="drawing" width="160px"/></a>  
 * **Software Engineer, Senior**  
   Jul 2018 - Present  
@@ -17,7 +17,7 @@ author_profile: true
 * **Data Scientist**  
   Mar 2017 - Jan 2018     
   Petuum, Inc., Pittsburgh, PA 15217, USA   
-
+-->
 
 ## Technical Skills
 * **Computer Science**: Machine Learning, Medical Image Analysis, Computer Vision, Natural Language Processing, Database System, Distributed System  
