@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Tech Reports
+* **Adversarial Domain Adaptation Being Aware of Class Relationships**
+  Zeya Wang, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
+
 ## Journal Papers
 ### 2019
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
