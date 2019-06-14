@@ -28,5 +28,5 @@ author_profile: true
 * **Database**: MySQL, Oracle Database  
 * **Cloud**: AWS, AliCloud, Google Cloud  
 * **Distributed System**: Hadoop, Spark  
-* **Web & Data Visualization**: JavaScript(D3, jQuery), HTML, CSS  
+* **Web & Data Visualization**: JavaScript, HTML, CSS  
 * **Operating System**: Ubuntu, CentOS, Fedora, MacOS, Windows 
