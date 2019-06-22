@@ -9,7 +9,7 @@ author_profile: true
 * **Cornell University**    
   M.S. Statistical Science  
   Aug 2015 - Jan 2017  
-  Department of Statistics and Data Science, Computing and Information Science (CIS)  
+  Department of Statistics and Data Science, Computing and Information Science       
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="160px"/></a> 
 
