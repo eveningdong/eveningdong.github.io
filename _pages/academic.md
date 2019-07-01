@@ -7,9 +7,9 @@ author_profile: true
 ## Education
 
 * **Cornell University**    
-  M.S. Statistical Science  
+  M.S. Applied Statistics  
   Aug 2015 - Jan 2017  
-  Department of Statistics and Data Science, Computing and Information Science       
+  Department of Statistical Science, Computing and Information Science       
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="160px"/></a> 
 
@@ -22,7 +22,7 @@ author_profile: true
 
 ## Research Experience
 * **Research Engineer**  
-  Mar 2017 - Present  
+  Mar 2017 - Sept 2019  
   Topic: Machine Learning, Computer Vision, Medical Image Analysis  
   Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
   Petuum, Inc. 
