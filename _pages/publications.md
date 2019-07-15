@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers
 ### 2019
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup> (**equal contribution**), Xiaodan Liang, Yujia Zhang, Eric P. Xing. IEEE Transactions on Image Processing (TIP), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/abstract/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
+   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup> (**equal contribution**), Xiaodan Liang, Yujia Zhang, Eric P. Xing. IEEE Transactions on Image Processing (TIP), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2019
@@ -20,8 +20,7 @@ author_profile: true
   Wei Dai, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing. International Conference on Learning Representation (ICLR), 2019. [[<span style="color:blue">Link</span>]](https://openreview.net/forum?id=BylQV305YQ)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1810.03264.pdf)
 
 * **Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images**  
-  Zeya Wang, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric P. Xing. IEEE International Symposium on Biomedical Imaging (ISBI), 2019. 
-  <!-- [[<span style="color:blue">PDF</span>]](https://nanqingd.github.io/files/ISBI_2019_Camera_Ready.pdf) -->
+  Zeya Wang, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric P. Xing. IEEE International Symposium on Biomedical Imaging (ISBI), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8759173)
 
 ### 2018
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
