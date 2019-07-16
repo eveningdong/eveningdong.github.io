@@ -52,3 +52,7 @@ author_profile: true
   STSCI 5060: Database Management and High Performance Computing  
   Computing and Information Science (CIS), Cornell University   
   
+## Academic Service  
+
+### Technical Reviewer    
+* MICCAI 2019: International Conference on Medical Image Computing and Computer Assisted Intervention
