@@ -11,14 +11,14 @@ author_profile: true
   Aug 2015 - Jan 2017  
   Department of Statistical Science, Computing and Information Science       
   Ithaca, NY 14853, USA  
-  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="160px"/></a> 
+  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="240px"/></a> 
 
 * **University of Liverpool**  
   B.S. (Hons) Mathematics, First Class  
   Sept 2011 - June 2015  
   Department of Mathematical Sciences, School of Physical Sciences  
   Liverpool, L69 3BX, UK  
-  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="160px"/></a> 
+  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a> 
 
 ## Research Experience
 * **Research Engineer**  
