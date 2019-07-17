@@ -6,6 +6,13 @@ author_profile: true
 ---
 ## Education
 
+* **University of Oxford**    
+  DPhil (Ph.D.) Computer Science
+  Oct 2019 - Present  
+  Department of Computer Science, Mathematical, Physical and Life Sciences Division  
+  Oxford, OX1 2JD, UK  
+  <a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
+
 * **Cornell University**    
   M.S. Applied Statistics  
   Aug 2015 - Jan 2017  
