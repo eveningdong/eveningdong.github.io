@@ -7,7 +7,7 @@ author_profile: true
 ## Education
 
 * **University of Oxford**    
-  DPhil (Ph.D.) Computer Science
+  DPhil (Ph.D.) Computer Science  
   Oct 2019 - Present  
   Department of Computer Science, Mathematical, Physical and Life Sciences Division  
   Oxford, OX1 2JD, UK  
