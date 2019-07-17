@@ -11,7 +11,7 @@ author_profile: true
   Oct 2019 - Present  
   Department of Computer Science  
   Mathematical, Physical and Life Sciences Division  
-  Oxford, OX1 2JD, UK  
+  Oxford, OX1 3QD, UK  
   <a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
 * **Cornell University**  
@@ -27,7 +27,7 @@ author_profile: true
   Sept 2011 - June 2015  
   Department of Mathematical Sciences  
   School of Physical Sciences  
-  Liverpool, L69 3BX, UK  
+  Liverpool, L69 7ZL, UK  
   <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a> 
 
 ## Research Experience
