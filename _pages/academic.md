@@ -18,7 +18,7 @@ author_profile: true
   M.S. Applied Statistics  
   Aug 2015 - Jan 2017  
   Department of Statistical Science  
-  Computing and Information Science  
+  Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="240px"/></a> 
 

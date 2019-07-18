@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers
 ### 2019
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup> (**equal contribution**), Xiaodan Liang, Yujia Zhang, Eric P. Xing. IEEE Transactions on Image Processing (TIP), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
+   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup> (equal contribution), Xiaodan Liang, Yujia Zhang, Eric P. Xing. IEEE Transactions on Image Processing (TIP), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2019
