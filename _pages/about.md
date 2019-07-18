@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://leonndong.github.io/images/bg.png" alt="drawing" width="420px"/>  
+<img src="https://leonndong.github.io/images/bg.png" alt="drawing" width="676px"/>  
 
 **About Me**
 
