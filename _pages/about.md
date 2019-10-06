@@ -12,6 +12,6 @@ redirect_from:
 
 **About Me**
 
-I am Ph.D. student in Computer Science at University of Oxford. Before that, I was a research engineer in Petuum, Inc.. I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science (CIS), Cornell University in January 2017 and obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
+I am Ph.D. student at the Department of Computer Science, Mathematical, Physical and Life Sciences (MPLS) Division, University of Oxford. Before that, I was a research engineer in Petuum, Inc., a start-up incubated by the Machine Learning Department, School of Computer Science, Carnegie Mellon University. I obtained my M.S. degree from the Department of Statistical Science, Computing and Information Science (CIS), Cornell University in January 2017 and obtained my B.S. degree from the Department of Mathematical Sciences, School of Physical Sciences, University of Liverpool in July 2015.  
 
 My research interests are machine learning, computer vision, medical image analysis, and optimization. I also have research experience on autonomous driving and computational biology.
