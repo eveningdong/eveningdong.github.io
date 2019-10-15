@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Leon N. Dong"
   avatar           : "profile_la.png"
-  bio              : #"Petuum, Inc."
-  location         : #"Pittsburgh, Pennsylvania, USA"
+  bio              : "University of Oxford"
+  location         : "Oxford, Oxfordshire, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"
-  email            : "nanqing.dong@gmail.com"
+  email            : "nanqing.dong@cs.ox.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
