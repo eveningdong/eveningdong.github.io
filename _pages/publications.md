@@ -19,7 +19,7 @@ author_profile: true
 ### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92) [[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92) [[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)  
    
 * **Toward Understanding the Impact of Staleness in Distributed Machine Learning**  
   Wei Dai, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing. International Conference on Learning Representation (ICLR), 2019. [[<span style="color:blue">Link</span>]](https://openreview.net/forum?id=BylQV305YQ)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1810.03264.pdf)
