@@ -31,36 +31,36 @@ author_profile: true
   <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a> 
 
 ## Research Experience
-* **Research Engineer**  
-  Mar 2017 - Sept 2019  
-  Topic: Machine Learning, Computer Vision, Medical Image Analysis  
-  Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
-  Petuum, Inc. 
+* **Petuum, Inc.**
+  + **Research Engineer**  
+    Mar 2017 - Sept 2019  
+    Topic: Machine Learning, Computer Vision, Medical Image Analysis  
+    Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
 
-* **Research Assistant**  
-  Jan 2016 - May 2016  
-  Topic: Tuberculosis in Rural India  
-  Supervisor: Prof. John Bunge   
-  Department of Statistical Science, Cornell University
+* **Cornell University**  
+  + **Research Assistant**, Department of Statistical Science
+    Jan 2016 - May 2016  
+    Topic: Tuberculosis in Rural India  
+    Supervisor: Prof. John Bunge   
 
-* **Research Assistant**  
-  Jan 2016 - Aug 2016  
-  Topic: Sentiment Analysis in Behavior Economics, Document Classification  
-  Supervisor: Prof. Byoung-Hyoun Hwang  
-  Dyson School of Economics, Cornell University  
+  + **Research Assistant**, Dyson School of Economics  
+    Jan 2016 - Aug 2016  
+    Topic: Sentiment Analysis in Behavior Economics, Document Classification  
+    Supervisor: Prof. Byoung-Hyoun Hwang  
 
-* **Research Assistant**  
-  June 2016 - Dec 2016  
-  Topic: Fama-Franch Models  
-  Supervisor: Prof. Scott D. Steward   
-  Johnson School of Business, Cornell University  
+  + **Research Assistant**, Johnson School of Business  
+    June 2016 - Dec 2016  
+    Topic: Fama-Franch Models  
+    Supervisor: Prof. Scott D. Steward   
 
 ## Teaching Experience
-
-* **Teaching Assistant**  
-  Aug 2016 - Dec 2016  
-  STSCI 5060: Database Management and High Performance Computing  
-  Computing and Information Science (CIS), Cornell University   
+* **University of Oxford**  
+  + **Teaching Assistant**, Keble College  
+    - Michaelmas Term 2019, Discrete Mathematics  
+    
+* **Cornell University**  
+  + **Teaching Assistant**, Department of Statistical Science  
+    - Fall Semester 2016, STSCI 5060: Database Management and High Performance Computing  
   
 ## Academic Service  
 
