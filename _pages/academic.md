@@ -7,24 +7,21 @@ author_profile: true
 ## Education
 
 * **University of Oxford**   
-  Ph.D. Computer Science  
-  Oct 2019 - Present  
+  Ph.D. Computer Science, Oct 2019 - Present  
   Department of Computer Science  
   Mathematical, Physical and Life Sciences Division  
   Oxford, OX1 3QD, UK  
   <a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
 * **Cornell University**  
-  M.S. Applied Statistics  
-  Aug 2015 - Jan 2017  
+  M.S. Applied Statistics, Aug 2015 - Jan 2017  
   Department of Statistical Science  
   Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="240px"/></a> 
 
 * **University of Liverpool**  
-  B.S. (Hons) Mathematics, First Class  
-  Sept 2011 - June 2015  
+  B.S. (Hons) Mathematics, First Class, Sept 2011 - June 2015  
   Department of Mathematical Sciences  
   School of Physical Sciences  
   Liverpool, L69 7ZL, UK  
@@ -52,7 +49,7 @@ author_profile: true
 ## Teaching Experience
 * **University of Oxford**  
   + **Teaching Assistant**, Keble College  
-    - Discrete Mathematics, MT 2019 
+    - Discrete Mathematics (Tutorials), MT 2019 
     
 * **Cornell University**  
   + **Teaching Assistant**, Department of Statistical Science  
