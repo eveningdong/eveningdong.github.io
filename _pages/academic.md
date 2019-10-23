@@ -32,35 +32,31 @@ author_profile: true
 
 ## Research Experience
 * **Petuum, Inc.**
-  + **Research Engineer**  
-    Mar 2017 - Sept 2019  
+  + **Research Engineer**, Mar 2017 - Oct 2019  
     Topic: Machine Learning, Computer Vision, Medical Image Analysis  
     Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
 
 * **Cornell University**  
-  + **Research Assistant**, Department of Statistical Science
-    Jan 2016 - May 2016  
+  + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
     Topic: Tuberculosis in Rural India  
     Supervisor: Prof. John Bunge   
 
-  + **Research Assistant**, Dyson School of Economics  
-    Jan 2016 - Aug 2016  
+  + **Research Assistant**, Dyson School of Economics, Jan 2016 - Aug 2016  
     Topic: Sentiment Analysis in Behavior Economics, Document Classification  
     Supervisor: Prof. Byoung-Hyoun Hwang  
 
-  + **Research Assistant**, Johnson School of Business  
-    June 2016 - Dec 2016  
+  + **Research Assistant**, Johnson School of Business, June 2016 - Dec 2016  
     Topic: Fama-Franch Models  
     Supervisor: Prof. Scott D. Steward   
 
 ## Teaching Experience
 * **University of Oxford**  
   + **Teaching Assistant**, Keble College  
-    - Michaelmas Term 2019, Discrete Mathematics  
+    - Discrete Mathematics, MT 2019 
     
 * **Cornell University**  
   + **Teaching Assistant**, Department of Statistical Science  
-    - Fall Semester 2016, STSCI 5060: Database Management and High Performance Computing  
+    - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
   
 ## Academic Service  
 
