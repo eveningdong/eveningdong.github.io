@@ -49,7 +49,8 @@ author_profile: true
 ## Teaching Experience
 * **University of Oxford**  
   + **Teaching Assistant**, Keble College  
-    - Discrete Mathematics (Tutorials), MT 2019 
+    - Databases (Tutorials), MT 2019  
+    - Discrete Mathematics (Tutorials), MT 2019  
     
 * **Cornell University**  
   + **Teaching Assistant**, Department of Statistical Science  

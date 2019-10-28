@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leon N. Dong"
+title: "Nanqing L. Dong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lifelong Learner"
 title_separator          : "-"
-name                     : &name "Leon N. Dong"
+name                     : &name "Nanqing Leon Dong"
 description              : &description "personal description"
 url                      : https://leonndong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leon N. Dong"
+  name             : "Nanqing L. Dong"
   avatar           : "profile_la.png"
   bio              : "University of Oxford"
   location         : "Oxford, Oxfordshire, UK"
