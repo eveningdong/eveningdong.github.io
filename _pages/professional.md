@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Experience"
-permalink: /profession/
+permalink: /professional/
 author_profile: true
 ---
 <a href="https://www.petuum.com/"><img src="https://leonndong.github.io/images/petuum.jpg" alt="drawing" width="160px"/></a>  
