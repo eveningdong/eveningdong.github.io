@@ -61,6 +61,6 @@ author_profile: true
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
   
 ## Academic Service  
-
-### Technical Reviewer    
-* MICCAI 2019: International Conference on Medical Image Computing and Computer Assisted Intervention
+* **Technical Reviewer**    
+  + IEEE Access 2019
+  + MICCAI 2019
