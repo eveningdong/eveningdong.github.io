@@ -63,4 +63,5 @@ author_profile: true
 ## Academic Service  
 * **Technical Reviewer**    
   + IEEE Access 2019
-  + MICCAI 2019
+  + IEEE Transactions on Medical Imaging 2019
+  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019
