@@ -28,23 +28,34 @@ author_profile: true
   <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a> 
 
 ## Research Experience
-* **Petuum, Inc.**
-  + **Research Engineer**, Mar 2017 - Oct 2019  
-    Topic: Machine Learning, Computer Vision, Medical Image Analysis  
-    Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai, Dr. Pengtao Xie  
+* **University of Oxford**  
+  + **PhD Student**, Department of Computer Science, Oct 2019 - Present  
+    - Quantum Machine Learning  
+    Supervisors: Prof. Bob Coecke, Dr. Irina Voiculescu  
+    
+* **Carnegie Mellon University**  
+  + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
+    - Large-scale Nonconvex Optimization  
+      Supervisors: Prof. Eric P. Xing, Dr. Wei Dai  
+    - Computer Vision:  
+      Supervisors: Prof. Eric P. Xing, Prof. Xiaodan Liang  
+    - Medical Image Analysis:  
+      Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai  
+    - Computational Biology:  
+      Supervisor: Prof. Min Xu
 
 * **Cornell University**  
   + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
-    Topic: Tuberculosis in Rural India  
-    Supervisor: Prof. John Bunge   
+    - Statistical Machine Learning for Tuberculosis Screening in Rural India  
+      Supervisor: Prof. John Bunge   
 
   + **Research Assistant**, Dyson School of Economics, Jan 2016 - Aug 2016  
-    Topic: Sentiment Analysis in Behavior Economics, Document Classification  
-    Supervisor: Prof. Byoung-Hyoun Hwang  
+    - Sentiment Analysis in Behavior Economics, Document Classification  
+      Supervisor: Prof. Byoung-Hyoun Hwang  
 
   + **Research Assistant**, Johnson School of Business, June 2016 - Dec 2016  
-    Topic: Fama-Franch Models  
-    Supervisor: Prof. Scott D. Steward   
+    - Fama-Franch Models  
+      Supervisor: Prof. Scott D. Steward   
 
 ## Teaching Experience
 * **University of Oxford**  
