@@ -72,7 +72,10 @@ author_profile: true
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
   
 ## Academic Service  
-* **Technical Reviewer**    
+* **Journal Reviewer**    
   + IEEE Access 2019
+  + IEEE Transactions on Circuits and Systems for Video Technology
   + IEEE Transactions on Medical Imaging 2019
+  
+* **Conference Reviewer**
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019
