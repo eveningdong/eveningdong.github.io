@@ -74,7 +74,7 @@ author_profile: true
 ## Academic Service  
 * **Journal Reviewer**    
   + IEEE Access 2019
-  + IEEE Transactions on Circuits and Systems for Video Technology
+  + IEEE Transactions on Circuits and Systems for Video Technology 2019
   + IEEE Transactions on Medical Imaging 2019
   
 * **Conference Reviewer**
