@@ -29,9 +29,15 @@ author_profile: true
 
 ## Research Experience
 * **University of Oxford**  
-  + **PhD Student**, Department of Computer Science, Oct 2019 - Present  
+  + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
     - Quantum Machine Learning  
-    Supervisors: Prof. Bob Coecke, Dr. Irina Voiculescu  
+    Supervisor: Prof. Bob Coecke  
+    - Computer Vision & Medical Image Analysis  
+    Supervisor: Dr. Irina Voiculescu  
+
+* **Alan Turing Institute**  
+  + **Visiting Student**, Data Science Group, Dec 2019  
+    - 3D (Point Cloud) Semantic Segmentation  
     
 * **Carnegie Mellon University**  
   + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
