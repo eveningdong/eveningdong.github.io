@@ -36,7 +36,7 @@ author_profile: true
     Supervisor: Dr. Irina Voiculescu  
 
 * **Alan Turing Institute**  
-  + **Visiting Student**, Data Science Group, Dec 2019  
+  + **Visiting Student**, Data Study Group, Dec 2019  
     - 3D (Point Cloud) Semantic Segmentation  
     
 * **Carnegie Mellon University**  
