@@ -31,7 +31,7 @@ author_profile: true
 
 * **Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images**  
   Zeya Wang, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric P. Xing.  
-  IEEE International Symposium on Biomedical Imaging (ISBI), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8759173) [[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/334428109_Ellipse_Detection_of_Optic_Disc-and-Cup_Boundary_in_Fundus_Images)
+  IEEE International Symposium on Biomedical Imaging (ISBI), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8759173)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/334428109_Ellipse_Detection_of_Optic_Disc-and-Cup_Boundary_in_Fundus_Images)
 
 ### 2018
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
