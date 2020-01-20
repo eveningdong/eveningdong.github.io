@@ -23,7 +23,7 @@ author_profile: true
 ### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92) [[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)  
    
 * **Toward Understanding the Impact of Staleness in Distributed Machine Learning**  
   Wei Dai, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing.  
@@ -40,7 +40,7 @@ author_profile: true
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong**, Eric P. Xing.  
-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning) [[<span style="color:blue">Code</span>]](https://github.com/leonndong/DAOSL)
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/leonndong/DAOSL)
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
@@ -48,7 +48,7 @@ author_profile: true
 
 * **Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling**  
   Zeya Wang, **Nanqing Dong**, Wei Dai, Sean D Rosario, Eric P. Xing.  
-  International Conference on Image Analysis and Recognition (ICIAR), 2018. (<span style="color:red">Oral</span>) [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling)
+  International Conference on Image Analysis and Recognition (ICIAR), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling)
 
 ## Workshop Papers
 ### 2018
