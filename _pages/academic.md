@@ -67,7 +67,8 @@ author_profile: true
 * **University of Oxford**  
   + **Teaching Assistant**, Department of Computer Science   
     - Databases, MT 2019  
-    - Machine Learning, MT 2019  
+    - Machine Learning, MT 2019 
+    - Imperative Programming Parts 1 and 2, HT 2020 
 
   + **Teaching Assistant**, Keble College  
     - Databases, MT 2019  
