@@ -4,8 +4,8 @@ title: "Personal Interests"
 permalink: /interests/
 author_profile: true
 ---
-
-## Courses (University of Oxford)  
+## Courses  
+<a><img src="https://leonndong.github.io/images/oxford.png" alt="drawing" width="160px"/></a>  
 * **Michaelmas Term 2019**  
   + [<span style="color:blue">Quantum Computer Science</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/quantum/), Department of Computer Science  
   

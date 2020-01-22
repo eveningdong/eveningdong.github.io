@@ -5,7 +5,6 @@ permalink: /academic/
 author_profile: true
 ---
 ## Education
-
 * **University of Oxford**   
   Ph.D. Computer Science, Oct 2019 - Present  
   Department of Computer Science  
