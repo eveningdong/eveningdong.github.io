@@ -18,8 +18,8 @@ author_profile: true
   Petuum, Inc., Pittsburgh, PA 15217, USA   
 
 ## Technical Skills
-* **Computer Science**: Machine Learning, Medical Image Analysis, Computer Vision, Natural Language Processing, Database System, Distributed System  
-* **Statistical Science**: Data Mining, Financial Engineering, Stochastic Process, Queue Theory, Convex Optimization  
+<!-- * **Computer Science**: Machine Learning, Medical Image Analysis, Computer Vision, Natural Language Processing, Database System, Distributed System  
+* **Statistical Science**: Data Mining, Financial Engineering, Stochastic Process, Queue Theory, Convex Optimization   -->
 * **Programming**: Python, Java, MATLAB, Octave, Julia, C/C++  
 * **Analytics Tools**: R, SAS  
 * **Deep Learning Framework**: Caffe, TensorFlow, Torch, PyTorch, Keras, CUDA   
