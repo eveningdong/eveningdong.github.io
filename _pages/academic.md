@@ -77,6 +77,10 @@ author_profile: true
   + **Teaching Assistant**, Department of Statistical Science  
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
   
+## Academic Awards  
+* **President's PhD Scholarship**, Imperial College London, 2019 - 2023 (Declined)   
+* **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
+
 ## Academic Service  
 * **Journal Reviewer**    
   + IEEE Access 2019
