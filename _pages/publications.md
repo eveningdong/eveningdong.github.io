@@ -9,10 +9,9 @@ author_profile: true
 
 
 ## Journal Papers
-### 2019
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup> (equal contribution), Xiaodan Liang, Yujia Zhang, Eric P. Xing.  
-  IEEE Transactions on Image Processing (TIP), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
+  IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2020
@@ -51,7 +50,6 @@ author_profile: true
   International Conference on Image Analysis and Recognition (ICIAR), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling)
 
 ## Workshop Papers
-### 2018
 * **Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.11113.pdf)
