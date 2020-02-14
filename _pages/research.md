@@ -4,7 +4,7 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.jpg" alt="drawing" height="20px"/></a>
+<a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.jpg" alt="drawing" height="30px"/></a>
 * **University of Oxford**  
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
     - Quantum Machine Learning  
@@ -12,7 +12,7 @@ author_profile: true
     - Computer Vision & Medical Image Analysis  
     Supervisor: Dr. Irina Voiculescu  
 
-<a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" height="20px"/></a> 
+<a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" height="30px"/></a> 
 * **Alan Turing Institute**  
   + **Visiting Student**, Data Study Group, Dec 2019  
     - 3D (Point Cloud) Semantic Segmentation  
