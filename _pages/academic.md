@@ -17,50 +17,14 @@ author_profile: true
   Department of Statistical Science  
   Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
-  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="240px"/></a> 
+  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
 
 * **University of Liverpool**  
   B.S. (Hons) Mathematics, First Class, Sept 2011 - June 2015  
   Department of Mathematical Sciences  
   School of Physical Sciences  
   Liverpool, L69 7ZL, UK  
-  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a> 
-
-## Research Experience
-* **University of Oxford**  
-  + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
-    - Quantum Machine Learning  
-    Supervisor: Prof. Bob Coecke  
-    - Computer Vision & Medical Image Analysis  
-    Supervisor: Dr. Irina Voiculescu  
-
-* **Alan Turing Institute**  
-  + **Visiting Student**, Data Study Group, Dec 2019  
-    - 3D (Point Cloud) Semantic Segmentation  
-    
-* **Carnegie Mellon University**  
-  + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
-    - Large-scale Nonconvex Optimization  
-      Supervisors: Prof. Eric P. Xing, Dr. Wei Dai  
-    - Computer Vision:  
-      Supervisors: Prof. Eric P. Xing, Prof. Xiaodan Liang  
-    - Medical Image Analysis:  
-      Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai  
-    - Computational Biology:  
-      Supervisor: Prof. Min Xu
-
-* **Cornell University**  
-  + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
-    - Statistical Machine Learning for Tuberculosis Screening in Rural India  
-      Supervisor: Prof. John Bunge   
-
-  + **Research Assistant**, Dyson School of Economics, Jan 2016 - Aug 2016  
-    - Sentiment Analysis in Behavior Economics, Document Classification  
-      Supervisor: Prof. Byoung-Hyoun Hwang  
-
-  + **Research Assistant**, Johnson School of Business, June 2016 - Dec 2016  
-    - Fama-Franch Models  
-      Supervisor: Prof. Scott D. Steward   
+  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>  
 
 ## Teaching Experience
 * **University of Oxford**  

@@ -6,6 +6,9 @@ main:
   - title: "Academic Experience"
     url: /academic/
 
+  - title: "Research Experience"
+    url: /research/
+
   - title: "Professional Experience"
     url: /professional/    
 
