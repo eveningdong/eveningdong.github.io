@@ -29,7 +29,7 @@ author_profile: true
     - Computational Biology:  
       Supervisor: Prof. Min Xu
 
-<a href="https://www.cornell.edu/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" height="20px"/></a>  
+<a href="https://www.cornell.edu/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="600px"/></a>  
 * **Cornell University**  
   + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
     - Statistical Machine Learning for Tuberculosis Screening in Rural India  
