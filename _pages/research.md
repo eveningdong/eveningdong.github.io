@@ -12,12 +12,12 @@ author_profile: true
     - Computer Vision & Medical Image Analysis  
     Supervisor: Dr. Irina Voiculescu  
 
-<a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" width="240px"/></a> 
+<a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
 * **Alan Turing Institute**  
   + **Visiting Student**, Data Study Group, Dec 2019  
     - 3D (Point Cloud) Semantic Segmentation  
 
-<a href="https://www.ml.cmu.edu/"><img src="https://leonndong.github.io/images/cmu.png" alt="drawing" width="360px"/></a>  
+<a href="https://www.ml.cmu.edu/"><img src="https://leonndong.github.io/images/cmu.png" alt="drawing" width="480px"/></a>  
 * **Carnegie Mellon University**  
   + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
     - Large-scale Nonconvex Optimization  
