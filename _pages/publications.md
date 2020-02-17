@@ -17,7 +17,7 @@ author_profile: true
 ### 2020
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
   Zeya Wang, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing.  
-  European Conference on Aritifical Inteligence (ECAI), 2020. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
+  European Conference on Aritifical Inteligence (ECAI), 2020. (<span style="color:red">Oral</span>)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
   
 ### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
