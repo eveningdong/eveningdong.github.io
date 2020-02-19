@@ -52,4 +52,4 @@ author_profile: true
   + IEEE Transactions on Medical Imaging 2019-2020
   
 * **Conference Reviewer**
-  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019
+  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2020
