@@ -10,7 +10,7 @@ author_profile: true
     - Quantum Machine Learning  
     Supervisor: Prof. Bob Coecke  
     - Computer Vision & Medical Image Analysis  
-    Supervisor: Dr. Irina Voiculescu  
+    Supervisor: Prof. Irina Voiculescu  
 
 <a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
 * **Alan Turing Institute**  
