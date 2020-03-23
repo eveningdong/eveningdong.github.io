@@ -13,3 +13,11 @@ author_profile: true
   + [<span style="color:blue">Advanced Topics in Machine Learning</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/advml/), Department of Computer Science  
   + [<span style="color:blue">Quantum Information</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/qi/), Department of Computer Science  
   + [<span style="color:blue">Introduction to Quantum Information</span>](https://www.arturekert.com/quantum), Mathematical Institute  
+
+
+## Societies
+<a><img src="https://leonndong.github.io/images/qis.jpg" alt="drawing" width="160px"/></a>  
+* **Oxford Quantum Information Society <Qu|In|Soc>**  
+  Life Member / Publicity Officer (Mar 2020 - Present)  
+  [<span style="color:blue">Website</span>](https://quantum-information-society.webnode.co.uk/)  
+  [<span style="color:blue">Facebook</span>](https://www.facebook.com/quantuminfosoc/)  
