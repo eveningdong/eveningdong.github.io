@@ -7,10 +7,10 @@ author_profile: true
 <a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.jpg" alt="drawing" width="240px"/></a>
 * **University of Oxford**  
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
-    - Quantum Machine Learning  
-    Supervisor: Prof. Bob Coecke  
-    - Computer Vision & Medical Image Analysis  
+    - Computer Vision  
     Supervisor: Prof. Irina Voiculescu  
+    - Quantum Machine Learning  
+    Supervisor: [<span style="color:blue">Prof. Bob Coecke</span>](https://scholar.google.com/citations?user=fO17CXgAAAAJ&hl=en)  
 
 <a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
 * **Alan Turing Institute**  
@@ -21,13 +21,13 @@ author_profile: true
 * **Carnegie Mellon University**  
   + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
     - Large-scale Nonconvex Optimization  
-      Supervisors: Prof. Eric P. Xing, Dr. Wei Dai  
+      Supervisors: [<span style="color:blue">Prof. Eric P. Xing</span>](https://scholar.google.com/citations?user=5pKTRxEAAAAJ&hl=en), [<span style="color:blue">Dr. Wei Dai</span>](https://scholar.google.com/citations?user=M9oUY4cAAAAJ&hl=en)  
     - Computer Vision:  
-      Supervisors: Prof. Eric P. Xing, Prof. Xiaodan Liang  
+      Supervisors: Prof. Eric P. Xing, [<span style="color:blue">Prof. Xiaodan Liang</span>](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en)  
     - Medical Image Analysis:  
-      Supervisors: Prof. Eric P. Xing, Prof. Min Xu, Prof. Xiaodan Liang, Dr. Wei Dai  
+      Supervisors: Prof. Eric P. Xing, Prof. Xiaodan Liang, [<span style="color:blue">Prof. Min Xu</span>](https://scholar.google.com/citations?user=Y3Cqt0cAAAAJ&hl=en), Dr. Wei Dai  
     - Computational Biology:  
-      Supervisor: Prof. Min Xu
+      Supervisor: Prof. Min Xu  
 
 <a href="https://www.cornell.edu/"><img src="https://leonndong.github.io/images/cornell.png" alt="drawing" width="360px"/></a>  
 * **Cornell University**  
@@ -37,7 +37,7 @@ author_profile: true
 
   + **Research Assistant**, Dyson School of Economics, Jan 2016 - Aug 2016  
     - Sentiment Analysis in Behavior Economics, Document Classification  
-      Supervisor: Prof. Byoung-Hyoun Hwang  
+      Supervisor: [<span style="color:blue">Prof. Byoung-Hyoun Hwang</span>](https://scholar.google.com/citations?hl=en&user=X4WN_d0AAAAJ)  
 
   + **Research Assistant**, Johnson School of Business, June 2016 - Dec 2016  
     - Fama-Franch Models  
