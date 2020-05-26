@@ -10,7 +10,7 @@ author_profile: true
     - Computer Vision  
     Supervisor: Prof. Irina Voiculescu  
     - Quantum Machine Learning  
-    Supervisor: [<span style="color:blue">Prof. Bob Coecke</span>](https://scholar.google.com/citations?user=fO17CXgAAAAJ&hl=en)  
+    Supervisor: [<span style="color:blue">Prof. Aleks Kissinger</span>](https://scholar.google.com/citations?user=znjzEpUAAAAJ&hl=en)  
 
 <a href="https://www.turing.ac.uk/"><img src="https://leonndong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
 * **Alan Turing Institute**  
