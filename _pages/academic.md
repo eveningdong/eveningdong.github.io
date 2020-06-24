@@ -10,21 +10,21 @@ author_profile: true
   Department of Computer Science  
   Mathematical, Physical and Life Sciences Division  
   Oxford, OX1 3QD, UK  
-  <a href="http://www.cs.ox.ac.uk/"><img src="https://leonndong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
+  <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
 * **Cornell University**  
   M.S. Applied Statistics, Aug 2015 - Jan 2017  
   Department of Statistical Science  
   Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
-  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://leonndong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
+  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
 
 * **University of Liverpool**  
   B.S. (Hons) Mathematics, First Class, Sept 2011 - June 2015  
   Department of Mathematical Sciences  
   School of Physical Sciences  
   Liverpool, L69 7ZL, UK  
-  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://leonndong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>  
+  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://eveningdong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>  
 
 ## Teaching Experience
 * **University of Oxford**  
