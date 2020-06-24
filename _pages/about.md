@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://eveningndong.github.io/images/bg.png" alt="drawing" width="676px"/>  
+<img src="https://eveningdong.github.io/images/bg.png" alt="drawing" width="676px"/>  
 
 **About Me**
 
