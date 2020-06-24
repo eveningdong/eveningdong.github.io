@@ -39,7 +39,7 @@ author_profile: true
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong**, Eric P. Xing.  
-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/leonndong/DAOSL)
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
