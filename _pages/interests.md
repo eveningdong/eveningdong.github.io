@@ -20,4 +20,9 @@ author_profile: true
 * **Oxford Quantum Information Society <Qu|In|Soc>**  
   Life Member / Publicity Officer (Mar 2020 - Present)  
   [<span style="color:blue">Website</span>](https://quantum-information-society.webnode.co.uk/)  
-  [<span style="color:blue">Facebook</span>](https://www.facebook.com/quantuminfosoc/)  
+  [<span style="color:blue">Facebook</span>](https://www.facebook.com/quantuminfosoc/)
+
+
+## Languages
+* **French**  
+  Beginner (CEFR A1)
