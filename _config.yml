@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Lifelong Learner"
 title_separator          : "-"
-name                     : &name "Nanqing Leon Dong"
+name                     : &name "Nanqing Dong"
 description              : &description "personal description"
 url                      : https://leonndong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nanqing L. Dong"
-  avatar           : "profile_la.png"
+  name             : "Nanqing Dong"
+  avatar           : "profile.png"
   bio              : "University of Oxford"
   location         : "Oxford, Oxfordshire, UK"
   employer         :
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leonndong"
+  github           : "eveningdong"
   google_plus      :
   keybase          :
   instagram        : #"the_evening_of_lodi"
   lastfm           :
-  linkedin         : "nanqing-dong-7ba91ab7"
+  linkedin         : #"nanqing-dong-7ba91ab7"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
