@@ -7,7 +7,7 @@ author_profile: true
 <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" width="240px"/></a>
 * **University of Oxford**  
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
-    - Computer Vision  
+    - Machine Learning  
     Supervisor: Prof. Irina Voiculescu  
     - Quantum Machine Learning  
     Supervisor: [<span style="color:blue">Prof. Aleks Kissinger</span>](https://scholar.google.com/citations?user=znjzEpUAAAAJ&hl=en)  
