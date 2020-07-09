@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Experience"
-permalink: /professional/
+permalink: /work/
 author_profile: true
 ---
 <a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="160px"/></a>  
