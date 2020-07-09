@@ -12,7 +12,7 @@ author_profile: true
     - Quantum Machine Learning  
     Supervisor: [<span style="color:blue">Prof. Aleks Kissinger</span>](https://scholar.google.com/citations?user=znjzEpUAAAAJ&hl=en)  
 
-<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.jpg" alt="drawing" width="240px"/></a>  
+<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="240px"/></a>  
 * **Amazon Development Center**  
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     -  
