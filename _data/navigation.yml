@@ -11,3 +11,7 @@ main:
 
   - title: "Personal Interests"
     url: /interests/    
+
+  - title: "Work Experience"
+    url: /work/
+
