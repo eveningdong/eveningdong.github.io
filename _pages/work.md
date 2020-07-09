@@ -4,7 +4,8 @@ title: "Work Experience"
 permalink: /work/
 author_profile: true
 ---
-<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="160px"/></a>  
+
+<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="145px"/></a>  
 * **Applied Scientist Intern**  
   Jul 2020 - Oct 2020  
   Amazon Development Center, Tübingen, Germany  
@@ -25,7 +26,7 @@ author_profile: true
 ## Technical Skills  
 * **Programming**: C/C++, Java, Python  
 * **Analytics Tools**: MATLAB, Julia, Octave, R, SAS  
-* **Deep Learning Framework**: CUDA, Caffe, TensorFlow, Torch, PyTorch  
+* **Deep Learning Framework**: Caffe, TensorFlow, Torch, PyTorch  
 * **Quantum Computing Framework**: Cirq, PennyLane, Qiskit  
 * **Database**: MySQL, Oracle Database  
 * **Cloud**: AWS, AliCloud, Google Cloud  
