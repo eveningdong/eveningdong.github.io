@@ -10,7 +10,7 @@ author_profile: true
   Jul 2020 - Oct 2020  
   Amazon Development Center, Tübingen, Germany  
 
-<a href="https://www.petuum.com/"><img src="https://eveningdong.github.io/images/petuum.png" alt="drawing" width="160px"/></a>  
+<a href="https://www.petuum.com/"><img src="https://eveningdong.github.io/images/petuum.png" alt="drawing" width="180px"/></a>  
 * **Software Engineer, Senior**  
   Jul 2018 - Oct 2019  
   Petuum, Inc., Pittsburgh, USA  
