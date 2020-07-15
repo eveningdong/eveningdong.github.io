@@ -15,14 +15,21 @@ author_profile: true
   + [<span style="color:blue">Introduction to Quantum Information</span>](https://www.arturekert.com/quantum), Mathematical Institute  
 
 
+## Languages  
+* **French**  
+  Beginner (CEFR A1)
+
+
+## Games
+* **Resident Evil**  
+My favourite video game franchise. I am deeply influenced by the relationship between [<span style="color:blue">Leon Scott Kennedy</span>](https://residentevil.fandom.com/wiki/Leon_Scott_Kennedy) and [<span style="color:blue">Ada Wong</span>](https://residentevil.fandom.com/wiki/Ada_Wong).  
+<a><img src="https://eveningdong.github.io/images/re.gif"/></a>  
+
+
+
 ## Societies
 <a><img src="https://eveningdong.github.io/images/qis.jpg" alt="drawing" width="160px"/></a>  
 * **Oxford University Quantum Information Society <Qu|In|Soc>**  
   Life Member / Publicity Officer (Mar 2020 - Present)  
   [<span style="color:blue">Website</span>](https://quantum-information-society.webnode.co.uk/)  
   [<span style="color:blue">Facebook</span>](https://www.facebook.com/quantuminfosoc/)
-
-
-## Languages
-* **French**  
-  Beginner (CEFR A1)
