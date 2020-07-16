@@ -5,6 +5,7 @@ permalink: /interests/
 author_profile: true
 ---
 ## Courses  
+Here are some useful courses.  
 <a><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a>  
 * **Michaelmas Term 2019**  
   + [<span style="color:blue">Quantum Computer Science</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/quantum/), Department of Computer Science  
@@ -21,10 +22,17 @@ author_profile: true
 
 
 ## Games
+* **Hearts of Iron**  
+[<span style="color:blue">Hearts of Iron</span>](http://en.wikipedia.org/wiki/Hearts_of_Iron) is the best grand strategy game franchise I have ever seen.  
+<a><img src="https://eveningdong.github.io/images/hoi.jpg"  alt="drawing" width="360px"/></a>  
+
 * **Resident Evil**  
-My favourite video game franchise. I am deeply influenced by the relationship between [<span style="color:blue">Leon Scott Kennedy</span>](https://residentevil.fandom.com/wiki/Leon_Scott_Kennedy) and [<span style="color:blue">Ada Wong</span>](https://residentevil.fandom.com/wiki/Ada_Wong).  
+[<span style="color:blue">Resident Evil</span>](https://residentevil.fandom.com) is my favourite action-adventure game franchise. I am deeply influenced by the relationship between [<span style="color:blue">Leon Scott Kennedy</span>](https://residentevil.fandom.com/wiki/Leon_Scott_Kennedy) and [<span style="color:blue">Ada Wong</span>](https://residentevil.fandom.com/wiki/Ada_Wong).  
 <a><img src="https://eveningdong.github.io/images/re.gif"/></a>  
 
+* **Romance of the Three Kingdoms**  
+[<span style="color:blue">Romance of the Three Kingdoms</span>](https://koei.fandom.com/wiki/Romance_of_the_Three_Kingdoms_(series)) is my favourite historical strategy game franchise.  
+<a><img src="https://eveningdong.github.io/images/rotk.jpeg" alt="drawing" width="360px"/></a>  
 
 
 ## Societies
