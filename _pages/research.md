@@ -15,7 +15,7 @@ author_profile: true
 <a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="240px"/></a>  
 * **Amazon Development Center**  
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
-    -  
+    - Noise-Contrastive Unsupervised Representation Learning  
       Supervisor: Dr. Luitpold Staudigl
 
 <a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
