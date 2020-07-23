@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/ 
-
   - title: "Academic Experience"
     url: /academic/
 
-  - title: "Research Experience"
-    url: /research/
-
   - title: "Personal Interests"
     url: /interests/    
+
+  - title: "Publications"
+    url: /publications/ 
+
+  - title: "Research Experience"
+    url: /research/
 
   - title: "Work Experience"
     url: /work/
