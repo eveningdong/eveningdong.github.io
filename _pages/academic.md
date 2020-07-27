@@ -46,7 +46,7 @@ author_profile: true
 * **President's PhD Scholarship**, Imperial College London, 2019 - 2023 (Declined)   
 
 ## Academic Service  
-* **Journal Reviewer (Invited)**    
+* **Journal Reviewer**    
   + IEEE Access 2019
   + IEEE Transactions on Circuits and Systems for Video Technology 2019-2020
   + IEEE Transactions on Medical Imaging 2019-2020  
