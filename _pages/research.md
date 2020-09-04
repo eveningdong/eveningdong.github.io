@@ -16,7 +16,7 @@ author_profile: true
 * **Amazon Development Center**  
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     - Noise-Contrastive Unsupervised Representation Learning  
-      Supervisor: Dr. Luitpold Staudigl
+      Supervisor: Dr. Luitpold Staudigl, Dr. Jochen Gast   
 
 <a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" width="188px"/></a> 
 * **Alan Turing Institute**  
