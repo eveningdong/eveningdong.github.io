@@ -56,5 +56,6 @@ author_profile: true
   + IEEE Transactions on Neural Networks and Learning Systems 2020  
   + Pattern Recognition 2020  
   
-* **Conference Reviewer**
+* **Conference Reviewer**  
+  + ICPR: International Conference on Pattern Recognition 2020   
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2020
