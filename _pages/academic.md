@@ -46,7 +46,7 @@ author_profile: true
 * **President's PhD Scholarship**, Imperial College London, 2019 - 2023 (Declined)   
 
 ## Academic Service  
-* **Program Committee Members**  
+* **Program Committee Member**  
   + AAAI Conference on Artificial Intelligence 2021
   
 * **Journal Reviewer**    
