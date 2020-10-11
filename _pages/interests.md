@@ -8,13 +8,15 @@ author_profile: true
 Here are some useful courses.  
 <a><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a>  
 * **Michaelmas Term 2019**  
-  + [<span style="color:blue">Quantum Computer Science</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/quantum/), Department of Computer Science  
+  + [<span style="color:blue">Quantum Computer Science</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/quantum), Department of Computer Science  
   
 * **Hilary Term 2020**  
-  + [<span style="color:blue">Advanced Topics in Machine Learning</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/advml/), Department of Computer Science  
-  + [<span style="color:blue">Quantum Information</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/qi/), Department of Computer Science  
+  + [<span style="color:blue">Advanced Topics in Machine Learning</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/advml), Department of Computer Science  
+  + [<span style="color:blue">Quantum Information</span>](https://www.cs.ox.ac.uk/teaching/courses/2019-2020/qi), Department of Computer Science  
   + [<span style="color:blue">Introduction to Quantum Information</span>](https://www.arturekert.com/quantum), Mathematical Institute  
 
+* **Michaelmas Term 2020**  
+  + [<span style="color:blue">Bayesian Statistical Probabilistic Programming</span>](http://www.cs.ox.ac.uk/teaching/courses/2020-2021/SPP), Department of Computer Science  
 
 ## Languages  
 * **French**  
