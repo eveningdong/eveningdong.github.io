@@ -4,25 +4,25 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" height="90px"/></a>
+<a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" height="90"/></a>
 * **University of Oxford**  
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
     - Machine Learning, Computer Vision, Quantum Computing  
     Supervisor: Prof. Irina Voiculescu  
     Supervisor:   
 
-<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" height="90px"/></a>  
+<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" height="90"/></a>  
 * **Amazon Development Center**  
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     - Noise-Contrastive Unsupervised Representation Learning  
       Supervisor: Dr. Luitpold Staudigl, [<span style="color:blue">Prof. Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)   
 
-<a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" height="90px"/></a> 
+<a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" height="90"/></a> 
 * **Alan Turing Institute**  
   + **Visiting Student**, Data Study Group, Dec 2019  
     - 3D (Point Cloud) Semantic Segmentation  
 
-<a href="https://www.ml.cmu.edu/"><img src="https://eveningdong.github.io/images/cmu.png" alt="drawing" height="90px"/></a>  
+<a href="https://www.ml.cmu.edu/"><img src="https://eveningdong.github.io/images/cmu.png" alt="drawing" height="90"/></a>  
 * **Carnegie Mellon University**  
   + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
     - Large-scale Nonconvex Optimization  
@@ -34,7 +34,7 @@ author_profile: true
     - Computational Biology:  
       Supervisor: Prof. Min Xu  
 
-<a href="https://www.cornell.edu/"><img src="https://eveningdong.github.io/images/cornell.png" alt="drawing" height="90px"/></a>  
+<a href="https://www.cornell.edu/"><img src="https://eveningdong.github.io/images/cornell.png" alt="drawing" height="90"/></a>  
 * **Cornell University**  
   + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
     - Statistical Machine Learning for Tuberculosis Screening in Rural India  
