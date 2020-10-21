@@ -4,14 +4,13 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" height="36"/></a>
+<a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="width:263px;height:90px;"/></a>
 * **University of Oxford**  
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
     - Machine Learning, Computer Vision, Quantum Computing  
-    Supervisor: Prof. Irina Voiculescu  
-    Supervisor:   
+    Supervisor: Prof. Irina Voiculescu   
 
-<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" height="36"/></a>  
+<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="width:300px;height:90px;"/></a>  
 * **Amazon Development Center**  
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     - Noise-Contrastive Unsupervised Representation Learning  
