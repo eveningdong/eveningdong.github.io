@@ -5,12 +5,12 @@ permalink: /work/
 author_profile: true
 ---
 
-<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" width="160px"/></a>  
+<a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
 * **Applied Scientist Intern**  
   Jul 2020 - Oct 2020  
   Amazon Development Center, Tübingen, Germany  
 
-<a href="https://www.petuum.com/"><img src="https://eveningdong.github.io/images/petuum.png" alt="drawing" width="180px"/></a>  
+<a href="https://www.petuum.com/"><img src="https://eveningdong.github.io/images/petuum.png" alt="drawing" style="height:80px;"/></a>  
 * **Software Engineer, Senior**  
   Jul 2018 - Oct 2019  
   Petuum, Inc., Pittsburgh, USA  
