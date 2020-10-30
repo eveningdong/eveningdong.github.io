@@ -59,3 +59,6 @@ author_profile: true
 * **Conference Reviewer**  
   + ICPR: International Conference on Pattern Recognition 2020   
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2020
+
+* **Student Ambassador**  
+  + Computer Science Student Ambassador, University of Oxford  
