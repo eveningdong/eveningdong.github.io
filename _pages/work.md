@@ -5,7 +5,7 @@ permalink: /work/
 author_profile: true
 ---
 
-<a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.jpg" alt="drawing" style="height:80px;"/></a>  
+<a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Research Intern**  
   Nov 2020 - Apr 2021  
   Huawei Technologies Research and Development (UK) Limited, London, UK  
