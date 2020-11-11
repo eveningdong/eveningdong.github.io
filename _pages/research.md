@@ -10,7 +10,7 @@ author_profile: true
     - Machine Learning, Computer Vision, Quantum Computing  
     Supervisor: Prof. Irina Voiculescu   
 
-<a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
+<a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.jpg" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
   + **Research Intern**, Nov 2020 - Apr 2021  
     - Multi-Task Learning for Cameras    
