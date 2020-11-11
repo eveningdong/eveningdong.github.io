@@ -5,24 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
-* **University of Oxford**  
+* **University of Oxford**, Oxford, England, United Kingdom     
   + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
     - Machine Learning, Computer Vision, Quantum Computing  
     Supervisor: Prof. Irina Voiculescu   
 
+<a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
+* **Huawei Noah's Ark Lab**, London, England, United Kingdom  
+  + **Research Intern**, Nov 2020 - Apr 2021  
+    - Multi-Task Learning for Cameras    
+      Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)  
+
 <a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
-* **Amazon Development Center**  
+* **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany    
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     - Noise-Contrastive Unsupervised Representation Learning  
-      Supervisor: Dr. Luitpold Staudigl, [<span style="color:blue">Prof. Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)   
+      Supervisors: Dr. Luitpold Staudigl, [<span style="color:blue">Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)   
 
 <a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" style="height:80px;"/></a> 
-* **Alan Turing Institute**  
+* **Alan Turing Institute**, London, England, United Kingdom    
   + **Visiting Student**, Data Study Group, Dec 2019  
     - 3D (Point Cloud) Semantic Segmentation  
 
 <a href="https://www.ml.cmu.edu/"><img src="https://eveningdong.github.io/images/cmu.png" alt="drawing" style="height:80px;"/></a>  
-* **Carnegie Mellon University**  
+* **Carnegie Mellon University**, Pittsburgh, Pennsylvania, United States  
   + **Visiting Researcher**, Machine Learning Department, Mar 2017 - Oct 2018  
     - Large-scale Nonconvex Optimization  
       Supervisors: [<span style="color:blue">Prof. Eric P. Xing</span>](https://scholar.google.com/citations?user=5pKTRxEAAAAJ&hl=en), [<span style="color:blue">Dr. Wei Dai</span>](https://scholar.google.com/citations?user=M9oUY4cAAAAJ&hl=en)  
@@ -34,7 +40,7 @@ author_profile: true
       Supervisor: Prof. Min Xu  
 
 <a href="https://www.cornell.edu/"><img src="https://eveningdong.github.io/images/cornell.svg" alt="drawing" style="height:80px;"/></a>  
-* **Cornell University**  
+* **Cornell University**, Ithaca, New York, United States  
   + **Research Assistant**, Department of Statistical Science, Jan 2016 - May 2016    
     - Statistical Machine Learning for Tuberculosis Screening in Rural India  
       Supervisor: Prof. John Bunge   
