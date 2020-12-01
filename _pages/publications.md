@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ## Tech Reports -->
+## Tech Reports
+* **Towards Robust Medical Image Segmentation on Small-Scale Data with Incomplete Labels**  
+  **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Irina Voiculescu, Eric P. Xing.  
+  Preprint, 2020. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/346510510_Towards_Robust_Medical_Image_Segmentation_on_Small-Scale_Data_with_Incomplete_Labels)
 
 
 ## Journal Papers
