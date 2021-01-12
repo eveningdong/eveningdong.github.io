@@ -49,7 +49,7 @@ author_profile: true
 * **Program Committee Member**  
   + AAAI Conference on Artificial Intelligence 2021
   
-* **Journal Reviewer**    
+* **Journal Reviewer**  
   + IEEE Access 2019
   + IEEE Transactions on Circuits and Systems for Video Technology 2019-2020
   + IEEE Transactions on Medical Imaging 2019-2021  
@@ -57,6 +57,7 @@ author_profile: true
   + Pattern Recognition 2020-2021  
   
 * **Conference Reviewer**  
+  + ICCV: International Conference on Computer Vision 2021  
   + ICPR: International Conference on Pattern Recognition 2020   
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2021
 
