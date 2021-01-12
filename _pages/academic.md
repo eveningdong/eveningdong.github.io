@@ -46,20 +46,18 @@ author_profile: true
 * **President's PhD Scholarship**, Imperial College London, 2019 - 2023 (Declined)   
 
 ## Academic Service  
-* **Program Committee Member**  
-  + AAAI Conference on Artificial Intelligence 2021
-  
+* **Conference Reviewer**  
+  + AAAI Conference on Artificial Intelligence 2021  
+  + ICCV: International Conference on Computer Vision 2021  
+  + ICPR: International Conference on Pattern Recognition 2020  
+  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2021  
+
 * **Journal Reviewer**  
   + IEEE Access 2019
   + IEEE Transactions on Circuits and Systems for Video Technology 2019-2020
   + IEEE Transactions on Medical Imaging 2019-2021  
   + IEEE Transactions on Neural Networks and Learning Systems 2020-2021  
   + Pattern Recognition 2020-2021  
-  
-* **Conference Reviewer**  
-  + ICCV: International Conference on Computer Vision 2021  
-  + ICPR: International Conference on Pattern Recognition 2020   
-  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019-2021
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
