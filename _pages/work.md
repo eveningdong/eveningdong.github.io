@@ -9,7 +9,6 @@ author_profile: true
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
   + **Research Intern**, Nov 2020 - Apr 2021  
 
-
 <a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
 * **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
@@ -19,7 +18,6 @@ author_profile: true
   + **Software Engineer, Senior**, Jul 2018 - Oct 2019  
   + **Software Engineer, Associate Senior**, Jan 2018 - Jul 2018  
   + **Data Scientist**, Mar 2017 - Jan 2018  
-
 
 ## Technical Skills  
 * **Programming**: C/C++, Java, Python  
