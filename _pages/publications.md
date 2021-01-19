@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 ## Technical Reports
-* **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
-  **Nanqing Dong**, Michael Kampffmeyer, Aleks Kissinger, Irina Voiculescu, Eric P. Xing.  
-  [[<span style="color:blue">PDF</span>]](https://eveningdong.github.io/files/Symmetry.pdf)
-
 
 ## Preprints
 * **Towards Robust Medical Image Segmentation on Small-Scale Data with Incomplete Labels**  
