@@ -27,7 +27,7 @@ author_profile: true
 ### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://drive.google.com/file/d/1EgcxMyMUgRm4VvodGDK9w_HJbL1jCW1o/view)   
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
    
 * **Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images**  
   Zeya Wang, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric P. Xing.  
@@ -48,7 +48,7 @@ author_profile: true
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://drive.google.com/open?id=1RFz7GUeHx2dVMI3CWURb-aM6iUfSE5Fa)
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 * **Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling**  
   Zeya Wang, **Nanqing Dong**, Wei Dai, Sean D Rosario, Eric P. Xing.  
