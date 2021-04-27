@@ -12,7 +12,7 @@ author_profile: true
 
 <a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
-  + **Research Intern**, Nov 2020 - Apr 2021  
+  + **Research Intern**, Nov 2020 - May 2021  
     - Multi-Task Learning for Cameras    
       Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)  
 
