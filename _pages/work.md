@@ -7,7 +7,7 @@ author_profile: true
 
 <a href="https://www.huawei.com/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
-  + **Research Intern**, Nov 2020 - Apr 2021  
+  + **Research Intern**, Nov 2020 - May 2021  
 
 <a href="https://www.amazon.com/"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
 * **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany
