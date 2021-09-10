@@ -19,16 +19,16 @@ author_profile: true
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael C. Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates equal contribution)  
+  Michael C. Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates **equal contribution**.)  
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2021  
-* ****  
-  **Nanqing Dong**, Irina Voiculescu.  
+* **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
+  **Nanqing Dong**, Irina Voiculescu.    
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021.  
 
-* **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**
+* **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML), 2021.  
 
@@ -57,7 +57,7 @@ author_profile: true
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong**, Eric P. Xing.  
-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
