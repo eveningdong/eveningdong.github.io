@@ -5,18 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Technical Reports
+<!-- ## Technical Reports -->
 
-## Preprints
+<!-- ## Preprints
 * **Towards Robust Medical Image Segmentation on Small-Scale Data with Incomplete Labels**  
   **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
-  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/346510510_Towards_Robust_Medical_Image_Segmentation_on_Small-Scale_Data_with_Incomplete_Labels)
+  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/346510510_Towards_Robust_Medical_Image_Segmentation_on_Small-Scale_Data_with_Incomplete_Labels) -->
 
 
 ## Journal Papers
+* **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
+  Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao.  
+  IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
+
+
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing.  
-  IEEE Transactions on Image Processing (TIP), 2018. (\* indicates equal contribution) [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
+  Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates equal contribution) 
+  IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2020
