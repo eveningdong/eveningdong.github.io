@@ -18,12 +18,20 @@ author_profile: true
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao.  
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
-
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates equal contribution) 
+  Michael C. Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates equal contribution)  
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
+### 2021  
+* ****  
+  **Nanqing Dong**, Irina Voiculescu.  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021.  
+
+* **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**
+  **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML), 2021.  
+
 ### 2020
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
   Zeya Wang, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing.  
