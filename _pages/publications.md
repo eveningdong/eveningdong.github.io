@@ -30,7 +30,7 @@ author_profile: true
 
 * **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
-  European Conference on Machine Learning (ECML), 2021.  
+  European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)  
 
 ### 2020
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
