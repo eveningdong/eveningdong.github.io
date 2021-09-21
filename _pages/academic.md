@@ -48,7 +48,8 @@ author_profile: true
 ## Academic Service  
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence 2021 - 2022    
-  + ICCV: International Conference on Computer Vision 2021  
+  + CVPR: IEEE Conference on Computer Vision and Pattern Recognition 2022  
+  + ICCV: IEEE International Conference on Computer Vision 2021  
   + ICPR: International Conference on Pattern Recognition 2020  
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019 - 2021  
 
