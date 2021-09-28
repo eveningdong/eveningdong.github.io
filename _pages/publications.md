@@ -26,7 +26,7 @@ author_profile: true
 ### 2021  
 * **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
   **Nanqing Dong**, Irina Voiculescu.    
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
 
 * **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
