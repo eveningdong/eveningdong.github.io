@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Papers
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
   **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
-  Applied Soft Computing, 2022.  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
+  Applied Soft Computing, 2021.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1016/j.asoc.2021.108074)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
   
 * **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao.  
