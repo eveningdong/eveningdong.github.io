@@ -54,6 +54,8 @@ author_profile: true
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019 - 2021  
 
 * **Journal Reviewer (Invited)**  
+  + Artificial Intelligence in Medicine 2021 - 2022  
+  + Computational and Structural Biotechnology 2021 - 2022  
   + IEEE Access 2019 - 2021    
   + IEEE Transactions on Circuits and Systems for Video Technology 2019 - 2020  
   + IEEE Transactions on Medical Imaging 2019 - 2021  
