@@ -16,7 +16,7 @@ author_profile: true
 ## Journal Papers
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
   **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
-  Applied Soft Computing, 2021.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1016/j.asoc.2021.108074)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
+  Applied Soft Computing, 2022.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1016/j.asoc.2021.108074)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
   
 * **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao.  
@@ -27,7 +27,11 @@ author_profile: true
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
-### 2021  
+### 2021
+* **Quantum Unsupervised Domain Adaptation: Does Entanglement Help?**  
+  **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.  
+  British Machine Vision Conference (BMVC), 2021. [[<span style="color:blue">Link</span>]](https://www.bmvc2021-virtualconference.com/assets/papers/0900.pdf)  
+
 * **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
   **Nanqing Dong**, Irina Voiculescu.    
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
