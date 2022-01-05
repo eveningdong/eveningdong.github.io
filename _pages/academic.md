@@ -43,25 +43,27 @@ author_profile: true
   
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
-* **President's PhD Scholarship**, Imperial College London, 2019 - 2023 (Declined)   
+* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   
 
 ## Academic Service  
 * **Conference Reviewer**  
-  + AAAI Conference on Artificial Intelligence 2021 - 2022    
-  + CVPR: IEEE Conference on Computer Vision and Pattern Recognition 2022  
-  + ICCV: IEEE International Conference on Computer Vision 2021  
-  + ICPR: International Conference on Pattern Recognition 2020  
-  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention 2019 - 2021  
+  + AAAI Conference on Artificial Intelligence    
+  + CVPR: IEEE Conference on Computer Vision and Pattern Recognition  
+  + ICCV: IEEE International Conference on Computer Vision  
+  + ICPR: International Conference on Pattern Recognition  
+  + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
 
 * **Journal Reviewer (Invited)**  
-  + Artificial Intelligence in Medicine 2021 - 2022  
-  + Computational and Structural Biotechnology 2021 - 2022  
-  + IEEE Access 2019 - 2021    
-  + IEEE Transactions on Circuits and Systems for Video Technology 2019 - 2020  
-  + IEEE Transactions on Medical Imaging 2019 - 2021  
-  + IEEE Transactions on Neural Networks and Learning Systems 2020 - 2021  
-  + IEEE Transactions on Pattern Analysis and Machine Intelligence 2021  
-  + Pattern Recognition 2020 - 2021  
+  + Artificial Intelligence in Medicine  
+  + BMC Medical Imaging  
+  + Computational and Structural Biotechnology  
+  + IEEE Access  
+  + IEEE Transactions on Circuits and Systems for Video Technology  
+  + IEEE Transactions on Medical Imaging  
+  + IEEE Transactions on Multimedia  
+  + IEEE Transactions on Neural Networks and Learning Systems  
+  + IEEE Transactions on Pattern Analysis and Machine Intelligence  
+  + Pattern Recognition  
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
