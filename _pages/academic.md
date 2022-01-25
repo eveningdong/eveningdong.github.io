@@ -32,6 +32,7 @@ author_profile: true
     - Databases, MT 2019  
     - Machine Learning, MT 2019 
     - Imperative Programming Parts 1 and 2, HT 2020 
+    - Artificial Intelligence HT 2022  
 
   + **Teaching Assistant**, Keble College  
     - Databases, MT 2019  
