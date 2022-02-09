@@ -10,11 +10,11 @@ author_profile: true
     - Machine Learning, Computer Vision, Quantum Computing  
     Supervisor: Prof. Irina Voiculescu   
 
-<a href="http://research.baidu.com/"><img src="https://eveningdong.github.io/images/baidu.png" alt="drawing" style="height:80px;"/></a>  
+<!-- <a href="http://research.baidu.com/"><img src="https://eveningdong.github.io/images/baidu.png" alt="drawing" style="height:80px;"/></a>  
 * **Baidu Reserach**, Beijing, China  
   + **Research Intern**, Jun 2021 - Sept 2021  
     - Self-Supervised Learning      
-      Superviors: Dr. Ping Li, [<span style="color:blue">Dr. Mingming Sun</span>](https://scholar.google.com/citations?hl=en&user=_PfM-AUAAAAJ)
+      Superviors: Dr. Ping Li, [<span style="color:blue">Dr. Mingming Sun</span>](https://scholar.google.com/citations?hl=en&user=_PfM-AUAAAAJ) -->
 
 <a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
