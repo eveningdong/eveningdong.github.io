@@ -31,7 +31,7 @@ author_profile: true
   + **Class Tutor**, Department of Computer Science   
     - Artificial Intelligence HT 2022  
 
-  + **Teaching Assistant**, Department of Computer Science   
+  + **Practical Demonstrator**, Department of Computer Science  
     - Databases, MT 2019  
     - Machine Learning, MT 2019 
     - Imperative Programming Parts 1 and 2, HT 2020 
