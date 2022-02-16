@@ -28,10 +28,10 @@ author_profile: true
 
 ## Teaching Experience
 * **University of Oxford**  
-  + **Class Tutor**, Department of Computer Science   
+  + **Tutor**, Department of Computer Science   
     - Artificial Intelligence HT 2022  
 
-  + **Practical Demonstrator**, Department of Computer Science  
+  + **Demonstrator**, Department of Computer Science  
     - Databases, MT 2019  
     - Machine Learning, MT 2019 
     - Imperative Programming Parts 1 and 2, HT 2020 
