@@ -70,7 +70,6 @@ author_profile: true
   + IEEE Transactions on Neural Networks and Learning Systems  
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  
   + Pattern Recognition  
-_________________
   + BMC Medical Imaging  
   + Computational and Structural Biotechnology  
   + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization
