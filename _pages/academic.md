@@ -31,6 +31,10 @@ author_profile: true
   + **Tutor**, Department of Computer Science   
     - Artificial Intelligence HT 2022  
 
+  + **Supervisor**, Department of Computer Science   
+    - Group Design Practical, HT 2022  
+    - Group Design Practical, TT 2022  
+
   + **Demonstrator**, Department of Computer Science  
     - Databases, MT 2019  
     - Machine Learning, MT 2019 
@@ -52,14 +56,13 @@ author_profile: true
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
   + CVPR: IEEE Conference on Computer Vision and Pattern Recognition  
+  + ECCV: European Conference on Computer Vision  
   + ICCV: IEEE International Conference on Computer Vision  
   + ICPR: International Conference on Pattern Recognition  
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
 
 * **Journal Reviewer (Invited)**  
   + Artificial Intelligence in Medicine  
-  + BMC Medical Imaging  
-  + Computational and Structural Biotechnology  
   + IEEE Access  
   + IEEE Transactions on Circuits and Systems for Video Technology  
   + IEEE Transactions on Medical Imaging  
@@ -67,6 +70,10 @@ author_profile: true
   + IEEE Transactions on Neural Networks and Learning Systems  
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  
   + Pattern Recognition  
+  -------- 
+  + BMC Medical Imaging  
+  + Computational and Structural Biotechnology  
+  + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
