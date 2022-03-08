@@ -29,7 +29,7 @@ author_profile: true
 ## Teaching Experience
 * **University of Oxford**  
   + **Tutor**, Department of Computer Science   
-    - Artificial Intelligence HT 2022  
+    - Artificial Intelligence, HT 2022  
 
   + **Supervisor**, Department of Computer Science   
     - Group Design Practical, HT 2022  
