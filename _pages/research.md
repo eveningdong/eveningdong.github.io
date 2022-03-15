@@ -16,11 +16,11 @@ author_profile: true
     - Self-Supervised Learning      
       Superviors: Dr. Ping Li, [<span style="color:blue">Dr. Mingming Sun</span>](https://scholar.google.com/citations?hl=en&user=_PfM-AUAAAAJ) -->
 
-<a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
+<!-- <a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
   + **Research Intern**, Nov 2020 - May 2021  
     - Contrastive Learning for RAW Images  
-      Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)  
+      Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)   -->
 
 <a href="https://www.amazon.science"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
 * **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany    
