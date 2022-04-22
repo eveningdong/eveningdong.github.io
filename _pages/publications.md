@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ## Technical Reports -->
-
-<!-- ## Preprints
-* **Towards Robust Medical Image Segmentation on Small-Scale Data with Incomplete Labels**  
-    
-  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/346510510_Towards_Robust_Medical_Image_Segmentation_on_Small-Scale_Data_with_Incomplete_Labels) -->
-
 
 ## Journal Papers
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
@@ -27,6 +20,12 @@ author_profile: true
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
+### 2022  
+* **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
+  **Nanqing Dong**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh.  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022.  
+
+
 ### 2021
 * **Quantum Unsupervised Domain Adaptation: Does Entanglement Help?**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.  
