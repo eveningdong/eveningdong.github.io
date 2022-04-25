@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Journal Papers
+* **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
+  **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
+  Pattern Recognition, 2022.  
+
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
   **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
   Applied Soft Computing, 2022.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1016/j.asoc.2021.108074)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
