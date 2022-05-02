@@ -64,16 +64,18 @@ author_profile: true
 
 * **Journal Reviewer (Invited)**  
   + Artificial Intelligence in Medicine  
+  + BMC Medical Imaging  
+  + Computational and Structural Biotechnology  
+  + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization  
   + IEEE Access  
   + IEEE Transactions on Circuits and Systems for Video Technology  
   + IEEE Transactions on Medical Imaging  
   + IEEE Transactions on Multimedia  
   + IEEE Transactions on Neural Networks and Learning Systems  
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  
+  + Neural Computing and Applications  
   + Pattern Recognition  
-  + BMC Medical Imaging  
-  + Computational and Structural Biotechnology  
-  + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization
+
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
