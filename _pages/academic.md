@@ -68,11 +68,12 @@ author_profile: true
   + Computational and Structural Biotechnology  
   + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization  
   + IEEE Access  
-  + IEEE Transactions on Circuits and Systems for Video Technology  
-  + IEEE Transactions on Medical Imaging  
-  + IEEE Transactions on Multimedia  
-  + IEEE Transactions on Neural Networks and Learning Systems  
-  + IEEE Transactions on Pattern Analysis and Machine Intelligence  
+  + IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT)  
+  + IEEE Transactions on Medical Imaging (TMI)  
+  + IEEE Transactions on Multimedia (TMM)  
+  + IEEE Transactions on Neural Networks and Learning Systems  (TNNLS)  
+  + IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)  
+  + International Journal of Computer Vision (IJCV)  
   + Neural Computing and Applications  
   + Pattern Recognition  
 
