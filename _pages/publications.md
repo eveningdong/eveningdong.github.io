@@ -20,11 +20,15 @@ author_profile: true
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael C. Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates **equal contribution**.)  
+  Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates **equal contribution**.)  
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 ## Conference Papers
 ### 2022  
+* **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
+  **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu.  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+  
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh.  
   International Joint Conference on Artificial Intelligence (IJCAI), 2022.  

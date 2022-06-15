@@ -64,10 +64,12 @@ author_profile: true
 
 * **Journal Reviewer (Invited)**  
   + Artificial Intelligence in Medicine  
-  + BMC Medical Imaging  
+  <!--+ BMC Medical Imaging  
   + Computational and Structural Biotechnology  
   + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization  
+  -->
   + IEEE Access  
+  + IEEE Journal of Biomedical and Health Informatics (JBHI)
   + IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT)  
   + IEEE Transactions on Medical Imaging (TMI)  
   + IEEE Transactions on Multimedia (TMM)  
