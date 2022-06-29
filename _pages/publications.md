@@ -83,6 +83,10 @@ author_profile: true
   International Conference on Image Analysis and Recognition (ICIAR), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling)
 
 ## Workshop Papers
+* **Revisiting Vicinal Risk Minimization for Partially Supervised Multi-Label Classification Under Data Scarcity**  
+  **Nanqing Dong**, Jiayi Wang, Irina Voiculescu.  
+   IEEE/CVF Conference on Computer Vision and Pattern Recognition, Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 2022. [<span style="color:blue">Link</span>]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Dong_Revisiting_Vicinal_Risk_Minimization_for_Partially_Supervised_Multi-Label_Classification_Under_CVPRW_2022_paper.html)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2204.08954.pdf)  
+
 * **Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.11113.pdf)
