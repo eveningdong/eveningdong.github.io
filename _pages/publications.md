@@ -23,6 +23,7 @@ author_profile: true
   Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates **equal contribution**.)  
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
+
 ## Conference Papers
 ### 2022  
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
@@ -31,7 +32,7 @@ author_profile: true
   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh.  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2022.  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)   
 
 
 ### 2021
@@ -47,11 +48,13 @@ author_profile: true
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
   European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)  
 
+
 ### 2020
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
   Zeya Wang, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing.  
   European Conference on Aritifical Inteligence (ECAI), 2020. (<span style="color:red">Oral</span>)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
-  
+
+
 ### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
