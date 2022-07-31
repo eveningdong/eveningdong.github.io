@@ -9,11 +9,11 @@ author_profile: true
 ## Journal Papers
 * **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
   **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
-  Pattern Recognition, 2022.  
+  Pattern Recognition, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S003132032200231X)    
 
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
   **Nanqing Dong**, Michael Kampffmeyer, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
-  Applied Soft Computing, 2022.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1016/j.asoc.2021.108074)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
+  Applied Soft Computing, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
   
 * **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao.  
@@ -88,7 +88,7 @@ author_profile: true
 ## Workshop Papers
 * **Revisiting Vicinal Risk Minimization for Partially Supervised Multi-Label Classification Under Data Scarcity**  
   **Nanqing Dong**, Jiayi Wang, Irina Voiculescu.  
-   IEEE/CVF Conference on Computer Vision and Pattern Recognition, Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 2022. [<span style="color:blue">Link</span>]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Dong_Revisiting_Vicinal_Risk_Minimization_for_Partially_Supervised_Multi-Label_Classification_Under_CVPRW_2022_paper.html)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2204.08954.pdf)  
+   IEEE/CVF Conference on Computer Vision and Pattern Recognition, Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 2022. [[<span style="color:blue">Link</span>]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Dong_Revisiting_Vicinal_Risk_Minimization_for_Partially_Supervised_Multi-Label_Classification_Under_CVPRW_2022_paper.html)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2204.08954.pdf)  
 
 * **Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
