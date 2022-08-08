@@ -64,7 +64,8 @@ author_profile: true
 
 * **Journal Reviewer (Invited)**  
   + Artificial Intelligence in Medicine  
-  <!--+ BMC Medical Imaging  
+  <!--
+  + BMC Medical Imaging  
   + Computational and Structural Biotechnology  
   + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization  
   -->
