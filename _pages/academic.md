@@ -77,6 +77,7 @@ author_profile: true
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)  
   + International Journal of Computer Vision (IJCV)  
   + Neural Computing and Applications  
+  + Neural Networks  
   + Pattern Recognition  
 
 
