@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Papers
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao.  
-  ACM Computing Surveys, 2022.  
+  ACM Computing Surveys, 2022. [[<span style="color:blue">Link</span>]](https://dl.acm.org/doi/10.1145/3555802)  
 
 * **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
   **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
