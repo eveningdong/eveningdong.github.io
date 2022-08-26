@@ -85,10 +85,10 @@ author_profile: true
 
 
 * **Students**  
-  + **Zhaoming Qin** 2021 - 2022
+  + **Zhaoming Qin** (2021 - 2022)
     - Ph.D. at the Swiss Federal Institute of Technology Lausanne  
     - M.Eng. at the Tsinghua University  
 
-  + **Jiayi Wang** 2021 - 2022
+  + **Jiayi Wang** (2021 - 2022)
     - MMath at the University of Oxford
 
