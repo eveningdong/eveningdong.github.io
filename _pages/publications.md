@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## Journal Papers
+* **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
+  **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
+  Journal of Portfolio Management, 2023  
+
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao.  
   ACM Computing Surveys, 2022. [[<span style="color:blue">Link</span>]](https://dl.acm.org/doi/10.1145/3555802)  
