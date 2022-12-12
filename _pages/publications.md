@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Papers
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
-  Journal of Portfolio Management, 2023  
+  Journal of Portfolio Management, 2023. [[<span style="color:blue">Link</span>]](https://doi.org/10.3905/jpm.2022.1.435)  
 
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao.  
@@ -36,11 +36,11 @@ author_profile: true
 ### 2022  
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
   **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)    
   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh.  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)   
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
 
 
 ### 2021
