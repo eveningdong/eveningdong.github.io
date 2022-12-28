@@ -7,9 +7,14 @@ author_profile: true
 
 
 ## Journal Papers
+
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
   Journal of Portfolio Management, 2023. [[<span style="color:blue">Link</span>]](https://doi.org/10.3905/jpm.2022.1.435)  
+
+* **Federated Partially Supervised Learning with Limited Decentralized Medical Images**  
+  **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
+  IEEE Transactions on Medical Imaging (TMI), 2022. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9994748)  
 
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao.  
