@@ -52,6 +52,7 @@ author_profile: true
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
 * **President's PhD Scholarship**, Imperial College London, 2019 - 2023   
+* **FLock PhD Scholarship**, FLock.io, 2022-2023
 
 ## Academic Service  
 * **Conference Reviewer**  
@@ -67,8 +68,9 @@ author_profile: true
 * **Journal Reviewer (Invited)**  
   + Artificial Intelligence in Medicine  
   <!-- + BMC Medical Imaging   -->
-  <!-- + Computational and Structural Biotechnology   -->
+  + Computational and Structural Biotechnology  
   <!-- + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization   -->
+  + Computer Methods and Programs in Biomedicine  
   + IEEE Access  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)
   + IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT)  
@@ -88,9 +90,9 @@ author_profile: true
 
 * **Students**  
   + **Zhaoming Qin** (2021 - 2022)
-    - Ph.D. at the Swiss Federal Institute of Technology Lausanne  
-    - M.Eng. at the Tsinghua University  
+    - Ph.D. in Robotics, Control, and Intelligent Systems at the Swiss Federal Institute of Technology Lausanne  
+    - M.S. in Control Science and Engineering at the Tsinghua University  
 
   + **Jiayi Wang** (2021 - 2022)
-    - MMath at the University of Oxford
+    - B.A. in Mathematics at the University of Oxford
 
