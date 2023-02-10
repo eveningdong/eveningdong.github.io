@@ -79,6 +79,7 @@ author_profile: true
   + IEEE Transactions on Neural Networks and Learning Systems  (TNNLS)  
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)  
   + International Journal of Computer Vision (IJCV)  
+  + Medical Image Analysis (MedIA)  
   + Neural Computing and Applications  
   + Neural Networks  
   + Pattern Recognition  
