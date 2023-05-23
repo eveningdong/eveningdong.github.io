@@ -73,6 +73,7 @@ author_profile: true
   + Computational and Structural Biotechnology  
   <!-- + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization   -->
   + Computer Methods and Programs in Biomedicine  
+  + Expert Systems with Applications  
   + IEEE Access  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)
   + IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT)  
