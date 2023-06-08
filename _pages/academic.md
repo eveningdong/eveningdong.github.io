@@ -19,12 +19,12 @@ author_profile: true
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
 
-* **University of Liverpool**  
+<!-- * **University of Liverpool**  
   B.S. (Hons) Mathematics, First Class, Sept 2011 - June 2015  
   Department of Mathematical Sciences  
   School of Physical Sciences  
   Liverpool, L69 7ZL, UK  
-  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://eveningdong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>  
+  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://eveningdong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>   -->
 
 ## Teaching Experience
 * **University of Oxford**  
@@ -92,11 +92,28 @@ author_profile: true
   + Computer Science Student Ambassador, University of Oxford  
 
 
-* **Students**  
-  + **Zhaoming Qin** (2021 - 2022)
-    - Ph.D. in Robotics, Control, and Intelligent Systems at the Swiss Federal Institute of Technology Lausanne  
-    - M.S. in Control Science and Engineering at the Tsinghua University  
+* **Current and Past Students**  
+  + **Zhaoming Qin** (2021 - Present)  
+    - Ph.D. in Robotics, Control, and Intelligent Systems, Swiss Federal Institute of Technology Lausanne  
+    - M.S. in Control Science and Engineering, Tsinghua University  
 
-  + **Jiayi Wang** (2021 - 2022)
-    - B.A. in Mathematics at the University of Oxford
+  + **Jiayi Wang** (2021 - 2022)  
+    - B.A. in Mathematics, University of Oxford
+
+  + **Cara Higgins** (2021 - 2022)  
+    - B.S. in Computer Science, University of Oxford
+
+  + **Zehua Cheng** (2022 - Present)    
+    - Ph.D. in Computer Science, University of Oxford  
+
+  + **Zhipeng Wang** (2022 - Present)  
+    - Ph.D. in Computer Science, Imperial College London  
+
+  + **Zhenlong Yuan** (2023 - Present)
+    - Ph.D. in Computer Science, University of Chinese Academy of Sciences
+
+  + **Wenwei Han** (2023 - Present)
+    - M.S. in Computer Science, University of Chinese Academy of Sciences
+
+
 
