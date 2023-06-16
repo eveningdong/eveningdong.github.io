@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "zh-CN"
 title                    : "Lifelong Learner"
 title_separator          : "-"
 name                     : &name "Nanqing Dong"
@@ -83,10 +83,10 @@ author:
   name             : "Nanqing Dong"
   avatar           : "profile_la.png"
   bio              : "University of Oxford"
-  location         : "Oxford, Oxfordshire, UK"
+  location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"
-  email            : "nanqing.dong@cs.ox.ac.uk"
+  email            : "nanqing.dong@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
