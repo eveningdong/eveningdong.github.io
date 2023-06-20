@@ -28,7 +28,7 @@ author_profile: true
   + **Teaching Assistant**, Department of Statistical Science  
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
 
-* **Current and Past Students**  
+## Current and Past Students
   + **Zhaoming Qin** (2021 - Present)  
     - Ph.D. in Robotics, Control, and Intelligent Systems, Swiss Federal Institute of Technology Lausanne  
     - M.S. in Control Science and Engineering, Tsinghua University  
