@@ -67,7 +67,7 @@ author_profile: true
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
   + NIPS: Annual Conference on Neural Information Processing Systems  
 
-* **Journal Reviewer (Invited)**  
+* **Journal Reviewer**  
   + Artificial Intelligence in Medicine  
   <!-- + BMC Medical Imaging   -->
   + Computational and Structural Biotechnology  
@@ -114,6 +114,9 @@ author_profile: true
 
   + **Wenwei Han** (2023 - Present)
     - M.S. in Computer Science, University of Chinese Academy of Sciences
+
+  + **Minghe Li** (2023 - Present)  
+    - M.S. in Artificial Intelligence, Nankai University  
 
 
 
