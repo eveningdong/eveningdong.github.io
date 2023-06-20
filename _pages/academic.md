@@ -25,7 +25,7 @@ author_profile: true
   School of Physical Sciences  
   Liverpool, L69 7ZL, UK  
   <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://eveningdong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>   -->
-
+<!-- 
 ## Teaching Experience
 * **University of Oxford**  
   + **Tutor**, Department of Computer Science   
@@ -47,7 +47,7 @@ author_profile: true
     
 * **Cornell University**  
   + **Teaching Assistant**, Department of Statistical Science  
-    - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
+    - STSCI 5060: Database Management and High Performance Computing, Fall 2016   -->
   
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
@@ -90,7 +90,7 @@ author_profile: true
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
-
+<!-- 
 
 * **Current and Past Students**  
   + **Zhaoming Qin** (2021 - Present)  
@@ -116,7 +116,7 @@ author_profile: true
     - M.S. in Computer Science, University of Chinese Academy of Sciences
 
   + **Minghe Li** (2023 - Present)  
-    - M.S. in Artificial Intelligence, Nankai University  
+    - M.S. in Artificial Intelligence, Nankai University   -->
 
 
 
