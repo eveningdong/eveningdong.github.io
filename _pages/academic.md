@@ -18,36 +18,6 @@ author_profile: true
   Computing and Information Science (CIS)  
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
-
-<!-- * **University of Liverpool**  
-  B.S. (Hons) Mathematics, First Class, Sept 2011 - June 2015  
-  Department of Mathematical Sciences  
-  School of Physical Sciences  
-  Liverpool, L69 7ZL, UK  
-  <a href="https://www.liverpool.ac.uk/mathematical-sciences/"><img src="https://eveningdong.github.io/images/liverpool.svg" alt="drawing" width="240px"/></a>   -->
-<!-- 
-## Teaching Experience
-* **University of Oxford**  
-  + **Tutor**, Department of Computer Science   
-    - Artificial Intelligence, HT 2022  
-    - Computer Newtorks, TT 2022
-
-  + **Supervisor**, Department of Computer Science   
-    - Group Design Practical, HT 2022  
-    - Group Design Practical, TT 2022  
-
-  + **Demonstrator**, Department of Computer Science  
-    - Databases, MT 2019  
-    - Machine Learning, MT 2019 
-    - Imperative Programming Parts 1 and 2, HT 2020 
-
-  + **Teaching Assistant**, Keble College  
-    - Databases, MT 2019  
-    - Discrete Mathematics, MT 2019  
-    
-* **Cornell University**  
-  + **Teaching Assistant**, Department of Statistical Science  
-    - STSCI 5060: Database Management and High Performance Computing, Fall 2016   -->
   
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
@@ -90,33 +60,3 @@ author_profile: true
 
 * **Student Ambassador**  
   + Computer Science Student Ambassador, University of Oxford  
-<!-- 
-
-* **Current and Past Students**  
-  + **Zhaoming Qin** (2021 - Present)  
-    - Ph.D. in Robotics, Control, and Intelligent Systems, Swiss Federal Institute of Technology Lausanne  
-    - M.S. in Control Science and Engineering, Tsinghua University  
-
-  + **Jiayi Wang** (2021 - 2022)  
-    - B.A. in Mathematics, University of Oxford
-
-  + **Cara Higgins** (2021 - 2022)  
-    - B.S. in Computer Science, University of Oxford
-
-  + **Zehua Cheng** (2022 - Present)    
-    - Ph.D. in Computer Science, University of Oxford  
-
-  + **Zhipeng Wang** (2022 - Present)  
-    - Ph.D. in Computer Science, Imperial College London  
-
-  + **Zhenlong Yuan** (2023 - Present)
-    - Ph.D. in Computer Science, University of Chinese Academy of Sciences
-
-  + **Wenwei Han** (2023 - Present)
-    - M.S. in Computer Science, University of Chinese Academy of Sciences
-
-  + **Minghe Li** (2023 - Present)  
-    - M.S. in Artificial Intelligence, Nankai University   -->
-
-
-
