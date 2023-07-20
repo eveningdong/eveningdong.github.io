@@ -4,11 +4,11 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
+<!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
 * **University of Oxford**, Oxford, England, United Kingdom     
-  + **Doctoral Student**, Department of Computer Science, Oct 2019 - Present  
+  + **Doctoral Student**, Department of Computer Science, 2019 - 2023    
     - Machine Learning, Computer Vision, Quantum Computing  
-    Supervisor: Prof. Irina Voiculescu   
+    - Supervisor: Prof. Irina Voiculescu    -->
 
 <!-- <a href="http://research.baidu.com/"><img src="https://eveningdong.github.io/images/baidu.png" alt="drawing" style="height:80px;"/></a>  
 * **Baidu Reserach**, Beijing, China  
@@ -16,17 +16,17 @@ author_profile: true
     - Self-Supervised Learning      
       Superviors: Dr. Ping Li, [<span style="color:blue">Dr. Mingming Sun</span>](https://scholar.google.com/citations?hl=en&user=_PfM-AUAAAAJ) -->
 
-<!-- <a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
+<a href="https://www.noahlab.com.hk/"><img src="https://eveningdong.github.io/images/huawei.png" alt="drawing" style="height:80px;"/></a>  
 * **Huawei Noah's Ark Lab**, London, England, United Kingdom  
-  + **Research Intern**, Nov 2020 - May 2021  
-    - Contrastive Learning for RAW Images  
-      Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)  --> 
+  + **Research Intern**, Nov 2020 - Apr 2022  
+    <!-- - Contrastive Learning for RAW Images   -->
+    - Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)   
 
-<!-- <a href="https://www.amazon.science"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
+<a href="https://www.amazon.science"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
 * **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany    
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
-    - Contrastive Learning for Amazon Product Images  
-      Supervisors: Dr. Luitpold Staudigl, [<span style="color:blue">Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)    -->
+    <!-- - Contrastive Learning for Amazon Product Images   -->
+    - Supervisors: Dr. Luitpold Staudigl, [<span style="color:blue">Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)   
 
 <a href="https://www.turing.ac.uk/"><img src="https://eveningdong.github.io/images/ati.png" alt="drawing" style="height:80px;"/></a> 
 * **Alan Turing Institute**, London, England, United Kingdom    

@@ -51,6 +51,7 @@ author_profile: true
   + IEEE Transactions on Multimedia (TMM)  
   + IEEE Transactions on Neural Networks and Learning Systems  (TNNLS)  
   + IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)  
+  + Information Fusion  
   + International Journal of Computer Vision (IJCV)  
   + Medical Image Analysis (MedIA)  
   + Neural Computing and Applications  
