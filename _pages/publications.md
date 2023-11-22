@@ -7,6 +7,13 @@ author_profile: true
 
 
 ## Journal Papers
+* **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
+  Congcong Wang, Yuru Song, Meng Zhao, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen  
+  Computers in Biology and Medicine, 2024  
+
+* **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
+  Haochen Hua, Xingying Chen, Lei Gan, Jiaxiang Sun, **Nanqing Dong**, Di Liu, Zhaoming Qin, Mingjia Yin, Kang Li.  
+  IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2024.  
 
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
@@ -33,7 +40,7 @@ author_profile: true
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael Kampffmeyer<sup>\*</sup>, **Nanqing Dong**<sup>\*</sup>, Xiaodan Liang, Yujia Zhang, Eric P. Xing. (\* indicates **equal contribution**.)  
+  Michael Kampffmeyer, **Nanqing Dong**(**equal contribution**), Xiaodan Liang, Yujia Zhang, Eric P. Xing.   
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 
