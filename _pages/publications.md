@@ -8,8 +8,8 @@ author_profile: true
 
 ## Journal Papers
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
-  Congcong Wang, Yuru Song, Meng Zhao, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen  
-  Computers in Biology and Medicine, 2024  
+  Congcong Wang, Yuru Song, Meng Zhao, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
+  Computers in Biology and Medicine, 2024.  
 
 * **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
   Haochen Hua, Xingying Chen, Lei Gan, Jiaxiang Sun, **Nanqing Dong**, Di Liu, Zhaoming Qin, Mingjia Yin, Kang Li.  
