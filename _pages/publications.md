@@ -13,7 +13,7 @@ author_profile: true
 
 * **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
   Haochen Hua, Xingying Chen, Lei Gan, Jiaxiang Sun, **Nanqing Dong**, Di Liu, Zhaoming Qin, Mingjia Yin, Kang Li.  
-  IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2024.  
+  IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2023.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10330727)  
 
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
