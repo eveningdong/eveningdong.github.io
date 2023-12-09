@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Papers
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
   Congcong Wang, Yuru Song, Meng Zhao, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
-  Computers in Biology and Medicine, 2024.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)  
+  Computers in Biology and Medicine, 2023.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)  
 
 * **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
   Haochen Hua, Xingying Chen, Lei Gan, Jiaxiang Sun, **Nanqing Dong**, Di Liu, Zhaoming Qin, Mingjia Yin, Kang Li.  
@@ -17,7 +17,7 @@ author_profile: true
 
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart.  
-  Journal of Portfolio Management, 2023. [[<span style="color:blue">Link</span>]](https://doi.org/10.3905/jpm.2022.1.435)  
+  Journal of Portfolio Management, 2022. [[<span style="color:blue">Link</span>]](https://doi.org/10.3905/jpm.2022.1.435)  
 
 * **Federated Partially Supervised Learning with Limited Decentralized Medical Images**  
   **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
@@ -45,7 +45,10 @@ author_profile: true
 
 
 ## Conference Papers
-### 2022  
+* **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
+  Zhi Jin, Sheng Xu, Xiang Zhang, Tianze Ling, **Nanqing Dong**, Wanli Ouyang, Zhiqiang Gao, Cheng Chang, Siqi Sun.  
+  AAAI Conference on Artificial Intelligence (AAAI), 2024.  
+
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
   **Nanqing Dong**, Michael Kampffmeyer, Irina Voiculescu.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)    
@@ -54,8 +57,6 @@ author_profile: true
   **Nanqing Dong**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh.  
   International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
 
-
-### 2021
 * **Quantum Unsupervised Domain Adaptation: Does Entanglement Help?**  
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.  
   British Machine Vision Conference (BMVC), 2021. [[<span style="color:blue">Link</span>]](https://www.bmvc2021-virtualconference.com/assets/papers/0900.pdf)  
@@ -68,14 +69,10 @@ author_profile: true
   **Nanqing Dong**, Michael C. Kampffmeyer, Irina Voiculescu.     
   European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)  
 
-
-### 2020
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
   Zeya Wang, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing.  
   European Conference on Aritifical Inteligence (ECAI), 2020. (<span style="color:red">Oral</span>)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
 
-
-### 2019
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
@@ -88,7 +85,6 @@ author_profile: true
   Wei Dai, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing.  
   International Conference on Learning Representations (ICLR), 2019. [[<span style="color:blue">Link</span>]](https://openreview.net/forum?id=BylQV305YQ)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1810.03264.pdf)
 
-### 2018
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
   **Nanqing Dong**, Eric P. Xing.  
   British Machine Vision Conference (BMVC), 2018. [[<span style="color:blue">Link</span>]](http://bmvc2018.org/contents/papers/0255.pdf)
@@ -101,9 +97,11 @@ author_profile: true
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
-* **Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling**  
-  Zeya Wang, **Nanqing Dong**, Wei Dai, Sean D Rosario, Eric P. Xing.  
-  International Conference on Image Analysis and Recognition (ICIAR), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling)
+[//]: # (* **Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling**  )
+
+[//]: # (  Zeya Wang, **Nanqing Dong**, Wei Dai, Sean D Rosario, Eric P. Xing.  )
+
+[//]: # (  International Conference on Image Analysis and Recognition &#40;ICIAR&#41;, 2018. &#40;<span style="color:red">Oral</span>&#41;[[<span style="color:blue">Link</span>]]&#40;https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84&#41;[[<span style="color:blue">RG</span>]]&#40;https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling&#41;)
 
 ## Workshop Papers
 * **Revisiting Vicinal Risk Minimization for Partially Supervised Multi-Label Classification Under Data Scarcity**  
