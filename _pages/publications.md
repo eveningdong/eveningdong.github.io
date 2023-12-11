@@ -116,8 +116,12 @@ author_profile: true
   Wei Dai, **Nanqing Dong**, Zeya Wang, Xiaodan Liang, Hao Zhang, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018.[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/327749572_SCAN_Structure_Correcting_Adversarial_Network_for_Organ_Segmentation_in_Chest_X-Rays)
 
-## Abstract Papers
-### 2019
-* **Polar Transformer Network for Glaucoma Screening**  
-  Sean D Rosario, **Nanqing Dong**, Zeya Wang, Zewei Liu, Eric P. Xing.  
-  IEEE International Symposium on Biomedical Imaging (ISBI), 2019.
+[//]: # (## Abstract Papers)
+
+[//]: # (### 2019)
+
+[//]: # (* **Polar Transformer Network for Glaucoma Screening**  )
+
+[//]: # (  Sean D Rosario, **Nanqing Dong**, Zeya Wang, Zewei Liu, Eric P. Xing.  )
+
+[//]: # (  IEEE International Symposium on Biomedical Imaging &#40;ISBI&#41;, 2019.)
