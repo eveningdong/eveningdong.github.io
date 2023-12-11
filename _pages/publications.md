@@ -97,12 +97,6 @@ author_profile: true
   **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
-[//]: # (* **Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling**  )
-
-[//]: # (  Zeya Wang, **Nanqing Dong**, Wei Dai, Sean D Rosario, Eric P. Xing.  )
-
-[//]: # (  International Conference on Image Analysis and Recognition &#40;ICIAR&#41;, 2018. &#40;<span style="color:red">Oral</span>&#41;[[<span style="color:blue">Link</span>]]&#40;https://link.springer.com/chapter/10.1007/978-3-319-93000-8_84&#41;[[<span style="color:blue">RG</span>]]&#40;https://www.researchgate.net/publication/325574618_Classification_of_Breast_Cancer_Histopathological_Images_using_Convolutional_Neural_Networks_with_Hierarchical_Loss_and_Global_Pooling&#41;)
-
 ## Workshop Papers
 * **Revisiting Vicinal Risk Minimization for Partially Supervised Multi-Label Classification Under Data Scarcity**  
   **Nanqing Dong**, Jiayi Wang, Irina Voiculescu.  
@@ -115,13 +109,3 @@ author_profile: true
 * **SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays**  
   Wei Dai, **Nanqing Dong**, Zeya Wang, Xiaodan Liang, Hao Zhang, Eric P. Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018.[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/327749572_SCAN_Structure_Correcting_Adversarial_Network_for_Organ_Segmentation_in_Chest_X-Rays)
-
-[//]: # (## Abstract Papers)
-
-[//]: # (### 2019)
-
-[//]: # (* **Polar Transformer Network for Glaucoma Screening**  )
-
-[//]: # (  Sean D Rosario, **Nanqing Dong**, Zeya Wang, Zewei Liu, Eric P. Xing.  )
-
-[//]: # (  IEEE International Symposium on Biomedical Imaging &#40;ISBI&#41;, 2019.)
