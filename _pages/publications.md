@@ -40,7 +40,7 @@ author_profile: true
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael Kampffmeyer, **Nanqing Dong**(**equal contribution**), Xiaodan Liang, Yujia Zhang, Eric P. Xing.   
+  Michael Kampffmeyer, **Nanqing Dong** (<span style="color:orange">equal contribution</span>), Xiaodan Liang, Yujia Zhang, Eric P. Xing.   
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 
