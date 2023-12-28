@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-<font size=4>**#** denotes **Equal Contribution**.</font>   
-<font size=4>**†** denotes **Corresponding Author(s)**.</font>
+**#** denotes **Equal Contribution**.    
+**†** denotes **Corresponding Author(s)**.
 
 ## Journal Papers
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
