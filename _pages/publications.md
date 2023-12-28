@@ -49,7 +49,7 @@ author_profile: true
 
 ## Conference Papers
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
-  Zhi Jin, Sheng Xu, Xiang Zhang, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
+  Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
   AAAI Conference on Artificial Intelligence (AAAI), 2024.  
 
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
