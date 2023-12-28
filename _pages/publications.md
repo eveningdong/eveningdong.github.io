@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<font size=3>**#** denotes **Equal Contribution**.</font>  
-<font size=3>**†** denotes **Corresponding Author(s)**.</font>
+
+
+<font size=4>**#** denotes **Equal Contribution**.</font>   
+<font size=4>**†** denotes **Corresponding Author(s)**.</font>
 
 ## Journal Papers
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
