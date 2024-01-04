@@ -61,7 +61,7 @@ author_profile: true
   International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
 
 * **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision**  
-  Ziyang Wang, **Nanqing Dong**, Irina Voiculescu.  
+  Ziyang Wang, **Nanqing Dong**, Irina Voiculescu†.  
   IEEE International Conference on Image Processing (ICIP), 2022  
 
 * **Quantum Unsupervised Domain Adaptation: Does Entanglement Help?**  
@@ -89,7 +89,7 @@ author_profile: true
   IEEE International Symposium on Biomedical Imaging (ISBI), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8759173)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/334428109_Ellipse_Detection_of_Optic_Disc-and-Cup_Boundary_in_Fundus_Images)
 
 * **Toward Understanding the Impact of Staleness in Distributed Machine Learning**  
-  Wei Dai, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing.  
+  Wei Dai†, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing.  
   International Conference on Learning Representations (ICLR), 2019. [[<span style="color:blue">Link</span>]](https://openreview.net/forum?id=BylQV305YQ)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1810.03264.pdf)
 
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
