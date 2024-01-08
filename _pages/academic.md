@@ -37,6 +37,7 @@ author_profile: true
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
   + NIPS: Annual Conference on Neural Information Processing Systems  
 
+
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine  
   <!-- + BMC Medical Imaging   -->
@@ -46,11 +47,11 @@ author_profile: true
   + Expert Systems with Applications  
   + IEEE Access  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)
-  + IEEE Transactions on Circuits and Systems for Video Technology  (TCSVT)  
+  + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
   + IEEE Transactions on Medical Imaging (TMI)  
   + IEEE Transactions on Multimedia (TMM)  
-  + IEEE Transactions on Neural Networks and Learning Systems  (TNNLS)  
-  + IEEE Transactions on Pattern Analysis and Machine Intelligence  (TPAMI)  
+  + IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+  + IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  
   + Information Fusion  
   + International Journal of Computer Vision (IJCV)  
   + Medical Image Analysis (MedIA)  
@@ -60,4 +61,14 @@ author_profile: true
 
 
 * **Student Ambassador**  
-  + Computer Science Student Ambassador, University of Oxford  
+  + Computer Science Student Ambassador, University of Oxford
+
+
+* **Membership**   
+  + IEEE Student Member
+  + 中国计算机学会 会员
+  + 中国计算机学会计算机视觉专委会 委员  
+  + 中国计算机学会人工智能与模式识别专委会 委员  
+  + 中国计算机学会数字农业专委会 委员  
+  + 中国农学会 会员   
+  + 中国人工智能学会 会员  
