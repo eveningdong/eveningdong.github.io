@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Lifelong Learner"
+title                    : "Nanqing Dong"
 title_separator          : "-"
-name                     : &name "Nanqing Dong"
-description              : &description "personal description"
+name                     : "董楠卿"
+description              : "Scientist"
 url                      : https://eveningdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eveningdong/eveningdong.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nanqing Dong"
   avatar           : "profile_la.png"
-  bio              : "University of Oxford"
+  bio              : "Artist|Scientist|Professor"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Shanghai Artificial Intelligence Laboratory"
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"
   email            : "nanqing.dong@gmail.com"
   uri              :
