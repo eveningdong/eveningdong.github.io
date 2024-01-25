@@ -9,7 +9,11 @@ author_profile: true
 **#** denotes **Equal Contribution**.    
 **†** denotes **Corresponding Author(s)**.
 
-## Journal Papers
+## Journal Papers  
+* **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
+  **Nanqing Dong#†**, Linus Ericsson#, Yongxin Yang, Ales Leonardis, Steven McDonagh†.  
+  Neurocomputing, 2024  
+
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
   Congcong Wang, Yuru Song, Meng Zhao†, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
   Computers in Biology and Medicine, 2023.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)  

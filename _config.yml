@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Nanqing Dong"
+title                    : "Nanqing Dong 董楠卿"
 title_separator          : "-"
 name                     : "董楠卿"
 description              : "Scientist"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nanqing Dong \n 董楠卿"
+  name             : "Nanqing Dong 董楠卿"
   avatar           : "profile_la.png"
-  bio              : "Artist | Scientist | Professor \n PhD@University of Oxford"
+  bio              : "Artist | Scientist | Professor \n Cornell | Carnegie Mellon | Oxford \n Lifelong Learner"
   location         : "Shanghai, China"
   employer         : # "Shanghai Artificial Intelligence Laboratory"&
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"

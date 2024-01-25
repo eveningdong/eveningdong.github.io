@@ -27,6 +27,7 @@ author_profile: true
 ## Academic Service  
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
+  + ACCV: Asian Conference on Computer Vision  
   + CVPR: IEEE Conference on Computer Vision and Pattern Recognition  
   + ECCV: European Conference on Computer Vision  
   + ECML: European Conference on Machine Learning    
@@ -39,10 +40,8 @@ author_profile: true
 
 
 * **Journal Reviewer**  
-  + Artificial Intelligence in Medicine  
-  <!-- + BMC Medical Imaging   -->
-  + Computational and Structural Biotechnology  
-  <!-- + Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization   -->
+  + Artificial Intelligence in Medicine
+  + Computational and Structural Biotechnology
   + Computer Methods and Programs in Biomedicine  
   + Expert Systems with Applications  
   + IEEE Access  
