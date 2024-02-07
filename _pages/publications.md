@@ -12,15 +12,15 @@ author_profile: true
 ## Journal Papers  
 * **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
   **Nanqing Dong#†**, Linus Ericsson#, Yongxin Yang, Ales Leonardis, Steven McDonagh†.  
-  Neurocomputing, 2024  
+  Neurocomputing, 2024. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S0925231224001474)
 
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
   Congcong Wang, Yuru Song, Meng Zhao†, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
-  Computers in Biology and Medicine, 2023.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)  
+  Computers in Biology and Medicine, 2023. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)  
 
 * **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
   Haochen Hua, Xingying Chen, Lei Gan, Jiaxiang Sun, **Nanqing Dong**, Di Liu†, Zhaoming Qin, Mingjia Yin, Kang Li.  
-  IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2023.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10330727)  
+  IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2023. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10330727)  
 
 * **Improving Equity Fund Alpha Estimates with a Second Size Factor**  
   **Nanqing Dong**, Luka Jankovic, Anne Stewart, Scott Stewart†.  
