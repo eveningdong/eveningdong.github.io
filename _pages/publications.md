@@ -10,9 +10,13 @@ author_profile: true
 **†** denotes **Corresponding Author(s)**.
 
 ## Journal Papers  
+* **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
+  **Nanqing Dong#†**，Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
+  IEEE Transactions on Artificial Intelligence (TAI), 2024.   
+
 * **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
   **Nanqing Dong#†**, Linus Ericsson#, Yongxin Yang, Ales Leonardis, Steven McDonagh†.  
-  Neurocomputing, 2024. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S0925231224001474)
+  Neurocomputing, 2024. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S0925231224001474)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2211.09022.pdf)  
 
 * **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
   Congcong Wang, Yuru Song, Meng Zhao†, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
@@ -27,7 +31,7 @@ author_profile: true
   Journal of Portfolio Management, 2022. [[<span style="color:blue">Link</span>]](https://doi.org/10.3905/jpm.2022.1.435)  
 
 * **Federated Partially Supervised Learning with Limited Decentralized Medical Images**  
-  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
+  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric Xing.  
   IEEE Transactions on Medical Imaging (TMI), 2022. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9994748)  
 
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
@@ -35,11 +39,11 @@ author_profile: true
   ACM Computing Surveys, 2022. [[<span style="color:blue">Link</span>]](https://dl.acm.org/doi/10.1145/3555802)  
 
 * **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
-  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric P. Xing.  
+  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric Xing.  
   Pattern Recognition, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S003132032200231X)    
 
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
-  **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric P. Xing.  
+  **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
   Applied Soft Computing, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
   
 * **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
@@ -47,7 +51,7 @@ author_profile: true
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
 
 * **ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for Salient Segmentation**  
-  Michael Kampffmeyer#, **Nanqing Dong#**, Xiaodan Liang†, Yujia Zhang, Eric P. Xing.   
+  Michael Kampffmeyer#, **Nanqing Dong#**, Xiaodan Liang†, Yujia Zhang, Eric Xing.   
   IEEE Transactions on Image Processing (TIP), 2018. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8576646)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1804.07836.pdf)
 
 
@@ -81,31 +85,31 @@ author_profile: true
   European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)  
 
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
-  Zeya Wang†, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric P. Xing.  
+  Zeya Wang†, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric Xing.  
   European Conference on Aritifical Inteligence (ECAI), 2020. (<span style="color:red">Oral</span>)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)
 
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
-  **Nanqing Dong†**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric P. Xing.  
+  **Nanqing Dong†**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
    
 * **Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images**  
-  Zeya Wang†, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric P. Xing.  
+  Zeya Wang†, **Nanqing Dong**, Sean D Rosario, Min Xu, Pengtao Xie, Eric Xing.  
   IEEE International Symposium on Biomedical Imaging (ISBI), 2019. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/8759173)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/334428109_Ellipse_Detection_of_Optic_Disc-and-Cup_Boundary_in_Fundus_Images)
 
 * **Toward Understanding the Impact of Staleness in Distributed Machine Learning**  
-  Wei Dai†, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric P. Xing.  
+  Wei Dai†, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric Xing.  
   International Conference on Learning Representations (ICLR), 2019. [[<span style="color:blue">Link</span>]](https://openreview.net/forum?id=BylQV305YQ)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1810.03264.pdf)
 
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
-  **Nanqing Dong†**, Eric P. Xing.  
+  **Nanqing Dong†**, Eric Xing.  
   British Machine Vision Conference (BMVC), 2018. [[<span style="color:blue">Link</span>]](http://bmvc2018.org/contents/papers/0255.pdf)
 
 * **Domain Adaption in One-Shot Learning**  
-  **Nanqing Dong†**, Eric P. Xing.  
+  **Nanqing Dong†**, Eric Xing.  
   European Conference on Machine Learning (ECML), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
-  **Nanqing Dong†**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
+  **Nanqing Dong†**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 ## Workshop Papers
@@ -114,9 +118,9 @@ author_profile: true
    IEEE/CVF Conference on Computer Vision and Pattern Recognition, Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 2022. [[<span style="color:blue">Link</span>]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Dong_Revisiting_Vicinal_Risk_Minimization_for_Partially_Supervised_Multi-Label_Classification_Under_CVPRW_2022_paper.html)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2204.08954.pdf)  
 
 * **Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images**  
-  **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric P. Xing.  
+  **Nanqing Dong**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.11113.pdf)
 
 * **SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays**  
-  Wei Dai, **Nanqing Dong**, Zeya Wang, Xiaodan Liang, Hao Zhang, Eric P. Xing.  
+  Wei Dai, **Nanqing Dong**, Zeya Wang, Xiaodan Liang, Hao Zhang, Eric Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018.[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/327749572_SCAN_Structure_Correcting_Adversarial_Network_for_Organ_Segmentation_in_Chest_X-Rays)
