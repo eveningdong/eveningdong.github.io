@@ -23,7 +23,7 @@ author_profile: true
     - Superviors: [<span style="color:blue">Prof. Ales Leonardis</span>](https://scholar.google.com/citations?user=BEFl4j0AAAAJ&hl=en), [<span style="color:blue">Dr. Steven McDonagh</span>](https://scholar.google.co.uk/citations?user=k8-q2AoAAAAJ&hl=en), [<span style="color:blue">Dr. Eduardo Pérez-Pellitero</span>](https://scholar.google.es/citations?user=oLWr6EwAAAAJ&hl=en)   
 
 <a href="https://www.amazon.science"><img src="https://eveningdong.github.io/images/amazon.png" alt="drawing" style="height:80px;"/></a>  
-* **Amazon Development Center**, Tübingen, Baden-Württemberg, Germany    
+* **Amazon Science**, Tübingen, Baden-Württemberg, Germany    
   + **Applied Scientist Intern**, Jul 2020 - Oct 2020  
     <!-- - Contrastive Learning for Amazon Product Images   -->
     - Supervisors: Dr. Luitpold Staudigl, [<span style="color:blue">Dr. Jochen Gast</span>](https://scholar.google.com/citations?user=tmRcFacAAAAJ&hl=en)   
