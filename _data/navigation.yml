@@ -6,8 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: /publication/
+
+  - title: "Talk"
+    url: /talk/
 
   - title: "Work"
     url: /work/
@@ -15,6 +18,6 @@ main:
   - title: "Teaching"
     url: /teach/
 
-  - title: "Interests"
-    url: /interests/  
+  - title: "Interest"
+    url: /interest/
 

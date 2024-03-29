@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Personal Interests"
-permalink: /interests/
+title: "Personal Interest"
+permalink: /interest/
 author_profile: true
 ---
 ## Courses  
