@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers  
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
   **Nanqing Dong#†**，Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
-  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf)     
+  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)    
 
 * **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
   **Nanqing Dong#†**, Linus Ericsson#, Yongxin Yang, Ales Leonardis, Steven McDonagh†.  
