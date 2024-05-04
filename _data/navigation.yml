@@ -12,10 +12,10 @@ main:
   - title: "Talk"
     url: /talk/
 
-  - title: "Work"
-    url: /work/
+#  - title: "Work"
+#    url: /work/
 
-  - title: "Teaching"
+  - title: "Teach "
     url: /teach/
 
   - title: "Interest"
