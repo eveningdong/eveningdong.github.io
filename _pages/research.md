@@ -1,28 +1,27 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
-## Representative Projects  
-
-<a><img src="https://eveningdong.github.io/images/fengdeng.png" alt="drawing" width="480px"/></a>  
-* **SeedLLM**   
-  **Project Lead**     
-  SeedLLM is the first large language model (LLM) for the seed industry. It aims to push forward the technical advancement of seed design with AI.  
-  新闻报道：
+## SeedLLM
+SeedLLM is the first large language model (LLM) for the seed industry. It aims to promote technological progress of seed design with AI.  
+<a><img src="https://eveningdong.github.io/images/fengdeng.jpg" alt="drawing" width="400px"/></a>  
+* Role: **Project Lead**
+* Update: Version 0.1
+* 新闻报道：
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin)
   [[<span style="color:purple">科技日报</span>]](http://www.stdaily.com/index/kejixinwen/202404/4f41cabe453b46dfbf80135898e9f068.shtml)
   [[<span style="color:purple">解放日报</span>]](https://www.jfdaily.com/sgh/detail?id=1308703)
   [[<span style="color:purple">海南日报</span>]](http://news.hndaily.cn/h5/html5/2024-04/29/content_58464_17366089.htm)  
-  政府转载： 
+* 政府转载： 
   [[<span style="color:red">上海市人民政府</span>]](https://www.shanghai.gov.cn/nw4411/20240429/022c94ffe42b492e927e64ec1811c9a5.html)
   [[<span style="color:red">海南省人民政府</span>]](https://www.hainan.gov.cn/hainan/5309/202404/0433c6c5066441739106da66192a4f0c.shtml?ddtab=true)
   [[<span style="color:red">上海市科学与技术委员会</span>]](https://mp.weixin.qq.com/s?__biz=MzA3Mzg1NzkxMQ==&mid=2650117046&idx=1&sn=619c0a9562691832306913f003001f5e&chksm=86c76035802d65b156fc5ecb30e9e89c8386ea7eee66e3c40fe634603e802ced3d6a538531ef&scene=126&sessionid=1714291862&version=4.1.22.6014&platform=win#rd)
   [[<span style="color:red">上海市农业与农村委员会</span>]](https://mp.weixin.qq.com/s/c0ZYy5foZY7FvrAEzVp6jQ)
   [[<span style="color:red">海南省工业与信息化厅</span>]](https://mp.weixin.qq.com/s?__biz=MzIzMDQ3NTUxNg==&mid=2247525305&idx=1&sn=16a4553fd991df44e192085d2abf08c2&chksm=e8b0f02adfc7793c34e9e5948fc3b861cfd19ec8cab9c565f55da8e36700b13944397038a702&mpshare=1&srcid=0428LSUTxiygy2k4ZWWuGCt5&sharer_shareinfo=68033b8be88d0e2731ed41b08f423224&sharer_shareinfo_first=6d7d959f278929027602b24ae24b59d8&from=groupmessage&scene=1&subscene=10000&sessionid=1714298696&clicktime=1714302447&enterid=1714302447&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7177687-zh_CN-zip&fasttmpl_flag=0&realreporttime=1714302447838&devicetype=android-31&version=4.1.22.6014&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=GB&exportkey=n_ChQIAhIQOOoOYBgqbP6AU9QJ4cBNVRLrAQIE97dBBAEAAAAAAJXbIj1%2FBVAAAAAOpnltbLcz9gKNyK89dVj0sd%2FjDrrY0ym%2BERoKlJXwnOzz%2FHjPjEkR0mytam8AjFwq3V0k8aPYXfzAM1Mh9rA6Ta3pc6seBeYcK4pYN3pTj9XeJND%2FVjJ47lwujnYDqhwW0XC3eFnmc5mCJWH6Yc%2F4LY0CLFIodcfLRUkEuLmdHPcMsmkLK2SFRpPVBtZL%2BRkHpL16tg5RYdgbKd8HAwxHCK2T9WNFv6LCx1S01r7UvRiHT0duzltSDzLtF8Q9qcYHNC0gDDer6wEoQGV7IgiNOo0z27A%3D&pass_ticket=6hYfSqMIFLAIGbL9lJq%2BnuZY%2B0ulp0%2FwuOg0tAlxEIb69BH65J82vNS%2BHBqvIUlBt7Jjv%2Br3D7D%2FYWlptDBpJQ%3D%3D&wx_header=3&platform=win)
-
+* News: We are looking for enthusiastic postdocs, engineers, and students to join the research team.  
 <!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
 * **University of Oxford**, Oxford, England, United Kingdom     
   + **Doctoral Student**, Department of Computer Science, 2019 - 2023    
