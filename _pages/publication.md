@@ -10,9 +10,13 @@ author_profile: true
 **†** denotes **Corresponding Author(s)**.
 
 ## Journal Papers  
+* **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
+  Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt， Yike Guo  
+  IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
+
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
   **Nanqing Dong#†**，Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
-  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)    
+  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/abstract/document/10471193)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)    
 
 * **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
   **Nanqing Dong#†**, Linus Ericsson#, Yongxin Yang, Ales Leonardis, Steven McDonagh†.  
