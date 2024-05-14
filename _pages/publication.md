@@ -65,7 +65,7 @@ author_profile: true
   International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
 
 * **Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method**  
-  Weizhen Liu， Ao Li， Ze Wu， Yue Li， Baobin Ge， Guangyu Lan， Shilin Chen， Minghe Li， Yunfei Liu， Xiaohui Yuan†， **Nanqing Dong†**  
+  Weizhen Liu，Ao Li，Ze Wu，Yue Li，Baobin Ge，Guangyu Lan，Shilin Chen，Minghe Li，Yunfei Liu，Xiaohui Yuan†，**Nanqing Dong†**  
   International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
 
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
