@@ -60,6 +60,14 @@ author_profile: true
 
 
 ## Conference Papers
+* **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
+  Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
+
+* **Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method**  
+  Weizhen Liu， Ao Li， Ze Wu， Yue Li， Baobin Ge， Guangyu Lan， Shilin Chen， Minghe Li， Yunfei Liu， Xiaohui Yuan†， **Nanqing Dong†**  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
+
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
   Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
   AAAI Conference on Artificial Intelligence (AAAI), 2024.  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2312.11584.pdf)   
