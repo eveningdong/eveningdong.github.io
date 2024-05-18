@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Papers  
 * **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
-  Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt， Yike Guo  
+  Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt，Yike Guo  
   IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
 
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
@@ -60,6 +60,10 @@ author_profile: true
 
 
 ## Conference Papers
+* **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**  
+  Weizhen Liu，Jiayu Tan，Guangyu Lan，Ao Li，Dongye Li，Le Zhao，Xiaohui Yuan†，**Nanqing Dong†**  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
+
 * **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
   Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**  
   International Joint Conference on Artificial Intelligence (IJCAI), 2024.  
@@ -135,4 +139,4 @@ author_profile: true
 
 * **SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays**  
   Wei Dai, **Nanqing Dong**, Zeya Wang, Xiaodan Liang, Hao Zhang, Eric Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018.[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/327749572_SCAN_Structure_Correcting_Adversarial_Network_for_Organ_Segmentation_in_Chest_X-Rays)
+  International Conference on Medical Image Computing and Computer Assisted Intervention, Workshop on Deep Learning in Medical Image Analysis (MICCAI/DLMIA), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/327749572_SCAN_Structure_Correcting_Adversarial_Network_for_Organ_Segmentation_in_Chest_X-Rays)
