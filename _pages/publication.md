@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers  
 * **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
   Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt，Yike Guo  
-  IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
+  IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10535217)[[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
 
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
   **Nanqing Dong#†**，Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
