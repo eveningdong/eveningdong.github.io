@@ -16,4 +16,6 @@ author_profile: true
   + May 20th, 2024@Nanjing University, Nanjing, Jiangsu, China  
   <a><img src="https://eveningdong.github.io/images/nju.png" alt="drawing" style="width:240px;"/></a>  
   + May 21st, 2024@Nanjing University of Science and Technology, Nanjing, Jiangsu, China  
-  <a><img src="https://eveningdong.github.io/images/nust.png" alt="drawing" style="width:240px;"/></a>
+  <a><img src="https://eveningdong.github.io/images/nust.png" alt="drawing" style="width:240px;"/></a>  
+  + June 5th, 2024@Huazhong Agricultural University, Wuhan, Hubei, China  
+  <a><img src="https://eveningdong.github.io/images/hzau.jpg" alt="drawing" style="width:240px;"/></a>  
