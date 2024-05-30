@@ -19,3 +19,5 @@ author_profile: true
   <a><img src="https://eveningdong.github.io/images/nust.png" alt="drawing" style="width:240px;"/></a>  
   + June 5th, 2024@Huazhong Agricultural University, Wuhan, Hubei, China  
   <a><img src="https://eveningdong.github.io/images/hzau.jpg" alt="drawing" style="width:240px;"/></a>  
+  + June 5th, 2024@Wuhan University of Technology, Wuhan, Hubei, China  
+  <a><img src="https://eveningdong.github.io/images/whut.png" alt="drawing" style="width:240px;"/></a>  
