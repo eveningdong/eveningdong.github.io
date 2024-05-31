@@ -25,7 +25,7 @@ author_profile: true
     人工智能卓越人才试点班 – 国智班
     电子信息与电气工程学院  
     上海市闵行区 200240  
-    <a><img src="https://eveningdong.github.io/images/sjtu.png" alt="drawing" width="240px"/></a>
+  <a><img src="https://eveningdong.github.io/images/sjtu.png" alt="drawing" width="240px"/></a>
 
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
