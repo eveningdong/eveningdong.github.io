@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers  
 * **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
   **Nanqing Dong†**, Michael Kampffmeyer†, Haoyang Su, Eric Xing.  
-  Applied Soft Computing, 2024.  
+  Applied Soft Computing, 2024.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S156849462400629X)  
 
 * **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
   Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt，Yike Guo  
