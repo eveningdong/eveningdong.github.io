@@ -22,10 +22,21 @@ author_profile: true
 ## Academic Positions  
 * **上海交通大学**  
   校外导师， 2024 - 至今  
-  人工智能卓越人才试点班 – 国智班
+  人工智能卓越人才试点班 – 国智班  
   电子信息与电气工程学院  
   上海市闵行区 200240  
   <a><img src="https://eveningdong.github.io/images/sjtu.png" alt="drawing" width="240px"/></a>
+
+* **清华大学**  
+  校外导师， 2024 - 至今  
+  电子工程系  
+  信息科学技术学院  
+  北京市海淀区 100084  
+  <a><img src="https://eveningdong.github.io/images/tsinghua.jpg" alt="drawing" width="240px"/></a>  
+
+* **国家人工智能学院（上海）**  
+  博士生导师， 2024 - 至今  
+  
 
 ## Academic Awards  
 * **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  

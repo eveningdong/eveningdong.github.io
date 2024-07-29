@@ -28,31 +28,15 @@ author_profile: true
   + **Teaching Assistant**, Department of Statistical Science  
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
 
-## Current and Past Students
-  + **Zhaoming Qin** (2021 - Present)  
-    - Ph.D. in Robotics, Control, and Intelligent Systems, Swiss Federal Institute of Technology Lausanne  
-    - M.S. in Control Science and Engineering, Tsinghua University  
+## Current and Past PhD Students
+  + **Zhonghang Yuan** (2024 - Present)
+    - University of Science and Technology of China
 
-  + **Jiayi Wang** (2021 - 2022)  
-    - B.A. in Mathematics, University of Oxford
+  + **Zhefan Wang** (2024 - Present)  
+    - Fudan University  
 
-  + **Cara Higgins** (2021 - 2022)  
-    - B.S. in Computer Science, University of Oxford
+  + **Jinzhe Li** (2024 - Present)  
+    - Fudan University  
 
-  + **Zehua Cheng** (2022 - Present)    
-    - Ph.D. in Computer Science, University of Oxford  
-
-  + **Zhipeng Wang** (2022 - Present)  
-    - Ph.D. in Computer Science, Imperial College London  
-
-  + **Zhenlong Yuan** (2023 - Present)
-    - Ph.D. in Computer Science, University of Chinese Academy of Sciences
-
-  + **Wenwei Han** (2023 - Present)
-    - M.S. in Computer Science, University of Chinese Academy of Sciences
-
-  + **Minghe Li** (2023 - Present)  
-    - M.S. in Artificial Intelligence, Nankai University  
-
-
-
+  + **Jie Ying** (2024 - Present)    
+    - Beihang University  
