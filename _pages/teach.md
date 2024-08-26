@@ -29,14 +29,14 @@ author_profile: true
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
 
 ## Current and Past PhD Students
-  + **Zhonghang Yuan** (2024 - Present)
-    - University of Science and Technology of China
+  + **复旦大学 Fudan University**
+    - **Zhefan Wang**, 2024 - Present   
+    - **Jinzhe Li**, Fudan University, 2024 - Present  
+  
 
-  + **Zhefan Wang** (2024 - Present)  
-    - Fudan University  
+  + **中国科学技术大学 University of Science and Technology of China**    
+    - **Zhonghang Yuan**, 2024 - Present
 
-  + **Jinzhe Li** (2024 - Present)  
-    - Fudan University  
 
-  + **Jie Ying** (2024 - Present)    
-    - Beihang University  
+  + **北京航空航天大学 Beihang University**  
+    - **Jie Ying**, 2024 - Present    
