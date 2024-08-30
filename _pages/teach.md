@@ -31,7 +31,7 @@ author_profile: true
 ## Current and Past PhD Students
   + **复旦大学 Fudan University**
     - **Zhefan Wang**, 2024 - Present   
-    - **Jinzhe Li**, Fudan University, 2024 - Present  
+    - **Jinzhe Li**, 2024 - Present  
   
 
   + **中国科学技术大学 University of Science and Technology of China**    

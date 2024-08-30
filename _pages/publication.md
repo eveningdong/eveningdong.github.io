@@ -70,11 +70,11 @@ author_profile: true
 
 * **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
   Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]]（https://doi.org/10.24963/ijcai.2024/798）    
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/798)   
 
 * **Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method**  
   Weizhen Liu，Ao Li，Ze Wu，Yue Li，Baobin Ge，Guangyu Lan，Shilin Chen，Minghe Li，Yunfei Liu，Xiaohui Yuan†，**Nanqing Dong†**  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]]（https://doi.org/10.24963/ijcai.2024/815）  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/815)  
 
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
   Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
