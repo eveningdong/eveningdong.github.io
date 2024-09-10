@@ -76,15 +76,15 @@ author_profile: true
 ### AI for Science
 * **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**  
   Weizhen Liu，Jiayu Tan，Guangyu Lan，Ao Li，Dongye Li，Le Zhao，Xiaohui Yuan†，**Nanqing Dong†**  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/816)  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/816)  
 
 * **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
   Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/798)   
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/798)   
 
 * **Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method**  
   Weizhen Liu，Ao Li，Ze Wu，Yue Li，Baobin Ge，Guangyu Lan，Shilin Chen，Minghe Li，Yunfei Liu，Xiaohui Yuan†，**Nanqing Dong†**  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/815)  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/815)  
 
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
   Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
@@ -98,11 +98,11 @@ author_profile: true
 ### Machine Learning   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong†**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh†.  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2022. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
+  International Joint Conference on Artificial Intelligence (IJCAI), 2022. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
 
 * **Adversarial Domain Adaptation Being Aware of Class Relationships**   
   Zeya Wang†, Baoyu Jing, Yang Ni, **Nanqing Dong**, Pengtao Xie, Eric Xing.  
-  European Conference on Aritifical Inteligence (ECAI), 2020. (<span style="color:red">Oral</span>)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)  
+  European Conference on Aritifical Inteligence (ECAI), 2020. [<span style="color:red">Oral</span>][[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1905.11931.pdf)  
 
 * **Toward Understanding the Impact of Staleness in Distributed Machine Learning**  
   Wei Dai†, Yi Zhou, **Nanqing Dong**, Hao Zhang, Eric Xing.  
@@ -110,7 +110,7 @@ author_profile: true
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong†**, Eric Xing.  
-  European Conference on Machine Learning (ECML), 2018. (<span style="color:red">Oral</span>)[[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
+  European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
 
 
 ### Medical Image Analysis  
