@@ -7,24 +7,37 @@ author_profile: true
 
 ## Academic Talks
 * **基于人工智能的农业科学**  
-  + 2023/12/16@Lanzhou University, Lanzhou, Gansu, China  
+  + 兰州大学  
+    2023年12月16日  
+    中国甘肃省兰州市  
    <a><img src="https://eveningdong.github.io/images/lu.jpg" alt="drawing" style="width:240px;"/></a>
 
 * **AI for Science: 人工智能驱动的科学研究**
-  + 2024/04/09@China Agricultural University, Haidian, Beijing, China   
+  + 中国农业大学  
+    2024年04月09日  
+    中国北京市海淀区  
   <a><img src="https://eveningdong.github.io/images/cau.png" alt="drawing" style="width:240px;"/></a>  
-  + 2024/05/20@Nanjing University, Nanjing, Jiangsu, China  
+  + 南京大学  
+    2024年05月20日  
+    中国江苏省南京市  
   <a><img src="https://eveningdong.github.io/images/nju.png" alt="drawing" style="width:240px;"/></a>  
-  + 2024/05/21@Nanjing University of Science and Technology, Nanjing, Jiangsu, China  
+  + 南京理工大学  
+    2024年05月21日  
+    中国江苏省南京市  
   <a><img src="https://eveningdong.github.io/images/nust.png" alt="drawing" style="width:240px;"/></a>  
-  + 2024/06/05@Huazhong Agricultural University, Wuhan, Hubei, China  
+  + 华中农业大学  
+    2024年06月05日  
+    中国湖北省武汉市  
   <a><img src="https://eveningdong.github.io/images/hzau.jpg" alt="drawing" style="width:240px;"/></a>  
-  + 2024/06/05@Wuhan University of Technology, Wuhan, Hubei, China  
+  + 武汉理工大学  
+    2024年06月05日  
+    中国湖北省武汉市  
   <a><img src="https://eveningdong.github.io/images/whut.png" alt="drawing" style="width:240px;"/></a>  
 
 ## Industrial Talks  
 * **新一代人工智能下的农业发展：机遇与挑战**  
-  + 2024/09/08@Pujing Innovation Forum, Pudong, Shanghai, China  
-  <a><img src="https://eveningdong.github.io/images/pjforum.png" alt="drawing" style="width:240px;"/></a>    
+  + 第十七届浦江创新论坛  
+    主办单位： 科学技术部、上海市人民政府
+  <a><img src="https://eveningdong.github.io/images/pjforum.png" alt="drawing" style="width:240px;"/></a>  
   [[<span style="color:purple">新华社·个人采访</span>]](https://app.xinhuanet.com/news/article.html?articleId=c4587bedd6695594224a497ca8839e37&timestamp=97173)
   [[<span style="color:purple">新华社·报道</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin)  

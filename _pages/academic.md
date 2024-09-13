@@ -34,14 +34,20 @@ author_profile: true
   北京市海淀区 100084  
   <a><img src="https://eveningdong.github.io/images/tsinghua.jpg" alt="drawing" width="240px"/></a>  
 
-* **国家人工智能学院（上海）**  
-  博士生导师， 2024 - 至今  
+* **上海创智学院**  
+  全时导师， 2024 - 2025  
+  上海市徐汇区 200231  
   
 
-## Academic Awards  
-* **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  
-* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   
-* **FLock PhD Scholarship**, FLock.io, 2022-2023
+## Awards and Honors  
+* **青年创新先锋**， 2024  
+  第十七届浦江创新论坛 (主办单位： 科学技术部、上海市人民政府)    
+
+[//]: # (* **Department of Computer Science Scholarship**, University of Oxford, 2019 - 2022  )
+
+[//]: # (* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   )
+
+[//]: # (* **FLock PhD Scholarship**, FLock.io, 2022-2023)
 
 ## Academic Service  
 * **Conference Reviewer**  
