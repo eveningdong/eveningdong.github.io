@@ -74,9 +74,9 @@ author_profile: true
 
 ## Conference Papers  
 ### AI for Science  
-* ** **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA**  
+* **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA**  
   Lifeng Qiao, Peng Ye, Yuchen Ren, Weiqiang Bai, chaoqi liang, Xinzhu Ma, **Nanqing Dong**, Wanli Ouyang  
-  Annual Conference on Neural Information Processing Systems （NeuIPS), 2024  
+  Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
 
 * **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**  
   Weizhen Liu，Jiayu Tan，Guangyu Lan，Ao Li，Dongye Li，Le Zhao，Xiaohui Yuan†，**Nanqing Dong†**  
