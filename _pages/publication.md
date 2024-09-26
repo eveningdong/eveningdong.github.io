@@ -79,7 +79,7 @@ author_profile: true
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
 
 * **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**  
-  Weizhen Liu，Jiayu Tan，Guangyu Lan，Ao Li，Dongye Li，Le Zhao，Xiaohui Yuan†，**Nanqing Dong†**  
+  Weizhen Liu, Jiayu Tan, Guangyu Lan, Ao Li, Dongye Li, Le Zhao, Xiaohui Yuan†, **Nanqing Dong†**  
   International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/816)  
 
 * **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
