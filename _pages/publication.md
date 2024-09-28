@@ -36,16 +36,16 @@ author_profile: true
 
 ### Federated Learning  
 * **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
-  Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt，Yike Guo  
+  Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt, Yike Guo  
   IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10535217)[[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
 
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
-  **Nanqing Dong#†**，Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
+  **Nanqing Dong#†**, Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
   IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/abstract/document/10471193)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)
 
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao†.  
-  ACM Computing Surveys, 2022. [[<span style="color:blue">Link</span>]](https://dl.acm.org/doi/10.1145/3555802)   
+  ACM Computing Surveys, 2023. [[<span style="color:blue">Link</span>]](https://dl.acm.org/doi/10.1145/3555802)   
 
 ### Machine Learning
 * **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
@@ -68,7 +68,7 @@ author_profile: true
 
 * **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
   **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
-  Applied Soft Computing, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
+  Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)  
 
 
 ## Conference Papers  
