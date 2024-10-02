@@ -57,6 +57,7 @@ author_profile: true
 ## Academic Service  
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
+  + AISTATS: International Conference on Artificial Intelligence and Statistics  
   + ACCV: Asian Conference on Computer Vision  
   + CVPR: IEEE Conference on Computer Vision and Pattern Recognition  
   + ECCV: European Conference on Computer Vision  
