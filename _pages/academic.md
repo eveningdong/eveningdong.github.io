@@ -77,6 +77,7 @@ author_profile: true
   + Computer Methods and Programs in Biomedicine  
   + Expert Systems with Applications  
   + IEEE Access  
+  + IEEE Internet of Things Journal (IoT)  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)  
   + IEEE Transactions on Artificial Intelligence (TAI)  
   + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
