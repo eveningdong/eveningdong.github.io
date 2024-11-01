@@ -23,6 +23,11 @@ SeedLLM is the first large language model (LLM) for the seed industry. It aims t
   [[<span style="color:red">海南省工业与信息化厅</span>]](https://mp.weixin.qq.com/s?__biz=MzIzMDQ3NTUxNg==&mid=2247525305&idx=1&sn=16a4553fd991df44e192085d2abf08c2&chksm=e8b0f02adfc7793c34e9e5948fc3b861cfd19ec8cab9c565f55da8e36700b13944397038a702&mpshare=1&srcid=0428LSUTxiygy2k4ZWWuGCt5&sharer_shareinfo=68033b8be88d0e2731ed41b08f423224&sharer_shareinfo_first=6d7d959f278929027602b24ae24b59d8&from=groupmessage&scene=1&subscene=10000&sessionid=1714298696&clicktime=1714302447&enterid=1714302447&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7177687-zh_CN-zip&fasttmpl_flag=0&realreporttime=1714302447838&devicetype=android-31&version=4.1.22.6014&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=GB&exportkey=n_ChQIAhIQOOoOYBgqbP6AU9QJ4cBNVRLrAQIE97dBBAEAAAAAAJXbIj1%2FBVAAAAAOpnltbLcz9gKNyK89dVj0sd%2FjDrrY0ym%2BERoKlJXwnOzz%2FHjPjEkR0mytam8AjFwq3V0k8aPYXfzAM1Mh9rA6Ta3pc6seBeYcK4pYN3pTj9XeJND%2FVjJ47lwujnYDqhwW0XC3eFnmc5mCJWH6Yc%2F4LY0CLFIodcfLRUkEuLmdHPcMsmkLK2SFRpPVBtZL%2BRkHpL16tg5RYdgbKd8HAwxHCK2T9WNFv6LCx1S01r7UvRiHT0duzltSDzLtF8Q9qcYHNC0gDDer6wEoQGV7IgiNOo0z27A%3D&pass_ticket=6hYfSqMIFLAIGbL9lJq%2BnuZY%2B0ulp0%2FwuOg0tAlxEIb69BH65J82vNS%2BHBqvIUlBt7Jjv%2Br3D7D%2FYWlptDBpJQ%3D%3D&wx_header=3&platform=win)
 * News: We are looking for enthusiastic postdocs, engineers, and students to join the research team.    
 
+## VirSci
+VirSci (Virtual Scientists) is a multi-agent role-play simulator based on large language models (LLMs). It aims to discover the mechanisms underlying the **Science of Science**. It models the scientific community with real-world academic data and simulates the academic collaborations in an end-to-end pipeline from team construction to idea generation. 
+* <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
+* Role: **Project Co-Lead**  
+* Project Homepage: https://open-sciencelab.github.io/Social_Science/  
 
 <!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
 * **University of Oxford**, Oxford, England, United Kingdom     
