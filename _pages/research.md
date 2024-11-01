@@ -27,7 +27,9 @@ SeedLLM is the first large language model (LLM) for the seed industry. It aims t
 VirSci (Virtual Scientists) is a multi-agent role-play simulator based on large language models (LLMs). It aims to discover the mechanisms underlying the **Science of Science**. It models the scientific community with real-world academic data and simulates the academic collaborations in an end-to-end pipeline from team construction to idea generation. 
 * <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Co-Lead**  
-* Project Homepage: https://open-sciencelab.github.io/Social_Science/  
+* Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Social_Science/ )[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403 )  [[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Social_Science ) 
+* News: We are looking for enthusiastic research interns to join the research team.     
+
 
 <!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
 * **University of Oxford**, Oxford, England, United Kingdom     
