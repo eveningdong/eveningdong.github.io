@@ -28,6 +28,7 @@ VirSci (Virtual Scientists) is a multi-agent role-play simulator based on large 
 <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Co-Lead**  
 * Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Social_Science/ )[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403 )  [[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Social_Science ) 
+* Media: [[<span style="color:blue">ScienceAI</span>]]( )
 * News: We are looking for enthusiastic research interns to join the research team.     
 
 
