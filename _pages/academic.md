@@ -19,37 +19,60 @@ author_profile: true
   Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
 
-## Academic Positions  
-* **上海交通大学**  
-  校外导师， 2024 - 至今  
-  人工智能卓越人才试点班 – 国智班  
-  电子信息与电气工程学院  
-  上海市闵行区 200240  
-  <a><img src="https://eveningdong.github.io/images/sjtu.png" alt="drawing" width="240px"/></a>
+[//]: # (## Academic Positions  )
 
-* **清华大学**  
-  校外导师， 2024 - 至今  
-  电子工程系  
-  信息科学技术学院  
-  北京市海淀区 100084  
-  <a><img src="https://eveningdong.github.io/images/tsinghua.jpg" alt="drawing" width="240px"/></a>  
+[//]: # (* **上海交通大学**  )
 
-* **上海创智学院**  
-  全时导师， 2024 - 2025  
-  上海市徐汇区 200231  
+[//]: # (  校外导师， 2024 - 至今  )
+
+[//]: # (  人工智能卓越人才试点班 – 国智班  )
+
+[//]: # (  电子信息与电气工程学院  )
+
+[//]: # (  上海市闵行区 200240  )
+
+[//]: # (  <a><img src="https://eveningdong.github.io/images/sjtu.png" alt="drawing" width="240px"/></a>)
+
+[//]: # ()
+[//]: # (* **清华大学**  )
+
+[//]: # (  校外导师， 2024 - 至今  )
+
+[//]: # (  电子工程系  )
+
+[//]: # (  信息科学技术学院  )
+
+[//]: # (  北京市海淀区 100084  )
+
+[//]: # (  <a><img src="https://eveningdong.github.io/images/tsinghua.jpg" alt="drawing" width="240px"/></a>  )
+
+[//]: # ()
+[//]: # (* **上海创智学院**  )
+
+[//]: # (  全时导师， 2024 - 2025  )
+
+[//]: # (  上海市徐汇区 200231  )
   
 
-## Awards and Honors  
-* **Department of Computer Science Scholarship**, 2019 - 2022    
-  University of Oxford
+[//]: # (## Awards and Honors  )
 
-* **青年先锋**， 2024  
-  第十七届浦江创新论坛  
-  主办单位：科学技术部和上海市人民政府     
+[//]: # (* **Department of Computer Science Scholarship**, 2019 - 2022    )
 
-* **特邀报告嘉宾**， 2024  
-  第二十四届中国国际工业博览会  
-  主办单位：工业和信息化部、国家发展和改革委员会、商务部、科学技术部、中国科学院、中国工程院、中国国际贸易促进委员会、联合国工业发展组织和上海市人民政府
+[//]: # (  University of Oxford)
+
+[//]: # ()
+[//]: # (* **青年先锋**， 2024  )
+
+[//]: # (  第十七届浦江创新论坛  )
+
+[//]: # (  主办单位：科学技术部和上海市人民政府     )
+
+[//]: # ()
+[//]: # (* **特邀报告嘉宾**， 2024  )
+
+[//]: # (  第二十四届中国国际工业博览会  )
+
+[//]: # (  主办单位：工业和信息化部、国家发展和改革委员会、商务部、科学技术部、中国科学院、中国工程院、中国国际贸易促进委员会、联合国工业发展组织和上海市人民政府)
 
 [//]: # (* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   )
 

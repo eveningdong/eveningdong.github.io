@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Papers   
 ### AI for Engineering   
 * **Scalable Multi-Agent Reinforcement Learning for Residential Load Scheduling under Data Governance**  
-  Zhaoming Qin#, **Nanqing Dong#†**, Di Liu†, Zhefan Wang, Junwei Cao†.    
+  Zhaoming Qin#, **Nanqing Dong†**, Di Liu†, Zhefan Wang, Junwei Cao†.    
   IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10756612)    
 
 * **A Demand Side Joint Electricity and Carbon Trading Mechanism**  
