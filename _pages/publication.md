@@ -10,8 +10,12 @@ author_profile: true
 **†** denotes **Corresponding Author(s)**.
 
 ## Journal Papers   
-### AI for Engineering   
-* **Scalable Multi-Agent Reinforcement Learning for Residential Load Scheduling under Data Governance**  
+### AI for Science and Engineering   
+* **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
+  Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
+  Nature Communications, 2024.  
+
+* **Scalable Multi-Agent Reinforcement Learning for Residential Load Scheduling under Data Governance**    
   Zhaoming Qin#, **Nanqing Dong†**, Di Liu†, Zhefan Wang, Junwei Cao†.    
   IEEE Transactions on Industrial Cyber-Physical Systems (TICPS), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10756612)    
 
@@ -21,7 +25,7 @@ author_profile: true
 
 * **Data-driven Dynamical Control for Bottom-up Energy Internet System**  
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao†.  
-  IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)  
+  IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)
 
 ### Computer Vision
 * **Label-Efficient Object Detection via Region Proposal Network Pre-Training**  
@@ -76,7 +80,7 @@ author_profile: true
 
 
 ## Conference Papers  
-### AI for Science  
+### AI for Science and Engineering  
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
   Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**       
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
