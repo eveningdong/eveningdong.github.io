@@ -81,6 +81,10 @@ author_profile: true
 
 ## Conference Papers  
 ### AI for Science and Engineering  
+* **Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection**  
+  Dingning Liu#，Jinzhe Li#，Haoyang Su#，Bei Cui†, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, **Nanqing Dong†**   
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.  
+
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
   Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**       
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
