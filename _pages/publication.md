@@ -13,7 +13,7 @@ author_profile: true
 ### AI for Science and Engineering   
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
-  Nature Communications, 2024.  
+  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)   
 
 * **Scalable Multi-Agent Reinforcement Learning for Residential Load Scheduling under Data Governance**    
   Zhaoming Qin#, **Nanqing Dong†**, Di Liu†, Zhefan Wang, Junwei Cao†.    
