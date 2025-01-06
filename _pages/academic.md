@@ -97,8 +97,8 @@ author_profile: true
 
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
-  + Computational and Structural Biotechnology
-  + Computer Methods and Programs in Biomedicine  
+[//]: # (  + Computational and Structural Biotechnology)
+[//]: # (  + Computer Methods and Programs in Biomedicine  )
   + Expert Systems with Applications  
   + IEEE Access  
   + IEEE Internet of Things Journal (IoT)  
@@ -112,6 +112,7 @@ author_profile: true
   + Information Fusion  
   + International Journal of Computer Vision (IJCV)  
   + Medical Image Analysis (MedIA)  
+  + Nature Communications  
   + Neural Computing and Applications  
   + Neural Networks  
   + Pattern Recognition  
