@@ -33,6 +33,11 @@ author_profile: true
     2024年06月05日  
     中国湖北省武汉市  
   <a><img src="https://eveningdong.github.io/images/whut.png" alt="drawing" style="width:240px;"/></a>  
+  + 崖州湾国家实验室  
+    2024年12月04日  
+    中国海南省三亚市  
+    <a><img src="https://eveningdong.github.io/images/yzw.jpg" alt="drawing" style="width:240px;"/></a>  
+  
 
 ## Industrial Talks  
 * **新一代人工智能下的农业发展：机遇与挑战**  

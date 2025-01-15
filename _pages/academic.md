@@ -78,6 +78,7 @@ author_profile: true
 
 [//]: # (* **FLock PhD Scholarship**, FLock.io, 2022-2023)
 
+
 ## Academic Service  
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
@@ -92,8 +93,7 @@ author_profile: true
   + ICML: International Conference on Machine Learning  
   + ICPR: International Conference on Pattern Recognition  
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
-  + NIPS: Annual Conference on Neural Information Processing Systems  
-
+  + NIPS: Annual Conference on Neural Information Processing Systems
 
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
