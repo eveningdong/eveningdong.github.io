@@ -97,8 +97,6 @@ author_profile: true
 
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
-[//]: # (  + Computational and Structural Biotechnology)
-[//]: # (  + Computer Methods and Programs in Biomedicine  )
   + Expert Systems with Applications  
   + IEEE Access  
   + IEEE Internet of Things Journal (IoT)  
