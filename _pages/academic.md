@@ -4,20 +4,33 @@ title: "Academic Experience"
 permalink: /academic/
 author_profile: true
 ---
-## Education
-* **University of Oxford**   
-  Ph.D. in Computer Science, 2019 - 2023  
-  Department of Computer Science  
-  Mathematical, Physical and Life Sciences Division  
-  Oxford, OX1 3QD, UK  
-  <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
-* **Cornell University**  
-  M.S. in Applied Statistics, 2015 - 2017  
-  Department of Statistical Science  
-  Computing and Information Science (CIS)  
-  Ithaca, NY 14853, USA  
-  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> 
+[//]: # (## Education)
+
+[//]: # (* **University of Oxford**   )
+
+[//]: # (  Ph.D. in Computer Science, 2019 - 2023  )
+
+[//]: # (  Department of Computer Science  )
+
+[//]: # (  Mathematical, Physical and Life Sciences Division  )
+
+[//]: # (  Oxford, OX1 3QD, UK  )
+
+[//]: # (  <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> )
+
+[//]: # ()
+[//]: # (* **Cornell University**  )
+
+[//]: # (  M.S. in Applied Statistics, 2015 - 2017  )
+
+[//]: # (  Department of Statistical Science  )
+
+[//]: # (  Computing and Information Science &#40;CIS&#41;  )
+
+[//]: # (  Ithaca, NY 14853, USA  )
+
+[//]: # (  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> )
 
 [//]: # (## Academic Positions  )
 
@@ -128,4 +141,23 @@ author_profile: true
   + 中国计算机学会数字农业专委会 委员  
   + 中国农学会 会员   
   + 中国人工智能学会 会员  
-  + 中国人工智能学会智能农业专委会 委员  
+  + 中国人工智能学会智能农业专委会 委员   
+
+
+## Awards and Honors
+[//]: # (* **Department of Computer Science Scholarship**, 2019 - 2022    )
+
+[//]: # (  University of Oxford)
+
+* **第十七届浦江创新论坛·青年先锋**， 2024
+  主办单位：科学技术部和上海市人民政府     
+
+[//]: # (* **特邀报告嘉宾**， 2024  )
+
+[//]: # (  第二十四届中国国际工业博览会  )
+
+[//]: # (  主办单位：工业和信息化部、国家发展和改革委员会、商务部、科学技术部、中国科学院、中国工程院、中国国际贸易促进委员会、联合国工业发展组织和上海市人民政府)
+
+[//]: # (* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   )
+
+[//]: # (* **FLock PhD Scholarship**, FLock.io, 2022-2023)
