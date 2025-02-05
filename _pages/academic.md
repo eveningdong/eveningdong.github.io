@@ -93,7 +93,7 @@ author_profile: true
 
 
 ## Academic Service  
-* **Conference Program Committee/Reviewer**  
+* **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
   + AISTATS: International Conference on Artificial Intelligence and Statistics  
   + ACCV: Asian Conference on Computer Vision  
