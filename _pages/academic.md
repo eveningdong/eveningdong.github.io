@@ -108,9 +108,11 @@ author_profile: true
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
   + NIPS: Annual Conference on Neural Information Processing Systems
 
+
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
   + Expert Systems with Applications  
+  + Future Generation Computer Systems (FGCS)   
   + IEEE Access  
   + IEEE Internet of Things Journal (IoT)  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)  
