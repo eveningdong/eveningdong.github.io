@@ -5,32 +5,20 @@ permalink: /academic/
 author_profile: true
 ---
 
-[//]: # (## Education)
+## Education
+* **University of Oxford**
+  Ph.D. in Computer Science, 2019 - 2023  
+  Department of Computer Science
+  Mathematical, Physical and Life Sciences Division  
+  Oxford, OX1 3QD, UK
+  <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
-[//]: # (* **University of Oxford**   )
-
-[//]: # (  Ph.D. in Computer Science, 2019 - 2023  )
-
-[//]: # (  Department of Computer Science  )
-
-[//]: # (  Mathematical, Physical and Life Sciences Division  )
-
-[//]: # (  Oxford, OX1 3QD, UK  )
-
-[//]: # (  <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> )
-
-[//]: # ()
-[//]: # (* **Cornell University**  )
-
-[//]: # (  M.S. in Applied Statistics, 2015 - 2017  )
-
-[//]: # (  Department of Statistical Science  )
-
-[//]: # (  Computing and Information Science &#40;CIS&#41;  )
-
-[//]: # (  Ithaca, NY 14853, USA  )
-
-[//]: # (  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a> )
+* **Cornell University**  
+  M.S. in Applied Statistics, 2015 - 2017  
+  Department of Statistical Science  
+  College of Computing and Information Science  
+  Ithaca, NY 14853, USA
+  <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a>   
 
 [//]: # (## Academic Positions  )
 
@@ -148,9 +136,7 @@ author_profile: true
 
 ## Awards and Honors
 [//]: # (* **Department of Computer Science Scholarship**, 2019 - 2022    )
-
 [//]: # (  University of Oxford)
-
 * **第十七届浦江创新论坛·青年先锋**
 
 [//]: # (  主办单位：科学技术部和上海市人民政府     )
@@ -164,3 +150,9 @@ author_profile: true
 [//]: # (* **President's PhD Scholarship**, Imperial College London, 2019 - 2023   )
 
 [//]: # (* **FLock PhD Scholarship**, FLock.io, 2022-2023)
+
+## News  
+2024.04.28 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin&time=1741607859985) 上海：种业大语言模型助力生物育种  
+2024.09.10 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin&time=1741607590707) 活到200岁、6G直通天地、在月球盖房子……青年创新讲坛畅聊前沿科技开展脑力激荡      
+2025.02.22 [[<span style="color:purple">财联社</span>]](https://www.cls.cn/detail/1950965) 上海人工智能实验室董楠卿：AI for Science助力破解育种难题   
+2025.03.08 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12438180?d=134fec4&channel=weixin&time=1741396251258) 瞭望丨上海基础研究“高产”探密   
