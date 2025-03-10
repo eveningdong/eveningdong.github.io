@@ -42,7 +42,13 @@ author_profile: true
 ## Industrial Talks  
 * **新一代人工智能下的农业发展：机遇与挑战**  
   第十七届浦江创新论坛  
-  主办单位： 科学技术部、上海市人民政府  
+  主办单位： 国家科学技术部、上海市人民政府  
   <a><img src="https://eveningdong.github.io/images/pjforum.png" alt="drawing" style="width:240px;"/></a>   
   [[<span style="color:purple">新华社·个人采访</span>]](https://app.xinhuanet.com/news/article.html?articleId=c4587bedd6695594224a497ca8839e37&timestamp=97173)
   [[<span style="color:purple">新华社·报道</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin)  
+
+* **人工智能驱动的生物育种**   
+  2025全球开发者先锋大会  
+  指导单位：上海市经济和信息化委员会    
+  主办单位：上海市人工智能行业协会  
+  [[<span style="color:purple">财联社·个人采访</span>]](https://www.cls.cn/detail/1950965)
