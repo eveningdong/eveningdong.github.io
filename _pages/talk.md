@@ -51,4 +51,4 @@ author_profile: true
   2025全球开发者先锋大会  
   指导单位：上海市经济和信息化委员会    
   主办单位：上海市人工智能行业协会  
-  [[<span style="color:purple">财联社·个人采访</span>]](https://www.cls.cn/detail/1950965)
+  [[<span style="color:purple">财联社·报道</span>]](https://www.cls.cn/detail/1950965)
