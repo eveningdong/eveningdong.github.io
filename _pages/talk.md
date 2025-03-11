@@ -48,7 +48,7 @@ author_profile: true
   [[<span style="color:purple">新华社·报道</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin)  
 
 * **新一代人工智能下的智能制种**  
-  第二十四届中国国际工业博览会
+  第二十四届中国国际工业博览会  
   主办单位：工业和信息化部、国家发展和改革委员会、商务部、科学技术部、中国科学院、中国工程院、中国国际贸易促进委员会、联合国工业发展组织、上海市人民政府
   <a><img src="https://eveningdong.github.io/images/ciif.jpg" alt="drawing" style="height:120px;"/></a>   
 
