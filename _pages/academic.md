@@ -8,16 +8,16 @@ author_profile: true
 ## Education
 * **University of Oxford**
   Ph.D. in Computer Science, 2019 - 2023  
-  Department of Computer Science
+  Department of Computer Science  
   Mathematical, Physical and Life Sciences Division  
-  Oxford, OX1 3QD, UK
+  Oxford, OX1 3QD, UK  
   <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.png" alt="drawing" width="240px"/></a> 
 
 * **Cornell University**  
   M.S. in Applied Statistics, 2015 - 2017  
-  Department of Statistical Science  
+  Department of Statistical Science   
   College of Computing and Information Science  
-  Ithaca, NY 14853, USA
+  Ithaca, NY 14853, USA  
   <a href="https://cis.cornell.edu/cornell-computing-information-science/"><img src="https://eveningdong.github.io/images/cis.png" alt="drawing" width="240px"/></a>   
 
 [//]: # (## Academic Positions  )
