@@ -5,16 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## SeedLLM
+## 丰登大模型 | SeedLLM
 SeedLLM is the first large language model (LLM) for the seed industry. It aims to promote technological progress of seed design with AI.  
 <a><img src="https://eveningdong.github.io/images/fengdeng.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Lead**
 * Update: Version 0.1
 * 新闻报道：
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin)
+  [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html)
   [[<span style="color:purple">科技日报</span>]](http://www.stdaily.com/index/kejixinwen/202404/4f41cabe453b46dfbf80135898e9f068.shtml)
   [[<span style="color:purple">解放日报</span>]](https://www.jfdaily.com/sgh/detail?id=1308703)
-  [[<span style="color:purple">海南日报</span>]](http://news.hndaily.cn/h5/html5/2024-04/29/content_58464_17366089.htm)  
+  [[<span style="color:purple">海南日报</span>]](http://news.hndaily.cn/h5/html5/2024-04/29/content_58464_17366089.htm)
+  
 * 政府转载： 
   [[<span style="color:red">上海市人民政府</span>]](https://www.shanghai.gov.cn/nw4411/20240429/022c94ffe42b492e927e64ec1811c9a5.html)
   [[<span style="color:red">海南省人民政府</span>]](https://www.hainan.gov.cn/hainan/5309/202404/0433c6c5066441739106da66192a4f0c.shtml?ddtab=true)

@@ -150,3 +150,4 @@ author_profile: true
 2024.09.10 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin&time=1741607590707) 活到200岁、6G直通天地、在月球盖房子……青年创新讲坛畅聊前沿科技开展脑力激荡      
 2025.02.22 [[<span style="color:purple">财联社</span>]](https://www.cls.cn/detail/1950965) 上海人工智能实验室董楠卿：AI for Science助力破解育种难题   
 2025.03.08 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12438180?d=134fec4&channel=weixin&time=1741396251258) 瞭望丨上海基础研究“高产”探密   
+2025.03.11 [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html) 'Fengdeng' a friendly, intelligent tool for farmers
