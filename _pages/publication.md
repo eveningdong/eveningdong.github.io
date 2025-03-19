@@ -92,7 +92,7 @@ author_profile: true
   AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 
-### AI for Science and Engineering
+### AI for Science  
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
   Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**       
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
@@ -122,6 +122,7 @@ author_profile: true
 * **Few-Shot Semantic Segmentation with Prototype Learning**  
   **Nanqing Dong†**, Eric Xing.  
   British Machine Vision Conference (BMVC), 2018. [[<span style="color:blue">Link</span>]](http://bmvc2018.org/contents/papers/0255.pdf)
+
 
 ### Machine Learning   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
