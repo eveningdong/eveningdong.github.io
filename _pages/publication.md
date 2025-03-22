@@ -23,6 +23,25 @@ author_profile: true
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao†.  
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)
 
+
+### AI for Medicine    
+* **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
+  **Nanqing Dong†**, Michael Kampffmeyer†, Haoyang Su, Eric Xing.  
+  Applied Soft Computing, 2024.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S156849462400629X)  
+
+* **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
+  Congcong Wang, Yuru Song, Meng Zhao†, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
+  Computers in Biology and Medicine, 2023. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)
+
+* **Federated Partially Supervised Learning with Limited Decentralized Medical Images**  
+  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric Xing.  
+  IEEE Transactions on Medical Imaging (TMI), 2022. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9994748)  
+
+* **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
+  **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
+  Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)
+
+
 ### AI for Science   
 * **Deep Generative Model for Protein Subcellular Localization Prediction**    
   Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
@@ -31,6 +50,7 @@ author_profile: true
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
   Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)   
+
 
 
 ### Computer Vision
@@ -67,29 +87,33 @@ author_profile: true
   Pattern Recognition, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S003132032200231X)    
 
 
-### Medical Image Analysis  
-* **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
-  **Nanqing Dong†**, Michael Kampffmeyer†, Haoyang Su, Eric Xing.  
-  Applied Soft Computing, 2024.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S156849462400629X)  
-
-* **Smoke Veil Prior Regularized Surgical Field Desmoking without Paired In-vivo Data**  
-  Congcong Wang, Yuru Song, Meng Zhao†, **Nanqing Dong**, Zohaib Amjad Khan, Xintong Zhao, Faouzi Alaya Cheikh, Azeddine Beghdadi, Shengyong Chen.  
-  Computers in Biology and Medicine, 2023. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S001048252301226X)
-
-* **Federated Partially Supervised Learning with Limited Decentralized Medical Images**  
-  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric Xing.  
-  IEEE Transactions on Medical Imaging (TMI), 2022. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9994748)  
-
-* **Towards Robust Partially Supervised Multi-Structure Medical Image Segmentation on Small-Scale Data**  
-  **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
-  Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)
-
 
 ## Conference Papers  
 ### AI for Engineering  
 * **Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection**  
   Dingning Liu#，Jinzhe Li#，Haoyang Su#，Bei Cui†, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, **Nanqing Dong†**   
   AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+### AI for Medicine    
+* **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
+  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu.  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)    
+
+* **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
+  **Nanqing Dong†**, Irina Voiculescu.    
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
+
+* **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
+  **Nanqing Dong†**, Michael C. Kampffmeyer, Irina Voiculescu.     
+  European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)   
+
+* **Neural Architecture Search for Adversarial Medical Image Segmentation**  
+  **Nanqing Dong†**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric Xing.  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
+
+* **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
+  **Nanqing Dong†**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
 ### AI for Science  
@@ -142,26 +166,7 @@ author_profile: true
   European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
 
 
-### Medical Image Analysis  
-* **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
-  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)    
 
-* **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
-  **Nanqing Dong†**, Irina Voiculescu.    
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
-
-* **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
-  **Nanqing Dong†**, Michael C. Kampffmeyer, Irina Voiculescu.     
-  European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)   
-
-* **Neural Architecture Search for Adversarial Medical Image Segmentation**  
-  **Nanqing Dong†**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
-
-* **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
-  **Nanqing Dong†**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
 [//]: # (* **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision**  )
