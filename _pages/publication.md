@@ -45,11 +45,11 @@ author_profile: true
 ### AI for Science   
 * **Deep Generative Model for Protein Subcellular Localization Prediction**    
   Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
-  Briefings in Bioinformatics, 2025.  [[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)      
+  Briefings in Bioinformatics, 2025. [[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)      
 
 * **Structure-Informed Insights into Catalytic Mechanism and Multi-Domain Collaboration in α-Agarase CmAga**  
   Yuxian You, Bee Koon Gan, Min Luo, Xinzhe Zheng, **Nanqing Dong**, Yixiong Tian, Caiming Li, Haocun Kong, Zhengbiao Gu, Daiwen Yang†, Zhaofeng Li†  
-  Journal of Agricultural and Food Chemistry, 2025.  
+  Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)  
 
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
