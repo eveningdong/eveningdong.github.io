@@ -97,7 +97,7 @@ author_profile: true
 ### AI for Engineering  
 * **Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection**  
   Dingning Liu#，Jinzhe Li#，Haoyang Su#，Bei Cui†, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, **Nanqing Dong†**   
-  AAAI Conference on Artificial Intelligence (AAAI), 2025.
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.  [[<span style="color:blue">Link</span>]](https://ojs.aaai.org/index.php/AAAI/article/view/35040)    
 
 ### AI for Medicine    
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
