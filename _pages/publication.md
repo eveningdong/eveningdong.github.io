@@ -50,7 +50,11 @@ author_profile: true
 * **Structure-Informed Insights into Catalytic Mechanism and Multi-Domain Collaboration in α-Agarase CmAga**  
   Yuxian You, Bee Koon Gan, Min Luo, Xinzhe Zheng, **Nanqing Dong**, Yixiong Tian, Caiming Li, Haocun Kong, Zhengbiao Gu, Daiwen Yang†, Zhaofeng Li†  
   Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)  
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> 964864b77cb6e0294f9010aef9af7d3fd2f9f541
+>>>>>>> Stashed changes
 
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
