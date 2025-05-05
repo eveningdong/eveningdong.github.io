@@ -109,7 +109,7 @@ author_profile: true
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_36)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2109.07504.pdf)  
 
 * **Self-Supervised Multi-Task Representation Learning for Sequential Medical Images**  
-  **Nanqing Dong†**, Michael C. Kampffmeyer, Irina Voiculescu.     
+  **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu.     
   European Conference on Machine Learning (ECML), 2021. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47)   
 
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
@@ -117,11 +117,19 @@ author_profile: true
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
-  **Nanqing Dong†**, Michael C. Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
+  **Nanqing Dong†**, Michael Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
 ### AI for Science  
+* **Iterative Refined Transformer for Curriculum Learning Guided De Novo Peptide Sequencing**  
+  Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, ZhiQiang Gao, Siqi Sun.  
+  International Conference on Machine Learning (ICML), 2025.   
+
+* **RankNovo: A Universal Reranking Approach for Robust De Novo Peptide Sequencing**  
+  Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, ZhiQiang Gao, **Nanqing Dong**, Siqi Sun.
+  International Conference on Machine Learning (ICML), 2025.
+
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
   Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**       
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
