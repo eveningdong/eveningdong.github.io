@@ -52,7 +52,11 @@ author_profile: true
   Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)  
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> 964864b77cb6e0294f9010aef9af7d3fd2f9f541
+>>>>>>> Stashed changes
 =======
 >>>>>>> 964864b77cb6e0294f9010aef9af7d3fd2f9f541
 >>>>>>> Stashed changes
