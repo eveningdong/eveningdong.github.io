@@ -8,6 +8,8 @@ author_profile: true
 
 **#** denotes **Equal Contribution**.    
 **†** denotes **Corresponding Author(s)**.
+**‡** denotes **Project Lead**.
+
 
 ## Journal Papers   
 ### AI for Engineering
@@ -53,8 +55,7 @@ author_profile: true
 
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
-  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)   
-
+  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)
 
 
 ### Computer Vision
@@ -75,11 +76,11 @@ author_profile: true
 ### Federated Learning  
 * **zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**  
   Zhipeng Wang, **Nanqing Dong†**, Jiahao Sun, William Knottenbelt, Yike Guo  
-  IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10535217)[[<span style="color:blue">arXiv</span>]](http://arxiv.org/pdf/2310.02554.pdf) 
+  IEEE Transactions on Big Data (TBD), 2024.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/10535217)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2310.02554) 
 
 * **Defending Against Poisoning Attacks in Federated Learning with Blockchain**  
   **Nanqing Dong#†**, Zhipeng Wang#, Jiahao Sun, Michhael Kampffmeyer, William Knottenbelt, Eric Xing.  
-  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/abstract/document/10471193)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2307.00543.pdf) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)
+  IEEE Transactions on Artificial Intelligence (TAI), 2024. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/abstract/document/10471193)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2307.00543) [[<span style="color:purple">机器之心</span>]](https://mp.weixin.qq.com/s/46bzqIHjYFOMZRUuJGPPow)
 
 * **Edge Computing with Artificial Intelligence: A Machine Learning Perspective**  
   Haochen Hua, Yutong Li, Tonghe Wang, **Nanqing Dong**, Wei Li, Xingying Chen, Junwei Cao†.  
@@ -88,8 +89,7 @@ author_profile: true
 ### Machine Learning
 * **Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**  
   **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu, Eric Xing.  
-  Pattern Recognition, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S003132032200231X)    
-
+  Pattern Recognition, 2022. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S003132032200231X)
 
 
 ## Conference Papers  
@@ -101,7 +101,7 @@ author_profile: true
 ### AI for Medicine    
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
   **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2106.10070.pdf)    
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2106.10070)    
 
 * **Federated Contrastive Learning for Decentralized Unlabeled Medical Images**    
   **Nanqing Dong†**, Irina Voiculescu.    
@@ -121,32 +121,40 @@ author_profile: true
 
 
 ### AI for Science  
+* **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
+  Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)     
+
+* **SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science**  
+  Jie Ying, Zihong Chen, Zhefan Wang, Wanli Jiang, Chenyang Wang, Zhonghang Yuan, Haoyang Su, Huanjun Kong, Fan Yang, **Nanqing Dong†**.      
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025.  
+
 * **Iterative Refined Transformer for Curriculum Learning Guided De Novo Peptide Sequencing**  
-  Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, ZhiQiang Gao, Siqi Sun    
+  Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun.      
   International Conference on Machine Learning (ICML), 2025.   
 
 * **RankNovo: A Universal Reranking Approach for Robust De Novo Peptide Sequencing**  
-  Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, ZhiQiang Gao, **Nanqing Dong**, Siqi Sun   
+  Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun.     
   International Conference on Machine Learning (ICML), 2025.
 
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
-  Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**       
+  Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**.         
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
   
 * **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA**  
-  Lifeng Qiao, Peng Ye, Yuchen Ren, Weiqiang Bai, Chaoqi Liang, Xinzhu Ma, **Nanqing Dong**, Wanli Ouyang  
+  Lifeng Qiao, Peng Ye, Yuchen Ren, Weiqiang Bai, Chaoqi Liang, Xinzhu Ma, **Nanqing Dong**, Wanli Ouyang.  
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
 
 * **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**  
-  Weizhen Liu, Jiayu Tan, Guangyu Lan, Ao Li, Dongye Li, Le Zhao, Xiaohui Yuan†, **Nanqing Dong†**  
+  Weizhen Liu, Jiayu Tan, Guangyu Lan, Ao Li, Dongye Li, Le Zhao, Xiaohui Yuan†, **Nanqing Dong†**.    
   International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/816)  
 
 * **An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding**  
-  Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**  
+  Renqi Chen#, Wenwei Han#, Haohao Zhang#, Haoyang Su, Zhefan Wang, Xiaolei Liu, Hao Jiang, Wanli Ouyang, **Nanqing Dong†**.    
   International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/798)   
 
 * **Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method**  
-  Weizhen Liu, Ao Li, Ze Wu, Yue Li, Baobin Ge, Guangyu Lan, Shilin Chen, Minghe Li, Yunfei Liu, Xiaohui Yuan†, **Nanqing Dong†**  
+  Weizhen Liu, Ao Li, Ze Wu, Yue Li, Baobin Ge, Guangyu Lan, Shilin Chen, Minghe Li, Yunfei Liu, Xiaohui Yuan†, **Nanqing Dong†**.    
   International Joint Conference on Artificial Intelligence (IJCAI), 2024. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://doi.org/10.24963/ijcai.2024/815)  
 
 * **ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**  
