@@ -7,7 +7,7 @@ author_profile: true
 
 
 **#** denotes **Equal Contribution**.    
-**†** denotes **Corresponding Author(s)**.
+**†** denotes **Corresponding Author(s)**.  
 **‡** denotes **Project Lead**.
 
 
