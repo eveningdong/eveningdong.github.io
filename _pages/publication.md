@@ -121,13 +121,18 @@ author_profile: true
 
 
 ### AI for Science  
+* **ROGRAG: A Robustly Optimized GraphRAG Framework**  
+  Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025.  
+  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
+
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
-  Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)     
+  Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)     
 
 * **SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science**  
   Jie Ying#, Zihong Chen#, Zhefan Wang#, Wanli Jiang, Chenyang Wang, Zhonghang Yuan, Haoyang Su, Huanjun Kong, Fan Yang, **Nanqing Dong†**.      
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025.  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2505.13220)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/SeedBench)      
 
 * **Iterative Refined Transformer for Curriculum Learning Guided De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun.      
