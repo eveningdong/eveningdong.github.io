@@ -5,6 +5,11 @@ permalink: /talk/
 author_profile: true
 ---
 
+## Academic Forums
+* **LLM for Science：大模型驱动科学发现的新范式**  
+  + 20250522 中国计算机学会青年菁英大会  
+
+
 ## Academic Talks
 * **基于人工智能的农业科学**  
   + 20231216 兰州大学  
@@ -26,6 +31,7 @@ author_profile: true
 
 * **人工智能驱动的科学规律发现**  
   + 20250411 上海市科学学研究所  
+
 
 [//]: # (    2024年04月09日  )
 
