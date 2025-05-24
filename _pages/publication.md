@@ -113,18 +113,17 @@ author_profile: true
 
 * **Neural Architecture Search for Adversarial Medical Image Segmentation**  
   **Nanqing Dong†**, Min Xu, Xiaodan Liang, Yiliang Jiang, Wei Dai, Eric Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_92)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/336474639_Neural_Architecture_Search_for_Adversarial_Medical_Image_Segmentation)[[<span style="color:purple">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 * **Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio**  
   **Nanqing Dong†**, Michael Kampffmeyer, Xiaodan Liang, Zeya Wang, Wei Dai, Eric Xing.  
-  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:blue">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
+  International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:purple">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
 ### AI for Science  
 * **ROGRAG: A Robustly Optimized GraphRAG Framework**  
   Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025.  
-  [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
 
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
   Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
@@ -188,7 +187,7 @@ author_profile: true
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong†**, Eric Xing.  
-  European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)[[<span style="color:blue">Code</span>]](https://github.com/eveningdong/DAOSL)
+  European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)
 
 
 
