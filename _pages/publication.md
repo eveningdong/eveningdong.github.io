@@ -133,11 +133,11 @@ author_profile: true
   Jie Ying#, Zihong Chen#, Zhefan Wang#, Wanli Jiang, Chenyang Wang, Zhonghang Yuan, Haoyang Su, Huanjun Kong, Fan Yang, **Nanqing Dong†**.      
   Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2505.13220)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/SeedBench)      
 
-* **Iterative Refined Transformer for Curriculum Learning Guided De Novo Peptide Sequencing**  
+* **Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun.      
   International Conference on Machine Learning (ICML), 2025.   
 
-* **RankNovo: A Universal Reranking Approach for Robust De Novo Peptide Sequencing**  
+* **Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing**  
   Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun.     
   International Conference on Machine Learning (ICML), 2025.
 
