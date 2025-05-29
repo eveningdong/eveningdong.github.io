@@ -45,6 +45,10 @@ author_profile: true
 
 
 ### AI for Science   
+* **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
+  Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
+  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA)   
+
 * **Deep Generative Model for Protein Subcellular Localization Prediction**    
   Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
   Briefings in Bioinformatics, 2025.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1093/bib/bbaf152)[[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)        
@@ -120,11 +124,7 @@ author_profile: true
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:purple">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
-### AI for Science  
-* **ROGRAG: A Robustly Optimized GraphRAG Framework**  
-  Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
-
+### AI for Science
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
   Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
   Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)     
@@ -190,7 +190,10 @@ author_profile: true
   European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)
 
 
-
+### Natural Language Processing  
+* **ROGRAG: A Robustly Optimized GraphRAG Framework**  
+  Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
 
 
 [//]: # (* **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision**  )
