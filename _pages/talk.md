@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Forums
 * **LLM for Science：大模型驱动科学发现的新范式**  
-  + 20250522 中国计算机学会青年菁英大会  
+  + 20250522 中国计算机学会  
 
 
 ## Academic Talks
@@ -19,7 +19,6 @@ author_profile: true
 [//]: # (    中国甘肃省兰州市  )
 
 [//]: # (   <a><img src="https://eveningdong.github.io/images/lu.jpg" alt="drawing" style="width:240px;"/></a>)
-
 * **AI for Science: 人工智能驱动的科学研究**
   + 20240409 中国农业大学  
   + 20240520 南京大学  
@@ -27,7 +26,9 @@ author_profile: true
   + 20240605 华中农业大学  
   + 20240605 武汉理工大学  
   + 20241204 崖州湾国家实验室  
-  + 20250401 上海市农业科学院
+  + 20250401 上海市农业科学院  
+  + 20250606 中国科学院分子植物科学卓越创新中心  
+
 
 * **人工智能驱动的科学规律发现**  
   + 20250411 上海市科学学研究所  
