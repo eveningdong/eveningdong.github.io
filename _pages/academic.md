@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Education
-* **University of Oxford**
+* **University of Oxford**  
   Ph.D. in Computer Science, 2019 - 2023  
   Department of Computer Science  
   Mathematical, Physical and Life Sciences Division  
