@@ -47,7 +47,7 @@ author_profile: true
 ### AI for Science   
 * **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
   Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
-  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA)   
+  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA) [<span style="color:red">2024 IF 24.1</span>]
 
 * **Deep Generative Model for Protein Subcellular Localization Prediction**    
   Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
@@ -59,7 +59,7 @@ author_profile: true
 
 * **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
   Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
-  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)
+  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3) 
 
 
 ### Computer Vision
