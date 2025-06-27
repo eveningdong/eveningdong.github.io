@@ -157,3 +157,6 @@ author_profile: true
 2025.03.31 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/Ux5qvgpcdNLusYAqVOYB2w) 从新技术、新产业到新赛道，上海先行谋划推进农业生产力“质态”变革  
 2025.04.24 [[<span style="color:purple">中国计算机学会</span>]](https://mp.weixin.qq.com/s/tuegcoQ-Lafthwrj1DvF6Q) AGI for Science：人机协同下的自主科学发现  
 2025.04.25 [[<span style="color:purple">学习时报</span>]](https://mp.weixin.qq.com/s/8uVcvizFHwg7rsawRY340Q) 新一代智能终端：人工智能手机和电脑    
+2025.04.27 [[<span style="color:purple">解放时报</span>]](https://www.shobserver.com/journal/article/share?id=432040) 大模型按下育种“加速键”  
+2025.06.03 [[<span style="color:purple">海南科技</span>]](https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q) 全球首个专为水稻生物育种打造的大语言模型“丰登·水稻”向全球开放网站  
+2025.06.27 [[<span style="color:purple">上海科技</span>]](https://mp.weixin.qq.com/s/7ajCOdA_FMP1uppwvGhslA) 科学学上海论坛·2025科技创新智库国际研讨会成功举办｜浦江创新论坛  
