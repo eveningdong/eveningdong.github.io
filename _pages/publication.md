@@ -5,6 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
+In alphabetical order, my research topics ranges from AI for Engineering/Medicine/Science, Computer Vision, Finance, Federated Learning, Machine Learning, and Natural Language Processing.
 
 **#** denotes **Equal Contribution**.    
 **†** denotes **Corresponding Author(s)**.  
