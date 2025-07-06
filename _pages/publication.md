@@ -5,14 +5,18 @@ permalink: /publication/
 author_profile: true
 ---
 
-In alphabetical order, my research topics ranges from AI for Engineering/Medicine/Science, Computer Vision, Finance, Federated Learning, Machine Learning, and Natural Language Processing.
+My research topics can be broadly classified into two primary categories.  
+The first category is AI-empowered interdisciplinary research, such as AI for science, AI for medicine, and AI for engineering.  
+The second category is fundemental AI research, such as machine learning, computer vision, and natural language processing.  
 
 **#** denotes **Equal Contribution**.    
 **†** denotes **Corresponding Author(s)**.  
 **‡** denotes **Project Lead**.
 
 
-## Journal Papers   
+## Journal Papers 
+The research topics are listed in alphabetical order.  
+
 ### AI for Engineering
 * **Scalable Multi-Agent Reinforcement Learning for Residential Load Scheduling under Data Governance**    
   Zhaoming Qin#, **Nanqing Dong†**, Di Liu†, Zhefan Wang, Junwei Cao†.    
@@ -44,23 +48,6 @@ In alphabetical order, my research topics ranges from AI for Engineering/Medicin
   **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
   Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)
 
-
-### AI for Science   
-* **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
-  Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
-  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA) [<span style="color:red">2024 IF 24.1</span>]
-
-* **Deep Generative Model for Protein Subcellular Localization Prediction**    
-  Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
-  Briefings in Bioinformatics, 2025.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1093/bib/bbaf152)[[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)        
-
-* **Structure-Informed Insights into Catalytic Mechanism and Multi-Domain Collaboration in α-Agarase CmAga**  
-  Yuxian You, Bee Koon Gan, Min Luo, Xinzhe Zheng, **Nanqing Dong**, Yixiong Tian, Caiming Li, Haocun Kong, Zhengbiao Gu, Daiwen Yang†, Zhaofeng Li†  
-  Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)  
-
-* **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
-  Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
-  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3) 
 
 
 ### Computer Vision
@@ -98,6 +85,8 @@ In alphabetical order, my research topics ranges from AI for Engineering/Medicin
 
 
 ## Conference Papers  
+The research topics are listed in alphabetical order.   
+
 ### AI for Engineering  
 * **Towards Efficient and Intelligent Laser Weeding: Method and Dataset for Weed Stem Detection**  
   Dingning Liu#，Jinzhe Li#，Haoyang Su#，Bei Cui†, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, **Nanqing Dong†**   
@@ -128,7 +117,7 @@ In alphabetical order, my research topics ranges from AI for Engineering/Medicin
 ### AI for Science
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
   Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)    
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)      
 
 * **SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science**  
   Jie Ying#, Zihong Chen#, Zhefan Wang#, Wanli Jiang, Chenyang Wang, Zhonghang Yuan, Haoyang Su, Huanjun Kong, Fan Yang, **Nanqing Dong†**.      

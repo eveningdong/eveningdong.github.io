@@ -31,7 +31,7 @@ Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Scie
 <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Lead**  
 * Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Virtual-Scientists/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists) 
-* Media: [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)
+* Media: [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)  
 * News: We are looking for enthusiastic students to join the research team.     
 
 
