@@ -30,23 +30,6 @@ The research topics are listed in alphabetical order.
   Haochen Hua, Zhaoming Qin, **Nanqing Dong**, Yuchao Qin, Maojiao Ye, Zidong Wang, Xingying Chen, Junwei Cao†.  
   IEEE Transactions on Sustainable Energy (TSTE), 2021. [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/9531065/)
 
-### AI for Science   
-* **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
-  Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
-  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA) [<span style="color:red">2024 IF 24.1</span>]  
-
-* **Deep Generative Model for Protein Subcellular Localization Prediction**    
-  Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
-  Briefings in Bioinformatics, 2025.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1093/bib/bbaf152)[[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)          
-
-* **Structure-Informed Insights into Catalytic Mechanism and Multi-Domain Collaboration in α-Agarase CmAga**  
-  Yuxian You, Bee Koon Gan, Min Luo, Xinzhe Zheng, **Nanqing Dong**, Yixiong Tian, Caiming Li, Haocun Kong, Zhengbiao Gu, Daiwen Yang†, Zhaofeng Li†  
-  Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)    
-
-* **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
-  Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
-  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)   
-
 
 ### AI for Medicine    
 * **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
@@ -65,6 +48,23 @@ The research topics are listed in alphabetical order.
   **Nanqing Dong**, Michael Kampffmeyer†, Xiaodan Liang, Min Xu, Irina Voiculescu, Eric Xing.  
   Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)
 
+
+### AI for Science   
+* **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
+  Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
+  Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA) [<span style="color:red">2024 IF 24.1</span>]  
+
+* **Deep Generative Model for Protein Subcellular Localization Prediction**    
+  Guohua Yuan#, Jinzhe Li#, Zejun Yang#, Yaoqi Chen#, Zhonghang Yuan, Tao Chen, Wanli Ouyang, **Nanqing Dong†**, Li Yang†  
+  Briefings in Bioinformatics, 2025.  [[<span style="color:blue">Link</span>]](https://doi.org/10.1093/bib/bbaf152)[[<span style="color:blue">bioRxiv</span>]](https://www.biorxiv.org/content/10.1101/2024.10.29.620765v2.abstract)          
+
+* **Structure-Informed Insights into Catalytic Mechanism and Multi-Domain Collaboration in α-Agarase CmAga**  
+  Yuxian You, Bee Koon Gan, Min Luo, Xinzhe Zheng, **Nanqing Dong**, Yixiong Tian, Caiming Li, Haocun Kong, Zhengbiao Gu, Daiwen Yang†, Zhaofeng Li†  
+  Journal of Agricultural and Food Chemistry, 2025. [[<span style="color:blue">Link</span>]](https://pubs.acs.org/doi/10.1021/acs.jafc.5c02175)    
+
+* **π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**  
+  Xiang Zhang#, Tianze Ling#, Zhi Jin#, Sheng Xu#, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, **Nanqing Dong**, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang†, Cheng Chang†, Siqi Sun†.    
+  Nature Communications, 2025. [[<span style="color:blue">Link</span>]](https://www.nature.com/articles/s41467-024-55021-3)   
 
 
 ### Computer Vision
