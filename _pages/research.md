@@ -31,7 +31,17 @@ Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Scie
 <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Lead**  
 * Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Virtual-Scientists/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists) 
-* Media: [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)  
+* Media: 
+  [[<span style="color:blue">Nature</span>]](https://www.nature.com/articles/d41586-025-02028-5)
+  [[<span style="color:purple">科技日报</span>]](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-07/08/content_591168.htm?div=-1)
+  [[<span style="color:purple">人民网</span>]](http://edu.people.com.cn/n1/2025/0708/c1006-40516743.html）
+  [[<span style="color:purple">央视网</span>]](https://news.cctv.com/2025/07/08/ARTIUl4D4L0dDvbBk6TMMGnc250708.shtml)
+  [[<span style="color:purple">光明网</span>]](https://wlaq.gmw.cn/2025-07/08/content_38140988.htm)
+  [[<span style="color:purple">环球网</span>]](https://tech.huanqiu.com/article/4NPKrWXL5tU)
+  [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)
+  [[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)  
+
+
 * News: We are looking for enthusiastic students to join the research team.     
 
 
