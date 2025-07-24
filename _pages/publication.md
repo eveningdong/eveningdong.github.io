@@ -134,11 +134,11 @@ The research topics are listed in alphabetical order.
 ### AI for Science
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
   Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)      
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-long.1368/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)      
 
 * **SeedBench: A Multi-task Benchmark for Evaluating Large Language Models in Seed Science**  
   Jie Ying#, Zihong Chen#, Zhefan Wang#, Wanli Jiang, Chenyang Wang, Zhonghang Yuan, Haoyang Su, Huanjun Kong, Fan Yang, **Nanqing Dong†**.      
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2505.13220)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/SeedBench)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/uy3bgotXEtb2FDT25HvQNQ)     
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-long.1516/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2505.13220)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/SeedBench)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/uy3bgotXEtb2FDT25HvQNQ)     
 
 * **Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun.      
@@ -150,7 +150,7 @@ The research topics are listed in alphabetical order.
 
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
   Hang Zhang#, Jiawei Sun#, Renqi Chen#, Wei Liu, Zhonghang Yuan, Xinzhe Zheng, Zhefan Wang, Zhiyuan Yang, Hang Yan, HanSen Zhong, Xiqing Wang, Wanli Ouyang, Fan Yang†, **Nanqing Dong†**.         
-  Annual Conference on Neural Information Processing Systems (NeuIPS), 2024  
+  Annual Conference on Neural Information Processing Systems (NeuIPS), 2024. [[<span style="color:blue">Link</span>]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5e5783c673cf05cfd4b3ebf46e96abfc-Abstract-Datasets_and_Benchmarks_Track.html)  
   
 * **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA**  
   Lifeng Qiao, Peng Ye, Yuchen Ren, Weiqiang Bai, Chaoqi Liang, Xinzhu Ma, **Nanqing Dong**, Wanli Ouyang.  
@@ -200,7 +200,7 @@ The research topics are listed in alphabetical order.
 ### Natural Language Processing  
 * **ROGRAG: A Robustly Optimized GraphRAG Framework**  
   Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-demo.58/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
 
 
 [//]: # (* **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision**  )
