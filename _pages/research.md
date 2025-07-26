@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-## 丰登大模型 | SeedLLM
-SeedLLM is the first large language model (LLM) for the seed industry. It aims to promote technological progress of seed design with AI.  
+## 丰登种业大模型 | SeedLLM
+SeedLLM is the first large language model (LLM) for the seed design. It aims to promote technological progress of seed design with AI.  
 <a><img src="https://eveningdong.github.io/images/fengdeng.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Lead**
-* Update: Version 0.1
+* Paper: [[<span style="color:blue">Molecular Plant</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">ACL 2025</span>]](https://aclanthology.org/2025.acl-long.1516/)  
 * 新闻报道：
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin)
   [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html)
@@ -30,14 +30,17 @@ SeedLLM is the first large language model (LLM) for the seed industry. It aims t
 Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Science of Science** research. It aims to discover the mechanisms underlying the Science of Science. It models the scientific community with real-world academic data and simulates the academic collaborations in an end-to-end pipeline from team construction to idea generation. 
 <a><img src="https://eveningdong.github.io/images/virsci.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Project Lead**  
-* Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Virtual-Scientists/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists) 
+* Link:  [[<span style="color:blue">Homepage</span>]](https://open-sciencelab.github.io/Virtual-Scientists/)[[<span style="color:blue">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists) 
+* Paper: [[<span style="color:blue">ACL 2025</span>]](https://aclanthology.org/2025.acl-long.1368/)  
 * Media: 
   [[<span style="color:blue">Nature</span>]](https://www.nature.com/articles/d41586-025-02028-5)
+* 新闻报道： 
   [[<span style="color:purple">科技日报</span>]](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-07/08/content_591168.htm?div=-1)
-  [[<span style="color:purple">人民网</span>]](http://edu.people.com.cn/n1/2025/0708/c1006-40516743.html）
+  [[<span style="color:purple">人民网</span>]](http://edu.people.com.cn/n1/2025/0708/c1006-40516743.html)
   [[<span style="color:purple">央视网</span>]](https://news.cctv.com/2025/07/08/ARTIUl4D4L0dDvbBk6TMMGnc250708.shtml)
   [[<span style="color:purple">光明网</span>]](https://wlaq.gmw.cn/2025-07/08/content_38140988.htm)
   [[<span style="color:purple">环球网</span>]](https://tech.huanqiu.com/article/4NPKrWXL5tU)
+* 公众号：
   [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)
   [[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)  
 
