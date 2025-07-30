@@ -156,6 +156,7 @@ author_profile: true
 2025.02.22 [[<span style="color:purple">财联社</span>]](https://www.cls.cn/detail/1950965) 上海人工智能实验室董楠卿：AI for Science助力破解育种难题   
 2025.03.08 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12438180?d=134fec4&channel=weixin&time=1741396251258) 瞭望丨上海基础研究“高产”探密   
 2025.03.11 [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html) 'Fengdeng' a friendly, intelligent tool for farmers  
+2025.03.24 [[<span style="color:purple">人民日报</span>]](https://paper.people.com.cn/rmrbhwb/pc/content/202503/24/content_30063763.html) 智慧育种开启种业创新新赛道    
 2025.03.31 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/Ux5qvgpcdNLusYAqVOYB2w) 从新技术、新产业到新赛道，上海先行谋划推进农业生产力“质态”变革  
 2025.04.24 [[<span style="color:purple">中国计算机学会</span>]](https://mp.weixin.qq.com/s/tuegcoQ-Lafthwrj1DvF6Q) AGI for Science：人机协同下的自主科学发现  
 2025.04.25 [[<span style="color:purple">学习时报</span>]](https://mp.weixin.qq.com/s/8uVcvizFHwg7rsawRY340Q) 新一代智能终端：人工智能手机和电脑    

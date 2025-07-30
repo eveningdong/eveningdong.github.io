@@ -8,15 +8,14 @@ author_profile: true
 ## 丰登种业大模型 | SeedLLM
 SeedLLM is the first large language model (LLM) for the seed design. It aims to promote technological progress of seed design with AI.  
 <a><img src="https://eveningdong.github.io/images/fengdeng.jpg" alt="drawing" width="400px"/></a>  
-* Role: **Project Lead**
+* Role: **Co-Project Lead** with Dr. Fan Yang  
 * Paper: [[<span style="color:blue">Molecular Plant</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">ACL 2025</span>]](https://aclanthology.org/2025.acl-long.1516/)  
 * 新闻报道：
+  [[<span style="color:purple">人民日报</span>]](https://paper.people.com.cn/rmrbhwb/pc/content/202503/24/content_30063763.html)
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin)
   [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html)
-  [[<span style="color:purple">科技日报</span>]](http://www.stdaily.com/index/kejixinwen/202404/4f41cabe453b46dfbf80135898e9f068.shtml)
   [[<span style="color:purple">解放日报</span>]](https://www.jfdaily.com/sgh/detail?id=1308703)
   [[<span style="color:purple">海南日报</span>]](http://news.hndaily.cn/h5/html5/2024-04/29/content_58464_17366089.htm)
-  
 * 政府转载： 
   [[<span style="color:red">上海市人民政府</span>]](https://www.shanghai.gov.cn/nw4411/20240429/022c94ffe42b492e927e64ec1811c9a5.html)
   [[<span style="color:red">海南省人民政府</span>]](https://www.hainan.gov.cn/hainan/5309/202404/0433c6c5066441739106da66192a4f0c.shtml?ddtab=true)
@@ -42,11 +41,14 @@ Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Scie
   [[<span style="color:purple">环球网</span>]](https://tech.huanqiu.com/article/4NPKrWXL5tU)
 * 公众号：
   [[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)
-  [[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)  
-
-
+  [[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)
 * News: We are looking for enthusiastic students to join the research team.     
 
+## 丰登·基因科学家 | GeneScientist  
+GeneScientist is the first autonomous scientific discovery system for seed science. Powered by SeedLLM, GeneScientist can discover unknown crop gene functions as a virtual molecular biologist.  
+<a><img src="https://eveningdong.github.io/images/genescientist.png" alt="drawing" width="400px"/></a>  
+* Role: **Co-Project Lead** with Dr. Fan Yang   
+* News: We are looking for enthusiastic postdocs, engineers, and students to join the research team.    
 
 <!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
 * **University of Oxford**, Oxford, England, United Kingdom     
