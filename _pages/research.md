@@ -48,6 +48,10 @@ Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Scie
 GeneScientist is the first autonomous scientific discovery system for seed science. Powered by SeedLLM, GeneScientist can discover unknown crop gene functions as a virtual molecular biologist.  
 <a><img src="https://eveningdong.github.io/images/genescientist.png" alt="drawing" width="400px"/></a>  
 * Role: **Co-Project Lead** with Dr. Fan Yang   
+* 新闻报道： 
+  [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463)
+  [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811)
+  [[<span style="color:purple">中国新闻网</span>]](https://www.chinanews.com.cn/sh/2025/07-30/10456410.shtml)
 * News: We are looking for enthusiastic postdocs, engineers, and students to join the research team.    
 
 <!-- <a href="http://www.cs.ox.ac.uk/"><img src="https://eveningdong.github.io/images/oxford.jpg" alt="drawing" style="height:80px;"/></a>
