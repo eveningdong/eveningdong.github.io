@@ -19,8 +19,8 @@ SeedLLM is the first large language model (LLM) for the seed design. It aims to 
 * 政府转载： 
   [[<span style="color:red">上海市人民政府</span>]](https://www.shanghai.gov.cn/nw4411/20240429/022c94ffe42b492e927e64ec1811c9a5.html)
   [[<span style="color:red">海南省人民政府</span>]](https://www.hainan.gov.cn/hainan/5309/202404/0433c6c5066441739106da66192a4f0c.shtml?ddtab=true)
-  [[<span style="color:red">上海市科学与技术委员会</span>]](https://mp.weixin.qq.com/s?__biz=MzA3Mzg1NzkxMQ==&mid=2650117046&idx=1&sn=619c0a9562691832306913f003001f5e&chksm=86c76035802d65b156fc5ecb30e9e89c8386ea7eee66e3c40fe634603e802ced3d6a538531ef&scene=126&sessionid=1714291862&version=4.1.22.6014&platform=win#rd)
-  [[<span style="color:red">上海市农业与农村委员会</span>]](https://mp.weixin.qq.com/s/c0ZYy5foZY7FvrAEzVp6jQ)
+  [[<span style="color:red">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s?__biz=MzA3Mzg1NzkxMQ==&mid=2650117046&idx=1&sn=619c0a9562691832306913f003001f5e&chksm=86c76035802d65b156fc5ecb30e9e89c8386ea7eee66e3c40fe634603e802ced3d6a538531ef&scene=126&sessionid=1714291862&version=4.1.22.6014&platform=win#rd)
+  [[<span style="color:red">上海市农业农村委员会</span>]](https://mp.weixin.qq.com/s/c0ZYy5foZY7FvrAEzVp6jQ)
   [[<span style="color:red">海南省工业与信息化厅</span>]](https://mp.weixin.qq.com/s/yt2MvfzgWqB2c0tXJT7aNA)
   [[<span style="color:red">海南省科学技术厅</span>]](https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q)
 * 公众号：
