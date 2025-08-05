@@ -23,6 +23,8 @@ SeedLLM is the first large language model (LLM) for the seed design. It aims to 
   [[<span style="color:red">上海市农业与农村委员会</span>]](https://mp.weixin.qq.com/s/c0ZYy5foZY7FvrAEzVp6jQ)
   [[<span style="color:red">海南省工业与信息化厅</span>]](https://mp.weixin.qq.com/s/yt2MvfzgWqB2c0tXJT7aNA)
   [[<span style="color:red">海南省科学技术厅</span>]](https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q)
+* 公众号：
+  [[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA)  
 * News: We are looking for enthusiastic postdocs, engineers, and students to join the research team.    
 
 ## 虚拟科学家 | Virtual Scientists  
