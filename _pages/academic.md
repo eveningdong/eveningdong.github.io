@@ -162,8 +162,9 @@ author_profile: true
 2025.04.25 [[<span style="color:purple">学习时报</span>]](https://mp.weixin.qq.com/s/8uVcvizFHwg7rsawRY340Q) 新一代智能终端：人工智能手机和电脑    
 2025.04.27 [[<span style="color:purple">解放日报</span>]](https://www.shobserver.com/journal/article/share?id=432040) 大模型按下育种“加速键”  
 2025.06.03 [[<span style="color:purple">海南科技</span>]](https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q) 全球首个专为水稻生物育种打造的大语言模型“丰登·水稻”向全球开放网站  
-2025.06.27 [[<span style="color:purple">上海科技</span>]](https://mp.weixin.qq.com/s/7ajCOdA_FMP1uppwvGhslA) 科学学上海论坛·2025科技创新智库国际研讨会成功举办｜浦江创新论坛  
 2025.07.02 [[<span style="color:purple">Nature</span>]](https://www.nature.com/articles/d41586-025-02028-5) AI ‘scientists’ joined these research teams: here’s what happened    
 2025.07.08 [[<span style="color:purple">科技日报</span>]](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-07/08/content_591168.htm?div=-1) AI“联合科学家”重塑科研协作方式  
 2025.07.30 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811) 科研团队开发出“AI科学家”助力种业创新  
 2025.07.31 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463) 助力五谷丰登，这位种业“AI科学家”在沪诞生    
+2025.08.12 [[<span style="color:purple">上海科技</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 人工智能实验室联合开发：AI“丰登”变身作物育种科学家  
+

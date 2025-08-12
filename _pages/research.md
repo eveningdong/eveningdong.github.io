@@ -55,6 +55,7 @@ GeneScientist is the first autonomous scientific discovery system for seed scien
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811)
   [[<span style="color:purple">中国新闻网</span>]](https://www.chinanews.com.cn/sh/2025/07-30/10456410.shtml)
 * 政府转载：
+  [[<span style="color:purple">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 
   [[<span style="color:red">海南省科学技术厅</span>]](https://mp.weixin.qq.com/s/7WRAnGmo45PXzrv-qPSyVA)
   [[<span style="color:red">海南省农业农村厅</span>]](https://mp.weixin.qq.com/s/EBqs6Y58KcPP8RxngfbX0g)
   [[<span style="color:red">海南省三亚市人民政府</span>]](https://mp.weixin.qq.com/s/QwgOiA0uEM8FyIXVdqclSw)
