@@ -16,7 +16,7 @@ SeedLLM is the first large language model (LLM) for the seed design. It aims to 
   [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html)
   [[<span style="color:purple">解放日报</span>]](https://www.jfdaily.com/sgh/detail?id=1308703)
   [[<span style="color:purple">海南日报</span>]](http://news.hndaily.cn/h5/html5/2024-04/29/content_58464_17366089.htm)
-* 政府转载： 
+* 政府宣传： 
   [[<span style="color:red">上海市人民政府</span>]](https://www.shanghai.gov.cn/nw4411/20240429/022c94ffe42b492e927e64ec1811c9a5.html)
   [[<span style="color:red">海南省人民政府</span>]](https://www.hainan.gov.cn/hainan/5309/202404/0433c6c5066441739106da66192a4f0c.shtml?ddtab=true)
   [[<span style="color:red">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s?__biz=MzA3Mzg1NzkxMQ==&mid=2650117046&idx=1&sn=619c0a9562691832306913f003001f5e&chksm=86c76035802d65b156fc5ecb30e9e89c8386ea7eee66e3c40fe634603e802ced3d6a538531ef&scene=126&sessionid=1714291862&version=4.1.22.6014&platform=win#rd)
@@ -54,8 +54,8 @@ GeneScientist is the first autonomous scientific discovery system for seed scien
   [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463)
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811)
   [[<span style="color:purple">中国新闻网</span>]](https://www.chinanews.com.cn/sh/2025/07-30/10456410.shtml)
-* 政府转载：
-  [[<span style="color:purple">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 
+* 政府宣传：
+  [[<span style="color:red">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 
   [[<span style="color:red">海南省科学技术厅</span>]](https://mp.weixin.qq.com/s/7WRAnGmo45PXzrv-qPSyVA)
   [[<span style="color:red">海南省农业农村厅</span>]](https://mp.weixin.qq.com/s/EBqs6Y58KcPP8RxngfbX0g)
   [[<span style="color:red">海南省三亚市人民政府</span>]](https://mp.weixin.qq.com/s/QwgOiA0uEM8FyIXVdqclSw)
