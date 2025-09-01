@@ -167,5 +167,6 @@ author_profile: true
 2025.07.30 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811) 科研团队开发出“AI科学家”助力种业创新  
 2025.07.31 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463) 助力五谷丰登，这位种业“AI科学家”在沪诞生    
 2025.08.12 [[<span style="color:purple">上海科技</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 人工智能实验室联合开发：AI“丰登”变身作物育种科学家  
-2025.08.25 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050072696-500007051340) “AI科学家”，推动科研范式深刻变革      
+2025.08.25 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050072696-500007051340) “AI科学家”，推动科研范式深刻变革   
+2025.09.01 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/3of5Ps1OZ6psCkrfK-ipJA) 从国内首位“AI作物科学家”问世，看人工智能赋能种业创新的“上海智慧”    
 
