@@ -131,7 +131,11 @@ The research topics are listed in alphabetical order.
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2018. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_61)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/1807.03434.pdf)[[<span style="color:purple">Data</span>]](https://github.com/eveningdong/Cardiothoracic-Ratio-Estimation_dataset)  
 
 
-### AI for Science
+### AI for Science  
+* **Biology-Instructions: A Dataset and Benchmark for Multi-Omics Sequence Understanding Capability of Large Language Models**  
+  Haonan He#, Yuchen Ren#‡, Yining Tang#, Ziyang Xu#, Junxian Li, Minghao Yang, Di Zhang, Yuan Dong, Tao Chen, Shufei Zhang, Yuqiang Li, **Nanqing Dong**, Wanli Ouyang, Dongzhan Zhou, Peng Ye†.
+  Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025.  
+
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**  
   Haoyang Su#, Renqi Chen#, Shixiang Tang†, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, **Nanqing Dong†‡**.  
   Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-long.1368/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/Virtual-Scientists)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/6qhshDFds3AFT97rdYJkRg)[[<span style="color:blue">新智元</span>]](https://mp.weixin.qq.com/s/KCZKBVi0iy-035_NlHWIeg)      
