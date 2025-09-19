@@ -109,7 +109,7 @@ The research topics are listed in alphabetical order.
   Dingning Liu#，Jinzhe Li#，Haoyang Su#，Bei Cui†, Zhihui Wang, Qingbo Yuan, Wanli Ouyang, **Nanqing Dong†**   
   AAAI Conference on Artificial Intelligence (AAAI), 2025.  [[<span style="color:blue">Link</span>]](https://ojs.aaai.org/index.php/AAAI/article/view/35040)    
 
-### AI for Medicine    
+### AI for Medicine
 * **Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**  
   **Nanqing Dong†**, Michael Kampffmeyer, Irina Voiculescu.  
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_7)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2106.10070)    
@@ -132,6 +132,14 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
+* **Context-Conditioned Autoregression: A Hybrid Framework for Autoregressive De Novo Sequencing**  
+  Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, ZhiQiang Gao, **Nanqing Dong**, Siqi Sun†   
+  Annual Conference on Neural Information Processing Systems (NeuIPS), 2025.  
+
+* **PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**  
+  Xinzhe Zheng#, Hao Du#, Fanding Xu#, Jinzhe Li#, Zhiyuan Liu†, Wenkang Wang, Tao Chen, Wanli Ouyang, Stan Z. Li, Yan Lu†, **Nanqing Dong†**, Yang Zhang†  
+  Annual Conference on Neural Information Processing Systems (NeuIPS), 2025.  
+
 * **Biology-Instructions: A Dataset and Benchmark for Multi-Omics Sequence Understanding Capability of Large Language Models**  
   Haonan He#, Yuchen Ren#‡, Yining Tang#, Ziyang Xu#, Junxian Li, Minghao Yang, Di Zhang, Yuan Dong, Tao Chen, Shufei Zhang, Yuqiang Li, **Nanqing Dong**, Wanli Ouyang, Dongzhan Zhou, Peng Ye†.
   Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings, 2025.  
@@ -204,7 +212,7 @@ The research topics are listed in alphabetical order.
 ### Natural Language Processing  
 * **ROGRAG: A Robustly Optimized GraphRAG Framework**  
   Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-demo.58/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
+  Annual Meeting of the Association for Computational Linguistics (ACL) System Demonstrations, 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-demo.58/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     
 
 
 [//]: # (* **Computationally-Efficient Vision Transformer for Medical Image Semantic Segmentation via Dual Pseudo-Label Supervision**  )
