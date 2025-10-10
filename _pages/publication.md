@@ -132,8 +132,8 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
-* **Context-Conditioned Autoregression: A Hybrid Framework for Autoregressive De Novo Sequencing**  
-  Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, ZhiQiang Gao, **Nanqing Dong**, Siqi Sun†   
+* **Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing**  
+  Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun†   
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2025.  
 
 * **PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**  
