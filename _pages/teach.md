@@ -28,15 +28,25 @@ author_profile: true
   + **Teaching Assistant**, Department of Statistical Science  
     - STSCI 5060: Database Management and High Performance Computing, Fall 2016  
 
-## Current and Past PhD Students
-  + **复旦大学 Fudan University**
-    - **Zhefan Wang**, 2024 - Present   
-    - **Jinzhe Li**, 2024 - Present  
-  
+[//]: # (## Current and Past PhD Students)
 
-  + **中国科学技术大学 University of Science and Technology of China**    
-    - **Zhonghang Yuan**, 2024 - Present
+[//]: # (  + **复旦大学 Fudan University**)
 
+[//]: # (    - **Zhefan Wang**, 2024 - Present   )
 
-  + **北京航空航天大学 Beihang University**  
-    - **Jie Ying**, 2024 - Present    
+[//]: # (    - **Jinzhe Li**, 2024 - Present  )
+
+[//]: # (  )
+[//]: # ()
+[//]: # (  + **中国科学技术大学 University of Science and Technology of China**    )
+
+[//]: # (    - **Zhonghang Yuan**, 2024 - Present)
+
+[//]: # ()
+[//]: # ()
+[//]: # (  + **北京航空航天大学 Beihang University**  )
+
+[//]: # (    - **Jie Ying**, 2024 - Present    )
+
+## Past Students  
+* Haoyang Su, PhD Student, University of Adelaide  
