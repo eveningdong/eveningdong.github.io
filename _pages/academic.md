@@ -121,6 +121,7 @@ author_profile: true
   + Neural Computing and Applications  
   + Neural Networks  
   + Pattern Recognition  
+  + Science Bulletin  
 
 
 * **Student Ambassador**  
