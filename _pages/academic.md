@@ -104,8 +104,7 @@ author_profile: true
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
   + Expert Systems with Applications  
-  + Future Generation Computer Systems (FGCS)   
-  + IEEE Access  
+  + Future Generation Computer Systems (FGCS)  
   + IEEE Internet of Things Journal (IoT)  
   + IEEE Journal of Biomedical and Health Informatics (JBHI)  
   + IEEE Transactions on Artificial Intelligence (TAI)  
@@ -117,10 +116,10 @@ author_profile: true
   + Information Fusion  
   + International Journal of Computer Vision (IJCV)  
   + Medical Image Analysis (MedIA)  
-  + Nature Communications  
-  + Neural Computing and Applications  
+  + Nature Communications
   + Neural Networks  
   + Pattern Recognition  
+  + Plant Communications  
   + Science Bulletin  
 
 
