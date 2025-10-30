@@ -170,4 +170,5 @@ author_profile: true
 2025.08.25 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050072696-500007051340) “AI科学家”，推动科研范式深刻变革   
 2025.09.01 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/3of5Ps1OZ6psCkrfK-ipJA) 从国内首位“AI作物科学家”问世，看人工智能赋能种业创新的“上海智慧”    
 2025.10.04 [[<span style="color:purple">科技日报</span>]](https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1) “十四五”硬核成果丨全球首个！“AI科学家”上线，让中国饭碗端得更稳      
+2025.10.26 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050600123-500007165017) AI育种，迎来“基因科学家”     
 

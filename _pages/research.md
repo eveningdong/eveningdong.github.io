@@ -51,7 +51,7 @@ GeneScientist is the first autonomous scientific discovery system for seed scien
 <a><img src="https://eveningdong.github.io/images/genescientist.png" alt="drawing" width="400px"/></a>  
 * Role: **Co-Project Lead** with Dr. Fan Yang   
 * 新闻报道： 
-  [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463)
+  [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050600123-500007165017)
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811)
   [[<span style="color:purple">中国新闻网</span>]](https://www.chinanews.com.cn/sh/2025/07-30/10456410.shtml) 
   [[<span style="color:purple">科技日报</span>]](https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1)  
