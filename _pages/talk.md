@@ -27,7 +27,8 @@ author_profile: true
   + 20250606 中国科学院分子植物科学卓越创新中心  
   + 20250701 湖南大学  
   + 20250717 中国农业科学院作物科学研究所  
-  + 20250717 中国农业大学
+  + 20250717 中国农业大学  
+  + 20251029 中国科学院植物研究所  
 
 * **基于人工智能的农业科学**  
   + 20231216 兰州大学  
@@ -98,7 +99,13 @@ author_profile: true
   主办单位：上海市人工智能行业协会  
   [[<span style="color:purple">财联社·报道</span>]](https://www.cls.cn/detail/1950965)  
 
+* **大模型重塑生物育种科研范式**    
+  第八届中国国际进口博览会  
+  主办单位：商务部、 上海市人民政府  
+   <a><img src="https://eveningdong.github.io/images/ciie.jpg" alt="drawing" style="height:100px;"/></a>     
+
 
 ## Lecture  
 * **AI for Science: 人工智能驱动的科学研究**  
   + 20250413 上海青年管理干部学院  
+  
