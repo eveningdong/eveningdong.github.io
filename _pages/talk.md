@@ -103,7 +103,7 @@ author_profile: true
   第八届中国国际进口博览会  
   主办单位：商务部、 上海市人民政府  
    <a><img src="https://eveningdong.github.io/images/ciie.jpg" alt="drawing" style="height:100px;"/></a>     
-
+  [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12814206?docid=12814206&newstype=1001&d=13501e3&channel=weixinp&time=1762528042843)  
 
 ## Lecture  
 * **AI for Science: 人工智能驱动的科学研究**  
