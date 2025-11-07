@@ -49,7 +49,11 @@ The research topics are listed in alphabetical order.
   Applied Soft Computing, 2021. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S1568494621009789)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2011.14164.pdf)
 
 
-### AI for Science   
+### AI for Science      
+* **A Mycelium Dataset with Edge-Precise Annotation for Semantic Segmentation**  
+  Qianguang Yuan, Weizhen Liu†, Yunfei Liu, Pin Li, Yuxuan Liu, Xiaohui Yuan, **Nanqing Dong**, Shengwu Xiong†, Yongping Fu†.  
+  Scientific Data, 2025.    
+
 * **SeedLLM·Rice: A Large Language Model Integrated with Rice Biological Knowledge Graph**  
   Fan Yang#†, Huanjun Kong, Jie Ying, Zihong Chen, Tao Luo, Wanli Jiang, Zhonghang Yuan, Zhefan Wang, Zhaona Ma, Shikuan Wang, Wanfeng Ma, Xiaoyi Wang, Xiaoying Li, Zhengyin Hu, Xiaodong Ma, Minguo Liu, Xiqing Wang†, Fan Chen, **Nanqing Dong#†**.  
   Molecular Plant, 2025. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/abs/pii/S1674205225001728)[[<span style="color:blue">MPlant植物科学</span>]](https://mp.weixin.qq.com/s/-UEGrj5iYANH-p2WOiiPuA) [<span style="color:red">2024 IF 24.1</span>]  
