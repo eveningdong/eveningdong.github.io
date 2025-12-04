@@ -47,16 +47,18 @@ Virtual Scientists (VirSci) is the first LLM-based multi-agent system for **Scie
 * News: We are looking for enthusiastic students to join the research team.     
 
 ## 丰登·基因科学家 | GeneScientist  
-GeneScientist is the first autonomous scientific discovery system for seed science. Powered by SeedLLM, GeneScientist can discover unknown crop gene functions as a virtual molecular biologist.  
+GeneScientist is the first research agent for seed science. Powered by SeedLLM, GeneScientist can discover unknown crop gene functions as a virtual molecular biologist.  
 <a><img src="https://eveningdong.github.io/images/genescientist.png" alt="drawing" width="400px"/></a>  
 * Role: **Co-Project Lead** with Dr. Fan Yang   
 * 新闻报道： 
   [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050600123-500007165017)
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811)
   [[<span style="color:purple">中国新闻网</span>]](https://www.chinanews.com.cn/sh/2025/07-30/10456410.shtml) 
-  [[<span style="color:purple">科技日报</span>]](https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1)  
+  [[<span style="color:purple">科技日报</span>]](https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1)
+  [[<span style="color:purple">解放日报</span>]](https://www.shobserver.com/journal/article/share?id=478232)    
 * 政府宣传：
-  [[<span style="color:red">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 
+  [[<span style="color:red">上海市经济和信息化委员会</span>]](https://mp.weixin.qq.com/s/WpToBhx_uCoGCK0QqCnbAQ)
+  [[<span style="color:red">上海市科学技术委员会</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA)
   [[<span style="color:red">上海市农业农村委员会</span>]](https://mp.weixin.qq.com/s/3of5Ps1OZ6psCkrfK-ipJA) 
   [[<span style="color:red">海南省科学技术厅</span>]](https://mp.weixin.qq.com/s/7WRAnGmo45PXzrv-qPSyVA)
   [[<span style="color:red">海南省农业农村厅</span>]](https://mp.weixin.qq.com/s/EBqs6Y58KcPP8RxngfbX0g)

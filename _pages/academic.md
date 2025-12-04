@@ -150,25 +150,47 @@ author_profile: true
 [//]: # (* **FLock PhD Scholarship**, FLock.io, 2022-2023)
 
 
-## News  
-2024.04.28 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin&time=1741607859985) 上海：种业大语言模型助力生物育种  
-2024.09.10 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin&time=1741607590707) 活到200岁、6G直通天地、在月球盖房子……青年创新讲坛畅聊前沿科技开展脑力激荡      
-2025.02.22 [[<span style="color:purple">财联社</span>]](https://www.cls.cn/detail/1950965) 上海人工智能实验室董楠卿：AI for Science助力破解育种难题   
-2025.03.08 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12438180?d=134fec4&channel=weixin&time=1741396251258) 瞭望丨上海基础研究“高产”探密   
-2025.03.11 [[<span style="color:purple">中国日报</span>]](https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html) 'Fengdeng' a friendly, intelligent tool for farmers  
-2025.03.24 [[<span style="color:purple">人民日报</span>]](https://paper.people.com.cn/rmrbhwb/pc/content/202503/24/content_30063763.html) 智慧育种开启种业创新新赛道    
-2025.03.31 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/Ux5qvgpcdNLusYAqVOYB2w) 从新技术、新产业到新赛道，上海先行谋划推进农业生产力“质态”变革  
-2025.04.24 [[<span style="color:purple">中国计算机学会</span>]](https://mp.weixin.qq.com/s/tuegcoQ-Lafthwrj1DvF6Q) AGI for Science：人机协同下的自主科学发现  
-2025.04.25 [[<span style="color:purple">学习时报</span>]](https://mp.weixin.qq.com/s/8uVcvizFHwg7rsawRY340Q) 新一代智能终端：人工智能手机和电脑    
-2025.04.27 [[<span style="color:purple">解放日报</span>]](https://www.shobserver.com/journal/article/share?id=432040) 大模型按下育种“加速键”  
-2025.06.03 [[<span style="color:purple">海南科技</span>]](https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q) 全球首个专为水稻生物育种打造的大语言模型“丰登·水稻”向全球开放网站  
-2025.07.02 [[<span style="color:purple">Nature</span>]](https://www.nature.com/articles/d41586-025-02028-5) AI ‘scientists’ joined these research teams: here’s what happened    
-2025.07.08 [[<span style="color:purple">科技日报</span>]](https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-07/08/content_591168.htm?div=-1) AI“联合科学家”重塑科研协作方式  
-2025.07.30 [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811) 科研团队开发出“AI科学家”助力种业创新  
-2025.07.31 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30049830664-500006407463) 助力五谷丰登，这位种业“AI科学家”在沪诞生    
-2025.08.12 [[<span style="color:purple">上海科技</span>]](https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA) 人工智能实验室联合开发：AI“丰登”变身作物育种科学家  
-2025.08.25 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050072696-500007051340) “AI科学家”，推动科研范式深刻变革   
-2025.09.01 [[<span style="color:purple">上海三农</span>]](https://mp.weixin.qq.com/s/3of5Ps1OZ6psCkrfK-ipJA) 从国内首位“AI作物科学家”问世，看人工智能赋能种业创新的“上海智慧”    
-2025.10.04 [[<span style="color:purple">科技日报</span>]](https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1) “十四五”硬核成果丨全球首个！“AI科学家”上线，让中国饭碗端得更稳      
-2025.10.26 [[<span style="color:purple">人民日报</span>]](https://www.peopleapp.com/column/30050600123-500007165017) AI育种，迎来“基因科学家”     
+[//]: # (## News  )
+
+[//]: # (2024.04.28 [[<span style="color:purple">新华社</span>]]&#40;https://h.xinhuaxmt.com/vh512/share/11991643?d=134d82c&channel=weixin&time=1741607859985&#41; 上海：种业大语言模型助力生物育种    )
+
+[//]: # (2024.09.10 [[<span style="color:purple">新华社</span>]]&#40;https://h.xinhuaxmt.com/vh512/share/12182960?d=134da0e&channel=weixin&time=1741607590707&#41; 活到200岁、6G直通天地、在月球盖房子……青年创新讲坛畅聊前沿科技开展脑力激荡  )
+
+[//]: # (2025.02.22 [[<span style="color:purple">财联社</span>]]&#40;https://www.cls.cn/detail/1950965&#41; 上海人工智能实验室董楠卿：AI for Science助力破解育种难题   )
+
+[//]: # (2025.03.08 [[<span style="color:purple">新华社</span>]]&#40;https://h.xinhuaxmt.com/vh512/share/12438180?d=134fec4&channel=weixin&time=1741396251258&#41; 瞭望丨上海基础研究“高产”探密   )
+
+[//]: # (2025.03.11 [[<span style="color:purple">中国日报</span>]]&#40;https://www.chinadaily.com.cn/a/202503/11/WS67cf8bdfa310c240449d9ffd.html&#41; 'Fengdeng' a friendly, intelligent tool for farmers  )
+
+[//]: # (2025.03.24 [[<span style="color:purple">人民日报</span>]]&#40;https://paper.people.com.cn/rmrbhwb/pc/content/202503/24/content_30063763.html&#41; 智慧育种开启种业创新新赛道    )
+
+[//]: # (2025.03.31 [[<span style="color:purple">上海三农</span>]]&#40;https://mp.weixin.qq.com/s/Ux5qvgpcdNLusYAqVOYB2w&#41; 从新技术、新产业到新赛道，上海先行谋划推进农业生产力“质态”变革  )
+
+[//]: # (2025.04.24 [[<span style="color:purple">中国计算机学会</span>]]&#40;https://mp.weixin.qq.com/s/tuegcoQ-Lafthwrj1DvF6Q&#41; AGI for Science：人机协同下的自主科学发现  )
+
+[//]: # (2025.04.25 [[<span style="color:purple">学习时报</span>]]&#40;https://mp.weixin.qq.com/s/8uVcvizFHwg7rsawRY340Q&#41; 新一代智能终端：人工智能手机和电脑    )
+
+[//]: # (2025.04.27 [[<span style="color:purple">解放日报</span>]]&#40;https://www.shobserver.com/journal/article/share?id=432040&#41; 大模型按下育种“加速键”  )
+
+[//]: # (2025.06.03 [[<span style="color:purple">海南科技</span>]]&#40;https://mp.weixin.qq.com/s/gwahynEnC7RVPjnK_gsI7Q&#41; 全球首个专为水稻生物育种打造的大语言模型“丰登·水稻”向全球开放网站  )
+
+[//]: # (2025.07.02 [[<span style="color:purple">Nature</span>]]&#40;https://www.nature.com/articles/d41586-025-02028-5&#41; AI ‘scientists’ joined these research teams: here’s what happened    )
+
+[//]: # (2025.07.08 [[<span style="color:purple">科技日报</span>]]&#40;https://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/html/2025-07/08/content_591168.htm?div=-1&#41; AI“联合科学家”重塑科研协作方式  )
+
+[//]: # (2025.07.30 [[<span style="color:purple">新华社</span>]]&#40;https://h.xinhuaxmt.com/vh512/share/12668004?docid=12668004&newstype=1001&d=135006a&channel=weixin&time=1753891279811&#41; 科研团队开发出“AI科学家”助力种业创新  )
+
+[//]: # (2025.07.31 [[<span style="color:purple">人民日报</span>]]&#40;https://www.peopleapp.com/column/30049830664-500006407463&#41; 助力五谷丰登，这位种业“AI科学家”在沪诞生    )
+
+[//]: # (2025.08.12 [[<span style="color:purple">上海科技</span>]]&#40;https://mp.weixin.qq.com/s/8Ssue6QPc-CGZ1zPD3HhRA&#41; 人工智能实验室联合开发：AI“丰登”变身作物育种科学家  )
+
+[//]: # (2025.08.25 [[<span style="color:purple">人民日报</span>]]&#40;https://www.peopleapp.com/column/30050072696-500007051340&#41; “AI科学家”，推动科研范式深刻变革   )
+
+[//]: # (2025.09.01 [[<span style="color:purple">上海三农</span>]]&#40;https://mp.weixin.qq.com/s/3of5Ps1OZ6psCkrfK-ipJA&#41; 从国内首位“AI作物科学家”问世，看人工智能赋能种业创新的“上海智慧”    )
+
+[//]: # (2025.10.04 [[<span style="color:purple">科技日报</span>]]&#40;https://mp.weixin.qq.com/s/SDkOU74Yprhq5CRAYhLNug?scene=1&click_id=1&#41; “十四五”硬核成果丨全球首个！“AI科学家”上线，让中国饭碗端得更稳      )
+
+[//]: # (2025.10.26 [[<span style="color:purple">人民日报</span>]]&#40;https://www.peopleapp.com/column/30050600123-500007165017&#41; AI育种，迎来“基因科学家”      )
+
+[//]: # (2025.12.02 [[<span style="color:purple">解放日报</span>]]&#40;https://www.shobserver.com/journal/article/share?id=478232&#41; “AI基因科学家”明年全球上线  )
 
