@@ -138,22 +138,10 @@ author_profile: true
   + 中国人工智能学会智能农业专委会 委员   
 
 
-## Awards and Honors
+[//]: # (## Awards and Honors)
 [//]: # (* **Department of Computer Science Scholarship**, 2019 - 2022    )
 [//]: # (  University of Oxford)
-* **第十七届浦江创新论坛·青年先锋**
-
-
-
-
-
-
-
-
-
-
-
-
+[//]: # (* **第十七届浦江创新论坛·青年先锋**)
 
 [//]: # (  主办单位：科学技术部和上海市人民政府     )
 
