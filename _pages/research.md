@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## 丰登种业大模型 | SeedLLM
+## 丰登·种业大模型 | SeedLLM
 SeedLLM is the first large language model (LLM) for the seed design. It aims to promote technological progress of seed design with AI.  
 <a><img src="https://eveningdong.github.io/images/fengdeng.jpg" alt="drawing" width="400px"/></a>  
 * Role: **Co-Project Lead** with Dr. Fan Yang  
