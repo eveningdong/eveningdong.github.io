@@ -7,7 +7,10 @@ author_profile: true
 
 ## Academic Forums
 * **LLM for Science：大模型驱动科学发现的新范式**  
-  + 20250522 中国计算机学会  
+  + 20250522 中国计算机学会   
+
+* **AI科学家：大模型驱动的科研范式变革**  
+  + 20251209 中国植物生理与植物分子生物学学会      
 
 
 ## Academic Talks
