@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Nanqing Dong 董楠卿"
+title                    : "Nanqing Dong"
 title_separator          : "-"
-name                     : "董楠卿"
+name                     :
 description              : "Scientist"
 url                      : https://eveningdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nanqing Dong 董楠卿"
+  name             : "Nanqing Dong"
   avatar           : "profile_la.png"
   bio              : "Artist · Author · Scientist"
-  location         : "Shanghai, China"
+  location         :
   employer         : # "Shanghai Artificial Intelligence Laboratory"&
   googlescholar    : "https://scholar.google.com/citations?user=0DX2YsQAAAAJ&hl=en&oi=ao"
-  email            : "dongnanqing@pjlab.org.cn"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
