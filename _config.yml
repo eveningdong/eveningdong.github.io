@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Nanqing Dong"
 title_separator          : "-"
 name                     :
-description              : "Scientist"
+description              : "Artist|Engineer|Scientist"
 url                      : https://eveningdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eveningdong/eveningdong.github.io"
