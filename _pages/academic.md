@@ -83,7 +83,7 @@ author_profile: true
 
 ## Academic Service  
 * **Organizer**  
-  * 中国计算机学会青年精英大会（CCF YEF）AI for Science观点论坛 共同主席  
+  * 中国计算机学会青年精英大会（CCF YEF）AI for Science观点论坛 共同主席
 
 * **Conference Reviewer**  
   + AAAI Conference on Artificial Intelligence    
@@ -100,6 +100,8 @@ author_profile: true
   + MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention  
   + NIPS: Annual Conference on Neural Information Processing Systems
 
+* **Journal Editor**  
+  + Frontiers in Systems Biology  
 
 * **Journal Reviewer**  
   + Artificial Intelligence in Medicine
