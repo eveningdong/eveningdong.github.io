@@ -50,6 +50,11 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science         
+* **Artificial Intelligence Revolutionizes Cellular Metabolic Pathway Reconstruction**   
+  Jiangbin Zheng#, Xinyan Xu#, Qirong Yang4, **Nanqing Dong†**, Stan Z. Li†.  
+  Trends in Biochemical Sciences, 2026. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S2643651526000014)   
+
+
 * **Revealing Hierarchical Structure of Leaf Venations via Diffusion-Refined Label-Efficient Segmentation: Dataset and Method**    
   Weizhen Liu†, Guangyu Lan, Zhiwen Xing, Jiayu Tan, Jiale Liu, Qingzhong Liu, Dongzi Zhu, Xiaohui Yuan†, **Nanqing Dong†**.   
   Plant Phenomics, 2026. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S2643651526000014)  
