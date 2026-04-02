@@ -51,8 +51,8 @@ The research topics are listed in alphabetical order.
 
 ### AI for Science         
 * **Artificial Intelligence Revolutionizes Cellular Metabolic Pathway Reconstruction**   
-  Jiangbin Zheng#, Xinyan Xu#, Qirong Yang4, **Nanqing Dong†**, Stan Z. Li†.  
-  Trends in Biochemical Sciences, 2026. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S2643651526000014)   
+  Jiangbin Zheng#, Xinyan Xu#, Qirong Yang, **Nanqing Dong†**, Stan Z. Li†.  
+  Trends in Biochemical Sciences, 2026. [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S2643651526000014)[[<span style="color:purple">DrugAI</span>]](https://mp.weixin.qq.com/s/Rrfc_M3aJr383BJsbMXz_A) [[<span style="color:purple">ScienceAI</span>]](https://mp.weixin.qq.com/s/-KyPm2LF67Xrb9z0_sXi6A)    
 
 
 * **Revealing Hierarchical Structure of Leaf Venations via Diffusion-Refined Label-Efficient Segmentation: Dataset and Method**    
