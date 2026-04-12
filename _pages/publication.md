@@ -222,7 +222,11 @@ The research topics are listed in alphabetical order.
   European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)
 
 
-### Natural Language Processing  
+### Natural Language Processing   
+* **Knowledge-to-Verification: Exploring RLVR for LLMs in Knowledge-Intensive Domains**  
+  Zhonghang Yuan#, Zhefan Wang#, Fang Hu#, Zihong Chen, Jinzhe Li, Gang Li, Jie Ying, Huanjun Kong, Songyang Zhang, **Nanqing Dong†**.    
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2026.  
+
 * **ROGRAG: A Robustly Optimized GraphRAG Framework**  
   Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
   Annual Meeting of the Association for Computational Linguistics (ACL) System Demonstrations, 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-demo.58/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2410.09403)[[<span style="color:purple">GitHub</span>]](https://github.com/tpoisonooo/ROGRAG)     

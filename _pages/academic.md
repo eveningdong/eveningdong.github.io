@@ -118,6 +118,7 @@ author_profile: true
   + Information Fusion  
   + International Journal of Computer Vision (IJCV)  
   + Medical Image Analysis (MedIA)  
+  + Molecular Plant  
   + Nature Communications
   + Neural Networks  
   + Pattern Recognition  
