@@ -149,6 +149,10 @@ The research topics are listed in alphabetical order.
   Dongxin Ye#, Fang Hu#, Han Hu#, Shu Hu, Yang Tan, Wanli Ouyang, Stan Z. Li, Jie Cui, **Nanqing Dong†**  
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
 
+* **MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models**  
+  Xiaoyun Yu#, Li Fan#, Xiangfei Qiu, **Nanqing Dong**, Yonggui Huang, Honggang Qi, Geguang Pu, Wanli Ouyang, Xi Chen†, Jilin Hu†  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
+
 * **Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun†   
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2025.  
@@ -170,11 +174,11 @@ The research topics are listed in alphabetical order.
   Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[<span style="color:blue">Link</span>]](https://aclanthology.org/2025.acl-long.1516/)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/abs/2505.13220)[[<span style="color:purple">GitHub</span>]](https://github.com/open-sciencelab/SeedBench)[[<span style="color:blue">ScienceAI</span>]](https://mp.weixin.qq.com/s/uy3bgotXEtb2FDT25HvQNQ)     
 
 * **Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing**  
-  Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun.      
+  Xiang Zhang, Jiaqi Wei, Sheng Xu, Zijie Qiu, **Nanqing Dong**, Zhiqiang Gao, Siqi Sun†.      
   International Conference on Machine Learning (ICML), 2025.   
 
 * **Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing**  
-  Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun.     
+  Zijie Qiu, Jiaqi Wei, Xiang Zhang, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun†.     
   International Conference on Machine Learning (ICML), 2025.
 
 * **Empowering and Assessing the Utility of Large Language Models in Crop Science**      
