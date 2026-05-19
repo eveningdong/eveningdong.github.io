@@ -145,6 +145,10 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
+* **ViroBench： Benchmarking Nucleotide Foundation Models on Viral Genomics Tasks**      
+  Dongxin Ye#, Fang Hu#, Han Hu#, Shu Hu, Yang Tan, Wanli Ouyang, Stan Z. Li, Jie Cui, **Nanqing Dong†**  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
+
 * **Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun†   
   Annual Conference on Neural Information Processing Systems (NeuIPS), 2025.  
