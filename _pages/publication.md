@@ -145,7 +145,7 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
-* **ViroBench： Benchmarking Nucleotide Foundation Models on Viral Genomics Tasks**      
+* **ViroBench: Benchmarking Nucleotide Foundation Models on Viral Genomics Tasks**      
   Dongxin Ye#, Fang Hu#, Han Hu#, Shu Hu, Yang Tan, Wanli Ouyang, Stan Z. Li, Jie Cui, **Nanqing Dong†**  
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
 
@@ -205,13 +205,7 @@ The research topics are listed in alphabetical order.
   Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
   AAAI Conference on Artificial Intelligence (AAAI), 2024.  [[<span style="color:blue">Link</span>]](https://ojs.aaai.org/index.php/AAAI/article/view/27765)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2312.11584.pdf)   
 
-
-### Computer Vision
-* **Few-Shot Semantic Segmentation with Prototype Learning**  
-  **Nanqing Dong†**, Eric Xing.  
-  British Machine Vision Conference (BMVC), 2018. [[<span style="color:blue">Link</span>]](http://bmvc2018.org/contents/papers/0255.pdf)
-
-
+  
 ### Machine Learning   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong†**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh†.  
@@ -227,7 +221,11 @@ The research topics are listed in alphabetical order.
 
 * **Domain Adaption in One-Shot Learning**  
   **Nanqing Dong†**, Eric Xing.  
-  European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)
+  European Conference on Machine Learning (ECML), 2018. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)[[<span style="color:blue">RG</span>]](https://www.researchgate.net/publication/330462398_Domain_Adaption_in_One-Shot_Learning)  
+
+* **Few-Shot Semantic Segmentation with Prototype Learning**  
+  **Nanqing Dong†**, Eric Xing.  
+  British Machine Vision Conference (BMVC), 2018. [[<span style="color:blue">Link</span>]](http://bmvc2018.org/contents/papers/0255.pdf)
 
 
 ### Natural Language Processing   
