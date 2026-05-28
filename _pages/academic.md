@@ -101,6 +101,7 @@ author_profile: true
   + NIPS: Annual Conference on Neural Information Processing Systems
 
 * **Journal Editor**  
+  + Frontiers in Plant Science  
   + Frontiers in Systems Biology  
 
 * **Journal Reviewer**  
