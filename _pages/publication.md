@@ -150,7 +150,7 @@ The research topics are listed in alphabetical order.
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
 
 * **MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models**  
-  Xiaoyun Yu#, Li Fan#, Xiangfei Qiu, **Nanqing Dong**, Yonggui Huang, Honggang Qi, Geguang Pu, Wanli Ouyang, Xi Chen†, Jilin Hu†  
+  Xiaoyun Yu#, Li Fan#, Xiangfei Qiu#, **Nanqing Dong**, Yonggui Huang, Honggang Qi, Geguang Pu, Wanli Ouyang, Xi Chen†, Jilin Hu†  
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
 
 * **Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing**  
