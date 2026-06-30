@@ -32,6 +32,10 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Medicine    
+* **Dynamic Gaussian Splatting with Efficient Depth Optimization and Regularization for Sparse-View Endoscopic Scene Reconstruction**  
+  Hengjia Hu#, **Nanqing Dong#**, Mounir Kaaniche, Congcong Wang†, Wanli Ouyang, Shengyong Chen.  
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.  
+
 * **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
   **Nanqing Dong†**, Michael Kampffmeyer†, Haoyang Su, Eric Xing.  
   Applied Soft Computing, 2024.  [[<span style="color:blue">Link</span>]](https://www.sciencedirect.com/science/article/pii/S156849462400629X)  
@@ -234,7 +238,7 @@ The research topics are listed in alphabetical order.
 ### Natural Language Processing   
 * **Knowledge-to-Verification: Exploring RLVR for LLMs in Knowledge-Intensive Domains**  
   Zhonghang Yuan#, Zhefan Wang#, Fang Hu#, Zihong Chen, Jinzhe Li, Gang Li, Jie Ying, Huanjun Kong, Songyang Zhang, **Nanqing Dong†**.    
-  Annual Meeting of the Association for Computational Linguistics (ACL), 2026.  
+  Annual Meeting of the Association for Computational Linguistics (ACL), 2026.  [[<span style="color:blue">Link</span>]](https://aclanthology.org/2026.acl-long.1891/)    
 
 * **ROGRAG: A Robustly Optimized GraphRAG Framework**  
   Zhefan Wang, Huanjun Kong, Jie Ying, Wanli Ouyang, **Nanqing Dong†**.  
