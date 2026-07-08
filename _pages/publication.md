@@ -56,7 +56,7 @@ The research topics are listed in alphabetical order.
 ### AI for Science         
 * **EssTFNet: Integration of Adaptive Time-Frequency and DNA Language Models for Interpretable Human Essential Gene Prediction**  
   Dongxin Ye, Shishi Yuan, Wei Su, Hongqi Zhang, Rui Li, Yechen Qi, Hao Lin†, **Nanqing Dong†**, Yanting Jin†.  
-  Briefings in Bioinformatics, 2026.    
+  Briefings in Bioinformatics, 2026. [[<span style="color:blue">Link</span>]](https://doi.org/10.1093/bib/bbag349)     
 
 * **Artificial Intelligence Revolutionizes Cellular Metabolic Pathway Reconstruction**   
   Jiangbin Zheng#, Xinyan Xu#, Qirong Yang, **Nanqing Dong†**, Stan Z. Li†.  
