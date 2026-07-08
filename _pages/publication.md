@@ -33,7 +33,7 @@ The research topics are listed in alphabetical order.
 
 ### AI for Medicine    
 * **Dynamic Gaussian Splatting with Efficient Depth Optimization and Regularization for Sparse-View Endoscopic Scene Reconstruction**  
-  Hengjia Hu#, **Nanqing Dong#**, Mounir Kaaniche, Congcong Wang†, Wanli Ouyang, Shengyong Chen.  
+  Hengjia Hu#, **Nanqing Dong#**, Mounir Kaaniche, Congcong Wang†, Wanli Ouyang, Shengyong Chen.  [[<span style="color:blue">Link</span>]](https://ieeexplore.ieee.org/document/11595667)      
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.  
 
 * **An Exploratory Study of Self-Supervised Pre-Training on Partially Supervised Multi-Label Classification on Chest X-Ray Images**   
