@@ -212,6 +212,15 @@ The research topics are listed in alphabetical order.
   Zhi Jin#, Sheng Xu#, Xiang Zhang#, Tianze Ling, **Nanqing Dong**, Wanli Ouyang†, Zhiqiang Gao†, Cheng Chang†, Siqi Sun†.  
   AAAI Conference on Artificial Intelligence (AAAI), 2024.  [[<span style="color:blue">Link</span>]](https://ojs.aaai.org/index.php/AAAI/article/view/27765)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2312.11584.pdf)   
 
+
+### Computer Vision     
+* **Segmentation with Explicit Uncertainty: Toward X-ray CT-Based Phenotyping of Living Soybean Seed Growth for Precision Breeding**   
+  Weizhen Liu, Chang Chi, Chang Liu, Shilin Chen, Yihao Fan, Jiayu Tan, Haoyang Su, Xiaohui Yuan, Weijuan Hu†, **Nanqing Dong†**.   
+  ACM International Conference on Multimedia (ACM MM), 2026.  
+
+* **Evidence Matters: Mycelium Boundary-Aware Segmentation via Evidential Adaptive Constraint and Guidance**  
+  Qianguang Yuan, Yunfei Liu, Chang Chi, Xiaohui Yuan, Bolong Zheng, Weizhen Liu†, **Nanqing Dong†**.  
+  ACM International Conference on Multimedia (ACM MM), 2026.
   
 ### Machine Learning   
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
