@@ -152,13 +152,13 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
+* **Segmentation with Explicit Uncertainty: Toward X-ray CT-Based Phenotyping of Living Soybean Seed Growth for Precision Breeding**   
+  Weizhen Liu, Chang Chi, Chang Liu, Shilin Chen, Yihao Fan, Jiayu Tan, Haoyang Su, Xiaohui Yuan, Weijuan Hu†, **Nanqing Dong†**.   
+  ACM International Conference on Multimedia (ACM MM), 2026.  
+
 * **ViroBench: Benchmarking Nucleotide Foundation Models on Viral Genomics Tasks**      
   Dongxin Ye#, Fang Hu#, Han Hu#, Shu Hu, Yang Tan, Wanli Ouyang, Stan Z. Li, Jie Cui, **Nanqing Dong†**  
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
-
-* **MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models**  
-  Xiaoyun Yu#, Li Fan#, Xiangfei Qiu#, **Nanqing Dong**, Yonggui Huang, Honggang Qi, Geguang Pu, Wanli Ouyang, Xi Chen†, Jilin Hu†  
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
 
 * **Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing**  
   Xiang Zhang, Jiaqi Wei, Zijie Qiu, Sheng Xu, Zhi Jin, Zhiqiang Gao, **Nanqing Dong**, Siqi Sun†   
@@ -214,15 +214,15 @@ The research topics are listed in alphabetical order.
 
 
 ### Computer Vision     
-* **Segmentation with Explicit Uncertainty: Toward X-ray CT-Based Phenotyping of Living Soybean Seed Growth for Precision Breeding**   
-  Weizhen Liu, Chang Chi, Chang Liu, Shilin Chen, Yihao Fan, Jiayu Tan, Haoyang Su, Xiaohui Yuan, Weijuan Hu†, **Nanqing Dong†**.   
-  ACM International Conference on Multimedia (ACM MM), 2026.  
-
 * **Evidence Matters: Mycelium Boundary-Aware Segmentation via Evidential Adaptive Constraint and Guidance**  
   Qianguang Yuan, Yunfei Liu, Chang Chi, Xiaohui Yuan, Bolong Zheng, Weizhen Liu†, **Nanqing Dong†**.  
   ACM International Conference on Multimedia (ACM MM), 2026.
   
 ### Machine Learning   
+* **MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models**  
+  Xiaoyun Yu#, Li Fan#, Xiangfei Qiu#, **Nanqing Dong**, Yonggui Huang, Honggang Qi, Geguang Pu, Wanli Ouyang, Xi Chen†, Jilin Hu†  
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.  
+
 * **Residual Contrastive Learning for Image Reconstruction: Learning Transferable Representations from Noisy Images**  
   **Nanqing Dong†**, Matteo Maggioni, Yongxin Yang, Eduardo Pérez-Pellitero, Ales Leonardis, Steven McDonagh†.  
   International Joint Conference on Artificial Intelligence (IJCAI), 2022. [<span style="color:red">Oral</span>][[<span style="color:blue">Link</span>]](https://www.ijcai.org/proceedings/2022/0406.pdf)[[<span style="color:blue">arXiv</span>]](https://arxiv.org/pdf/2206.15353.pdf)   
