@@ -104,7 +104,8 @@ author_profile: true
   + Frontiers in Plant Science  
   + Frontiers in Systems Biology  
 
-* **Journal Reviewer**  
+* **Journal Reviewer**    
+  + ACM Computing Surveys (CSUR)  
   + Artificial Intelligence in Medicine
   + Expert Systems with Applications  
   + Future Generation Computer Systems (FGCS)  

@@ -152,6 +152,10 @@ The research topics are listed in alphabetical order.
 
 
 ### AI for Science  
+* **MassNet: Billion-Scale AI-Ready Mass Spectral Corpus Empowering Scalable Deep Learning in Proteomics**  
+  Jun A#, Xiang Zhang#, Xiaofan Zhang#, Jiaqi Wei#, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yiwen Yu, Yi Chen, **Nanqing Dong**, Zhiqiang Gao†, Siqi Sun†, Tiannan Guo†.   
+  Nature Methods, 2026.  
+
 * **Segmentation with Explicit Uncertainty: Toward X-ray CT-Based Phenotyping of Living Soybean Seed Growth for Precision Breeding**   
   Weizhen Liu, Chang Chi, Chang Liu, Shilin Chen, Yihao Fan, Jiayu Tan, Haoyang Su, Xiaohui Yuan, Weijuan Hu†, **Nanqing Dong†**.   
   ACM International Conference on Multimedia (ACM MM), 2026.  
