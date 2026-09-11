@@ -118,6 +118,11 @@ author_profile: true
    <a><img src="https://eveningdong.github.io/images/ciie.jpg" alt="drawing" style="height:100px;"/></a>     
   [[<span style="color:purple">新华社</span>]](https://h.xinhuaxmt.com/vh512/share/12814206?docid=12814206&newstype=1001&d=13501e3&channel=weixinp&time=1762528042843)  
 
+* **迈向农业通用人工智能：从数据驱动到世界模型**  
+  第十九届浦江创新论坛  
+  主办单位：科学技术部、上海市人民政府  
+  <a><img src="https://eveningdong.github.io/images/pjforum.png" alt="drawing" style="height:100px;"/></a>   
+
 ## Lecture  
 * **AI for Science: 人工智能驱动的科学研究**  
   + 20250413 上海青年管理干部学院   
